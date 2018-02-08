@@ -1,0 +1,6206 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "The Adventures of Sherlock Holmes"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Sir Arthur Conan Doyle"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "chapter",
+            "contentflat": [
+                "Chapter 1: A Scandal in Bohemia"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "section",
+            "contentflat": [
+                "I."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To Sherlock Holmes she is always <i>the</i> woman."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have seldom heard him mention her under any other name."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In his eyes she eclipses and predominates the whole of her sex."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was not that he felt any emotion akin to love for Irene Adler."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He never spoke of the softer passions, save with a gibe and a sneer."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They were admirable things for the observer — excellent for drawing the veil from men’s motives and actions."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Grit in a sensitive instrument, or a crack in one of his own high-power lenses, would not be more disturbing than a strong emotion in a nature such as his."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And yet there was but one woman to him, and that woman was the late Irene Adler, of dubious and questionable memory."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I had seen little of Holmes lately."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My marriage had drifted us away from each other."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My own complete happiness, and the home-centred interests which rise up around the man who first finds himself master of his own establishment, were sufficient to absorb all my attention, while Holmes, who loathed every form of society with his whole Bohemian soul, remained in our lodgings in Baker Street, buried among his old books, and alternating from week to week between cocaine and ambition, the drowsiness of the drug, and the fierce energy of his own keen nature."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was still, as ever, deeply attracted by the study of crime, and occupied his immense faculties and extraordinary powers of observation in following out those clues, and clearing up those mysteries which had been abandoned as hopeless by the official police."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "From time to time I heard some vague account of his doings: of his summons to Odessa in the case of the Trepoff murder, of his clearing up of the singular tragedy of the Atkinson brothers at Trincomalee, and finally of the mission which he had accomplished so delicately and successfully for the reigning family of Holland."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Beyond these signs of his activity, however, which I merely shared with all the readers of the daily press, I knew little of my former friend and companion."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One night — it was on the twentieth of March, 1888 — I was returning from a journey to a patient (for I had now returned to civil practice), when my way led me through Baker Street."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As I passed the well-remembered door, which must always be associated in my mind with my wooing, and with the dark incidents of the Study in Scarlet, I was seized with a keen desire to see Holmes again, and to know how he was employing his extraordinary powers."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His rooms were brilliantly lit, and, even as I looked up, I saw his tall, spare figure pass twice in a dark silhouette against the blind."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was pacing the room swiftly, eagerly, with his head sunk upon his chest and his hands clasped behind him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To me, who knew his every mood and habit, his attitude and manner told their own story."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was at work again."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had risen out of his drug-created dreams and was hot upon the scent of some new problem."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I rang the bell and was shown up to the chamber which had formerly been in part my own."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His manner was not effusive."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seldom was; but he was glad, I think, to see me."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With hardly a word spoken, but with a kindly eye, he waved me to an armchair, threw across his case of cigars, and indicated a spirit case and a gasogene in the corner."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he stood before the fire and looked me over in his singular introspective fashion."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Wedlock suits you,” he remarked."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I think, Watson, that you have put on seven and a half pounds since I saw you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Seven!” I answered."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Indeed, I should have thought a little more."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Just a trifle more, I fancy, Watson."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And in practice again, I observe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You did not tell me that you intended to go into harness.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, how do you know?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I see it, I deduce it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "How do I know that you have been getting yourself very wet lately, and that you have a most clumsy and careless servant girl?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My dear Holmes,” said I, “this is too much."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You would certainly have been burned, had you lived a few centuries ago."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is true that I had a country walk on Thursday and came home in a dreadful mess, but as I have changed my clothes I can’t imagine how you deduce it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As to Mary Jane, she is incorrigible, and my wife has given her notice, but there, again, I fail to see how you work it out.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He chuckled to himself and rubbed his long, nervous hands together."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is simplicity itself,” said he; “my eyes tell me that on the inside of your left shoe, just where the firelight strikes it, the leather is scored by six almost parallel cuts."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Obviously they have been caused by someone who has very carelessly scraped round the edges of the sole in order to remove crusted mud from it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hence, you see, my double deduction that you had been out in vile weather, and that you had a particularly malignant boot-slitting specimen of the London slavey."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As to your practice, if a gentleman walks into my rooms smelling of iodoform, with a black mark of nitrate of silver upon his right forefinger, and a bulge on the right side of his top-hat to show where he has secreted his stethoscope, I must be dull, indeed, if I do not pronounce him to be an active member of the medical profession.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I could not help laughing at the ease with which he explained his process of deduction."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“When I hear you give your reasons,” I remarked, “the thing always appears to me to be so ridiculously simple that I could easily do it myself, though at each successive instance of your reasoning I am baffled until you explain your process."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And yet I believe that my eyes are as good as yours.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Quite so,” he answered, lighting a cigarette, and throwing himself down into an armchair."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You see, but you do not observe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The distinction is clear."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For example, you have frequently seen the steps which lead up from the hall to this room.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Frequently.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How often?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, some hundreds of times.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then how many are there?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How many? I don’t know.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Quite so!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You have not observed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And yet you have seen."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is just my point."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now, I know that there are seventeen steps, because I have both seen and observed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "By the way, since you are interested in these little problems, and since you are good enough to chronicle one or two of my trifling experiences, you may be interested in this.” He threw over a sheet of thick, pink-tinted notepaper which had been lying open upon the table."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It came by the last post,” said he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Read it aloud.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The note was undated, and without either signature or address."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There will call upon you to-night, at a quarter to eight o’clock,” it said, “a gentleman who desires to consult you upon a matter of the very deepest moment."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your recent services to one of the royal houses of Europe have shown that you are one who may safely be trusted with matters which are of an importance which can hardly be exaggerated."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This account of you we have from all quarters received."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Be in your chamber then at that hour, and do not take it amiss if your visitor wear a mask.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is indeed a mystery,” I remarked."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What do you imagine that it means?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I have no data yet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is a capital mistake to theorise before one has data."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Insensibly one begins to twist facts to suit theories, instead of theories to suit facts."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But the note itself."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What do you deduce from it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I carefully examined the writing, and the paper upon which it was written."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The man who wrote it was presumably well to do,” I remarked, endeavouring to imitate my companion’s processes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Such paper could not be bought under half a crown a packet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is peculiarly strong and stiff.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Peculiar — that is the very word,” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is not an English paper at all."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hold it up to the light.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I did so, and saw a large “E” with a small “g,” a “P,” and a large “G” with a small “t” woven into the texture of the paper."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What do you make of that?” asked Holmes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The name of the maker, no doubt; or his monogram, rather.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not at all."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took down a heavy brown volume from his shelves."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Eglow, Eglonitz — here we are, Egria."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is in a German-speaking country — in Bohemia, not far from Carlsbad."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The paper was made in Bohemia,” I said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Precisely."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the man who wrote the note is a German."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do you note the peculiar construction of the sentence — ‘This account of you we have from all quarters received.’ A Frenchman or Russian could not have written that."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is the German who is so uncourteous to his verbs."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It only remains, therefore, to discover what is wanted by this German who writes upon Bohemian paper and prefers wearing a mask to showing his face."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And here he comes, if I am not mistaken, to resolve all our doubts.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As he spoke there was the sharp sound of horses’ hoofs and grating wheels against the curb, followed by a sharp pull at the bell."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes whistled."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A pair, by the sound,” said he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes,” he continued, glancing out of the window."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A nice little brougham and a pair of beauties."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A hundred and fifty guineas apiece."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There’s money in this case, Watson, if there is nothing else.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I think that I had better go, Holmes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not a bit, Doctor."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Stay where you are."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am lost without my Boswell."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And this promises to be interesting."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It would be a pity to miss it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But your client — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Never mind him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I may want your help, and so may he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Here he comes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sit down in that armchair, Doctor, and give us your best attention.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A slow and heavy step, which had been heard upon the stairs and in the passage, paused immediately outside the door."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then there was a loud and authoritative tap."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Come in!” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A man entered who could hardly have been less than six feet six inches in height, with the chest and limbs of a Hercules."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His dress was rich with a richness which would, in England, be looked upon as akin to bad taste."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Heavy bands of astrakhan were slashed across the sleeves and fronts of his double-breasted coat, while the deep blue cloak which was thrown over his shoulders was lined with flame-coloured silk and secured at the neck with a brooch which consisted of a single flaming beryl."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Boots which extended halfway up his calves, and which were trimmed at the tops with rich brown fur, completed the impression of barbaric opulence which was suggested by his whole appearance."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He carried a broad-brimmed hat in his hand, while he wore across the upper part of his face, extending down past the cheekbones, a black vizard mask, which he had apparently adjusted that very moment, for his hand was still raised to it as he entered."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "From the lower part of the face he appeared to be a man of strong character, with a thick, hanging lip, and a long, straight chin suggestive of resolution pushed to the length of obstinacy."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You had my note?” he asked with a deep harsh voice and a strongly marked German accent."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I told you that I would call.” He looked from one to the other of us, as if uncertain which to address."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pray take a seat,” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is my friend and colleague, Dr. Watson, who is occasionally good enough to help me in my cases."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Whom have I the honour to address?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You may address me as the Count Von Kramm, a Bohemian nobleman."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I understand that this gentleman, your friend, is a man of honour and discretion, whom I may trust with a matter of the most extreme importance."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If not, I should much prefer to communicate with you alone.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I rose to go, but Holmes caught me by the wrist and pushed me back into my chair."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is both, or none,” said he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You may say before this gentleman anything which you may say to me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The Count shrugged his broad shoulders."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then I must begin,” said he, “by binding you both to absolute secrecy for two years; at the end of that time the matter will be of no importance."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At present it is not too much to say that it is of such weight it may have an influence upon European history.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I promise,” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And I.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You will excuse this mask,” continued our strange visitor."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The august person who employs me wishes his agent to be unknown to you, and I may confess at once that the title by which I have just called myself is not exactly my own.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was aware of it,” said Holmes dryly."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The circumstances are of great delicacy, and every precaution has to be taken to quench what might grow to be an immense scandal and seriously compromise one of the reigning families of Europe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To speak plainly, the matter implicates the great House of Ormstein, hereditary kings of Bohemia.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was also aware of that,” murmured Holmes, settling himself down in his armchair and closing his eyes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Our visitor glanced with some apparent surprise at the languid, lounging figure of the man who had been no doubt depicted to him as the most incisive reasoner and most energetic agent in Europe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes slowly reopened his eyes and looked impatiently at his gigantic client."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“If your Majesty would condescend to state your case,” he remarked, “I should be better able to advise you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The man sprang from his chair and paced up and down the room in uncontrollable agitation."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, with a gesture of desperation, he tore the mask from his face and hurled it upon the ground."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You are right,” he cried; “I am the King."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why should I attempt to conceal it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why, indeed?” murmured Holmes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your Majesty had not spoken before I was aware that I was addressing Wilhelm Gottsreich Sigismond von Ormstein, Grand Duke of Cassel-Felstein, and hereditary King of Bohemia.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But you can understand,” said our strange visitor, sitting down once more and passing his hand over his high white forehead, “you can understand that I am not accustomed to doing such business in my own person."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Yet the matter was so delicate that I could not confide it to an agent without putting myself in his power."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have come <i>incognito</i> from Prague for the purpose of consulting you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, pray consult,” said Holmes, shutting his eyes once more."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The facts are briefly these: Some five years ago, during a lengthy visit to Warsaw, I made the acquaintance of the well-known adventuress, Irene Adler."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The name is no doubt familiar to you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Kindly look her up in my index, Doctor,” murmured Holmes without opening his eyes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For many years he had adopted a system of docketing all paragraphs concerning men and things, so that it was difficult to name a subject or a person on which he could not at once furnish information."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In this case I found her biography sandwiched in between that of a Hebrew rabbi and that of a staff-commander who had written a monograph upon the deep-sea fishes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Let me see!” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hum!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Born in New Jersey in the year 1858."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Contralto — hum!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "La Scala, hum!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Prima donna Imperial Opera of Warsaw — yes!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Retired from operatic stage — ha!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Living in London — quite so!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your Majesty, as I understand, became entangled with this young person, wrote her some compromising letters, and is now desirous of getting those letters back.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Precisely so. But how — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Was there a secret marriage?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“None.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No legal papers or certificates?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“None.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then I fail to follow your Majesty."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If this young person should produce her letters for blackmailing or other purposes, how is she to prove their authenticity?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There is the writing.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pooh, pooh! Forgery.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My private note-paper.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Stolen.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My own seal.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Imitated.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My photograph.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Bought.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We were both in the photograph.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, dear!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is very bad!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your Majesty has indeed committed an indiscretion.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was mad — insane.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have compromised yourself seriously.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was only Crown Prince then. I was young. I am but thirty now.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It must be recovered.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We have tried and failed.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your Majesty must pay. It must be bought.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“She will not sell.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Stolen, then.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Five attempts have been made."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Twice burglars in my pay ransacked her house."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Once we diverted her luggage when she travelled."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Twice she has been waylaid."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There has been no result.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No sign of it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Absolutely none.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes laughed. “It is quite a pretty little problem,” said he."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But a very serious one to me,” returned the King reproachfully."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Very, indeed. And what does she propose to do with the photograph?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“To ruin me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But how?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am about to be married.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“So I have heard.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“To Clotilde Lothman von Saxe-Meningen, second daughter of the King of Scandinavia."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You may know the strict principles of her family."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She is herself the very soul of delicacy."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A shadow of a doubt as to my conduct would bring the matter to an end.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And Irene Adler?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Threatens to send them the photograph."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And she will do it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I know that she will do it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You do not know her, but she has a soul of steel."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She has the face of the most beautiful of women, and the mind of the most resolute of men."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rather than I should marry another woman, there are no lengths to which she would not go — none.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You are sure that she has not sent it yet?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am sure.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And why?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Because she has said that she would send it on the day when the betrothal was publicly proclaimed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That will be next Monday.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, then we have three days yet,” said Holmes with a yawn."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That is very fortunate, as I have one or two matters of importance to look into just at present."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your Majesty will, of course, stay in London for the present?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Certainly."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You will find me at the Langham under the name of the Count Von Kramm.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then I shall drop you a line to let you know how we progress.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pray do so. I shall be all anxiety.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, as to money?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have <i>carte blanche</i>.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Absolutely?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I tell you that I would give one of the provinces of my kingdom to have that photograph.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And for present expenses?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The King took a heavy chamois leather bag from under his cloak and laid it on the table."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There are three hundred pounds in gold and seven hundred in notes,” he said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes scribbled a receipt upon a sheet of his note-book and handed it to him."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And Mademoiselle’s address?” he asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Is Briony Lodge, Serpentine Avenue, St. John’s Wood.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes took a note of it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“One other question,” said he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Was the photograph a cabinet?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It was.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, good-night, your Majesty, and I trust that we shall soon have some good news for you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And good-night, Watson,” he added, as the wheels of the royal brougham rolled down the street."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“If you will be good enough to call to-morrow afternoon at three o’clock I should like to chat this little matter over with you.”"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "section",
+            "contentflat": [
+                "II."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At three o’clock precisely I was at Baker Street, but Holmes had not yet returned."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The landlady informed me that he had left the house shortly after eight o’clock in the morning."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I sat down beside the fire, however, with the intention of awaiting him, however long he might be."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was already deeply interested in his inquiry, for, though it was surrounded by none of the grim and strange features which were associated with the two crimes which I have already recorded, still, the nature of the case and the exalted station of his client gave it a character of its own."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Indeed, apart from the nature of the investigation which my friend had on hand, there was something in his masterly grasp of a situation, and his keen, incisive reasoning, which made it a pleasure to me to study his system of work, and to follow the quick, subtle methods by which he disentangled the most inextricable mysteries."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So accustomed was I to his invariable success that the very possibility of his failing had ceased to enter into my head."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was close upon four before the door opened, and a drunken-looking groom, ill-kempt and side-whiskered, with an inflamed face and disreputable clothes, walked into the room."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Accustomed as I was to my friend’s amazing powers in the use of disguises, I had to look three times before I was certain that it was indeed he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With a nod he vanished into the bedroom, whence he emerged in five minutes tweed-suited and respectable, as of old."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Putting his hands into his pockets, he stretched out his legs in front of the fire and laughed heartily for some minutes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, really!” he cried, and then he choked and laughed again until he was obliged to lie back, limp and helpless, in the chair."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What is it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It’s quite too funny."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am sure you could never guess how I employed my morning, or what I ended by doing.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I can’t imagine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I suppose that you have been watching the habits, and perhaps the house, of Miss Irene Adler.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Quite so; but the sequel was rather unusual."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I will tell you, however."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I left the house a little after eight o’clock this morning in the character of a groom out of work."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is a wonderful sympathy and freemasonry among horsey men."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Be one of them, and you will know all that there is to know."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I soon found Briony Lodge."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is a <i>bijou</i> villa, with a garden at the back, but built out in front right up to the road, two stories."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Chubb lock to the door."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Large sitting-room on the right side, well furnished, with long windows almost to the floor, and those preposterous English window fasteners which a child could open."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Behind there was nothing remarkable, save that the passage window could be reached from the top of the coach-house."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I walked round it and examined it closely from every point of view, but without noting anything else of interest."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I then lounged down the street and found, as I expected, that there was a mews in a lane which runs down by one wall of the garden."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I lent the ostlers a hand in rubbing down their horses, and received in exchange twopence, a glass of half-and-half, two fills of shag tobacco, and as much information as I could desire about Miss Adler, to say nothing of half a dozen other people in the neighbourhood in whom I was not in the least interested, but whose biographies I was compelled to listen to.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And what of Irene Adler?” I asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, she has turned all the men’s heads down in that part."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She is the daintiest thing under a bonnet on this planet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So say the Serpentine-mews, to a man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She lives quietly, sings at concerts, drives out at five every day, and returns at seven sharp for dinner."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Seldom goes out at other times, except when she sings."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Has only one male visitor, but a good deal of him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He is dark, handsome, and dashing, never calls less than once a day, and often twice."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He is a Mr. Godfrey Norton, of the Inner Temple."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "See the advantages of a cabman as a confidant."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They had driven him home a dozen times from Serpentine-mews, and knew all about him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I had listened to all they had to tell, I began to walk up and down near Briony Lodge once more, and to think over my plan of campaign."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This Godfrey Norton was evidently an important factor in the matter."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was a lawyer."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That sounded ominous."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What was the relation between them, and what the object of his repeated visits?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Was she his client, his friend, or his mistress?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If the former, she had probably transferred the photograph to his keeping."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If the latter, it was less likely."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On the issue of this question depended whether I should continue my work at Briony Lodge, or turn my attention to the gentleman’s chambers in the Temple."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was a delicate point, and it widened the field of my inquiry."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I fear that I bore you with these details, but I have to let you see my little difficulties, if you are to understand the situation.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am following you closely,” I answered."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was still balancing the matter in my mind when a hansom cab drove up to Briony Lodge, and a gentleman sprang out."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was a remarkably handsome man, dark, aquiline, and moustached — evidently the man of whom I had heard."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He appeared to be in a great hurry, shouted to the cabman to wait, and brushed past the maid who opened the door with the air of a man who was thoroughly at home."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He was in the house about half an hour, and I could catch glimpses of him in the windows of the sitting-room, pacing up and down, talking excitedly, and waving his arms."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of her I could see nothing."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Presently he emerged, looking even more flurried than before."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As he stepped up to the cab, he pulled a gold watch from his pocket and looked at it earnestly, ‘Drive like the devil,’ he shouted, ‘first to Gross & Hankey’s in Regent Street, and then to the Church of St. Monica in the Edgeware Road."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Half a guinea if you do it in twenty minutes!’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Away they went, and I was just wondering whether I should not do well to follow them when up the lane came a neat little landau, the coachman with his coat only half-buttoned, and his tie under his ear, while all the tags of his harness were sticking out of the buckles."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It hadn’t pulled up before she shot out of the hall door and into it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I only caught a glimpse of her at the moment, but she was a lovely woman, with a face that a man might die for."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“ ‘The Church of St. Monica, John,’ she cried, ‘and half a sovereign if you reach it in twenty minutes.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This was quite too good to lose, Watson."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was just balancing whether I should run for it, or whether I should perch behind her landau when a cab came through the street."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The driver looked twice at such a shabby fare, but I jumped in before he could object."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘The Church of St. Monica,’ said I, ‘and half a sovereign if you reach it in twenty minutes.’ It was twenty-five minutes to twelve, and of course it was clear enough what was in the wind."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My cabby drove fast."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I don’t think I ever drove faster, but the others were there before us."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The cab and the landau with their steaming horses were in front of the door when I arrived."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I paid the man and hurried into the church."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was not a soul there save the two whom I had followed and a surpliced clergyman, who seemed to be expostulating with them."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They were all three standing in a knot in front of the altar."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I lounged up the side aisle like any other idler who has dropped into a church."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Suddenly, to my surprise, the three at the altar faced round to me, and Godfrey Norton came running as hard as he could towards me."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“ ‘Thank God,’ he cried. ‘You’ll do. Come! Come!’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“ ‘What then?’ I asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“ ‘Come, man, come, only three minutes, or it won’t be legal.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was half-dragged up to the altar, and before I knew where I was I found myself mumbling responses which were whispered in my ear, and vouching for things of which I knew nothing, and generally assisting in the secure tying up of Irene Adler, spinster, to Godfrey Norton, bachelor."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was all done in an instant, and there was the gentleman thanking me on the one side and the lady on the other, while the clergyman beamed on me in front."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was the most preposterous position in which I ever found myself in my life, and it was the thought of it that started me laughing just now."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seems that there had been some informality about their license, that the clergyman absolutely refused to marry them without a witness of some sort, and that my lucky appearance saved the bridegroom from having to sally out into the streets in search of a best man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The bride gave me a sovereign, and I mean to wear it on my watch chain in memory of the occasion.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is a very unexpected turn of affairs,” said I; “and what then?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, I found my plans very seriously menaced."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It looked as if the pair might take an immediate departure, and so necessitate very prompt and energetic measures on my part."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At the church door, however, they separated, he driving back to the Temple, and she to her own house."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘I shall drive out in the park at five as usual,’ she said as she left him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I heard no more."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They drove away in different directions, and I went off to make my own arrangements.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Which are?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Some cold beef and a glass of beer,” he answered, ringing the bell."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I have been too busy to think of food, and I am likely to be busier still this evening."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "By the way, Doctor, I shall want your co-operation.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I shall be delighted.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You don’t mind breaking the law?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not in the least.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Nor running a chance of arrest?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not in a good cause.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, the cause is excellent!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then I am your man.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was sure that I might rely on you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But what is it you wish?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“When Mrs. Turner has brought in the tray I will make it clear to you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now,” he said as he turned hungrily on the simple fare that our landlady had provided, “I must discuss it while I eat, for I have not much time."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is nearly five now."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In two hours we must be on the scene of action."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Miss Irene, or Madame, rather, returns from her drive at seven."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We must be at Briony Lodge to meet her.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And what then?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You must leave that to me."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have already arranged what is to occur."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is only one point on which I must insist."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You must not interfere, come what may."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You understand?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am to be neutral?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“To do nothing whatever."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There will probably be some small unpleasantness."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do not join in it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It will end in my being conveyed into the house."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Four or five minutes afterwards the sitting-room window will open."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You are to station yourself close to that open window.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You are to watch me, for I will be visible to you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And when I raise my hand — so — you will throw into the room what I give you to throw, and will, at the same time, raise the cry of fire."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You quite follow me?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Entirely.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is nothing very formidable,” he said, taking a long cigar-shaped roll from his pocket."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is an ordinary plumber’s smoke-rocket, fitted with a cap at either end to make it self-lighting."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your task is confined to that."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When you raise your cry of fire, it will be taken up by quite a number of people."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You may then walk to the end of the street, and I will rejoin you in ten minutes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I hope that I have made myself clear?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am to remain neutral, to get near the window, to watch you, and at the signal to throw in this object, then to raise the cry of fire, and to wait you at the corner of the street.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Precisely.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then you may entirely rely on me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That is excellent."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I think, perhaps, it is almost time that I prepare for the new role I have to play.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He disappeared into his bedroom and returned in a few minutes in the character of an amiable and simple-minded Nonconformist clergyman."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His broad black hat, his baggy trousers, his white tie, his sympathetic smile, and general look of peering and benevolent curiosity were such as Mr. John Hare alone could have equalled."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was not merely that Holmes changed his costume."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His expression, his manner, his very soul seemed to vary with every fresh part that he assumed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The stage lost a fine actor, even as science lost an acute reasoner, when he became a specialist in crime."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was a quarter past six when we left Baker Street, and it still wanted ten minutes to the hour when we found ourselves in Serpentine Avenue."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was already dusk, and the lamps were just being lighted as we paced up and down in front of Briony Lodge, waiting for the coming of its occupant."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The house was just such as I had pictured it from Sherlock Holmes’ succinct description, but the locality appeared to be less private than I expected."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On the contrary, for a small street in a quiet neighbourhood, it was remarkably animated."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a group of shabbily dressed men smoking and laughing in a corner, a scissors-grinder with his wheel, two guardsmen who were flirting with a nurse-girl, and several well-dressed young men who were lounging up and down with cigars in their mouths."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You see,” remarked Holmes, as we paced to and fro in front of the house, “this marriage rather simplifies matters."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The photograph becomes a double-edged weapon now."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The chances are that she would be as averse to its being seen by Mr. Godfrey Norton, as our client is to its coming to the eyes of his princess."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now the question is, Where are we to find the photograph?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Where, indeed?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is most unlikely that she carries it about with her."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is cabinet size."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Too large for easy concealment about a woman’s dress."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She knows that the King is capable of having her waylaid and searched."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Two attempts of the sort have already been made."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We may take it, then, that she does not carry it about with her.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Where, then?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Her banker or her lawyer."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is that double possibility."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I am inclined to think neither."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Women are naturally secretive, and they like to do their own secreting."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why should she hand it over to anyone else?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She could trust her own guardianship, but she could not tell what indirect or political influence might be brought to bear upon a business man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Besides, remember that she had resolved to use it within a few days."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It must be where she can lay her hands upon it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It must be in her own house.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But it has twice been burgled.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pshaw! They did not know how to look.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But how will you look?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I will not look.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What then?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I will get her to show me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But she will refuse.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“She will not be able to."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I hear the rumble of wheels."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is her carriage."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now carry out my orders to the letter.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As he spoke the gleam of the sidelights of a carriage came round the curve of the avenue."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was a smart little landau which rattled up to the door of Briony Lodge."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As it pulled up, one of the loafing men at the corner dashed forward to open the door in the hope of earning a copper, but was elbowed away by another loafer, who had rushed up with the same intention."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A fierce quarrel broke out, which was increased by the two guardsmen, who took sides with one of the loungers, and by the scissors-grinder, who was equally hot upon the other side."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A blow was struck, and in an instant the lady, who had stepped from her carriage, was the centre of a little knot of flushed and struggling men, who struck savagely at each other with their fists and sticks."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes dashed into the crowd to protect the lady; but, just as he reached her, he gave a cry and dropped to the ground, with the blood running freely down his face."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At his fall the guardsmen took to their heels in one direction and the loungers in the other, while a number of better dressed people, who had watched the scuffle without taking part in it, crowded in to help the lady and to attend to the injured man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Irene Adler, as I will still call her, had hurried up the steps; but she stood at the top with her superb figure outlined against the lights of the hall, looking back into the street."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Is the poor gentleman much hurt?” she asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He is dead,” cried several voices."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, no, there’s life in him!” shouted another."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But he’ll be gone before you can get him to hospital.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He’s a brave fellow,” said a woman."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They would have had the lady’s purse and watch if it hadn’t been for him."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They were a gang, and a rough one, too."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ah, he’s breathing now.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He can’t lie in the street. May we bring him in, marm?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Surely."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Bring him into the sitting-room."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is a comfortable sofa."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This way, please!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Slowly and solemnly he was borne into Briony Lodge and laid out in the principal room, while I still observed the proceedings from my post by the window."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The lamps had been lit, but the blinds had not been drawn, so that I could see Holmes as he lay upon the couch."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I do not know whether he was seized with compunction at that moment for the part he was playing, but I know that I never felt more heartily ashamed of myself in my life than when I saw the beautiful creature against whom I was conspiring, or the grace and kindliness with which she waited upon the injured man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And yet it would be the blackest treachery to Holmes to draw back now from the part which he had intrusted to me."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I hardened my heart, and took the smoke-rocket from under my ulster."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "After all, I thought, we are not injuring her."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We are but preventing her from injuring another."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes had sat up upon the couch, and I saw him motion like a man who is in need of air."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A maid rushed across and threw open the window."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At the same instant I saw him raise his hand and at the signal I tossed my rocket into the room with a cry of “Fire!” The word was no sooner out of my mouth than the whole crowd of spectators, well dressed and ill — gentlemen, ostlers, and servant maids — joined in a general shriek of “Fire!” Thick clouds of smoke curled through the room and out at the open window."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I caught a glimpse of rushing figures, and a moment later the voice of Holmes from within assuring them that it was a false alarm."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Slipping through the shouting crowd I made my way to the corner of the street, and in ten minutes was rejoiced to find my friend’s arm in mine, and to get away from the scene of uproar."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He walked swiftly and in silence for some few minutes until we had turned down one of the quiet streets which lead towards the Edgeware Road."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You did it very nicely, Doctor,” he remarked."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Nothing could have been better."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is all right.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have the photograph?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I know where it is.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And how did you find out?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“She showed me, as I told you she would.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am still in the dark.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I do not wish to make a mystery,” said he, laughing."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The matter was perfectly simple."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You, of course, saw that everyone in the street was an accomplice."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They were all engaged for the evening.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I guessed as much.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, when the row broke out, I had a little moist red paint in the palm of my hand."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I rushed forward, fell down, clapped my hand to my face, and became a piteous spectacle."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is an old trick.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That also I could fathom.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then they carried me in."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She was bound to have me in."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What else could she do?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And into her sitting-room, which was the very room which I suspected."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It lay between that and her bedroom, and I was determined to see which."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They laid me on a couch, I motioned for air, they were compelled to open the window, and you had your chance.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How did that help you?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It was all-important."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When a woman thinks that her house is on fire, her instinct is at once to rush to the thing which she values most."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is a perfectly overpowering impulse, and I have more than once taken advantage of it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In the case of the Darlington Substitution Scandal it was of use to me, and also in the Arnsworth Castle business."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A married woman grabs at her baby; an unmarried one reaches for her jewel-box."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now it was clear to me that our lady of to-day had nothing in the house more precious to her than what we are in quest of."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She would rush to secure it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The alarm of fire was admirably done."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The smoke and shouting were enough to shake nerves of steel."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She responded beautifully."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The photograph is in a recess behind a sliding panel just above the right bell-pull."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She was there in an instant, and I caught a glimpse of it as she half drew it out."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I cried out that it was a false alarm, she replaced it, glanced at the rocket, rushed from the room, and I have not seen her since."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I rose, and, making my excuses, escaped from the house."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I hesitated whether to attempt to secure the photograph at once; but the coachman had come in, and as he was watching me narrowly, it seemed safer to wait."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A little over-precipitance may ruin all.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And now?” I asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Our quest is practically finished."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I shall call with the King to-morrow, and with you, if you care to come with us."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We will be shown into the sitting-room to wait for the lady, but it is probable that when she comes she may find neither us nor the photograph."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It might be a satisfaction to his Majesty to regain it with his own hands.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And when will you call?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“At eight in the morning."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She will not be up, so that we shall have a clear field."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Besides, we must be prompt, for this marriage may mean a complete change in her life and habits."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I must wire to the King without delay.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We had reached Baker Street and had stopped at the door."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was searching his pockets for the key when someone passing said:"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Good-night, Mister Sherlock Holmes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There were several people on the pavement at the time, but the greeting appeared to come from a slim youth in an ulster who had hurried by."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ve heard that voice before,” said Holmes, staring down the dimly lit street."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Now, I wonder who the deuce that could have been.”"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "section",
+            "contentflat": [
+                "III."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I slept at Baker Street that night, and we were engaged upon our toast and coffee in the morning when the King of Bohemia rushed into the room."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have really got it!” he cried, grasping Sherlock Holmes by either shoulder and looking eagerly into his face."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not yet.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But you have hopes?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I have hopes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then, come. I am all impatience to be gone.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We must have a cab.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, my brougham is waiting.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Then that will simplify matters.” We descended and started off once more for Briony Lodge."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Irene Adler is married,” remarked Holmes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Married! When?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yesterday.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But to whom?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“To an English lawyer named Norton.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But she could not love him.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am in hopes that she does.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And why in hopes?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Because it would spare your Majesty all fear of future annoyance."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If the lady loves her husband, she does not love your Majesty."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If she does not love your Majesty, there is no reason why she should interfere with your Majesty’s plan.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is true."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And yet — !"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Well!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I wish she had been of my own station!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What a queen she would have made!” He relapsed into a moody silence, which was not broken until we drew up in Serpentine Avenue."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The door of Briony Lodge was open, and an elderly woman stood upon the steps."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She watched us with a sardonic eye as we stepped from the brougham."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mr. Sherlock Holmes, I believe?” said she."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am Mr. Holmes,” answered my companion, looking at her with a questioning and rather startled gaze."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Indeed!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My mistress told me that you were likely to call."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She left this morning with her husband by the 5:15 train from Charing Cross for the Continent.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What!” Sherlock Holmes staggered back, white with chagrin and surprise."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do you mean that she has left England?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Never to return.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And the papers?” asked the King hoarsely. “All is lost.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We shall see.” He pushed past the servant and rushed into the drawing-room, followed by the King and myself."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The furniture was scattered about in every direction, with dismantled shelves and open drawers, as if the lady had hurriedly ransacked them before her flight."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Holmes rushed at the bell-pull, tore back a small sliding shutter, and, plunging in his hand, pulled out a photograph and a letter."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The photograph was of Irene Adler herself in evening dress, the letter was superscribed to “Sherlock Holmes, Esq. To be left till called for.” My friend tore it open, and we all three read it together."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was dated at midnight of the preceding night and ran in this way:"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“MY DEAR MR. SHERLOCK HOLMES, — You really did it very well."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You took me in completely."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Until after the alarm of fire, I had not a suspicion."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But then, when I found how I had betrayed myself, I began to think."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I had been warned against you months ago."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I had been told that, if the King employed an agent, it would certainly be you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And your address had been given me."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Yet, with all this, you made me reveal what you wanted to know."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even after I became suspicious, I found it hard to think evil of such a dear, kind old clergyman."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But, you know, I have been trained as an actress myself."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Male costume is nothing new to me."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I often take advantage of the freedom which it gives."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I sent John, the coachman, to watch you, ran upstairs, got into my walking clothes, as I call them, and came down just as you departed."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, I followed you to your door, and so made sure that I was really an object of interest to the celebrated Mr. Sherlock Holmes."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then I, rather imprudently, wished you good-night, and started for the Temple to see my husband."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We both thought the best resource was flight, when pursued by so formidable an antagonist; so you will find the nest empty when you call to-morrow."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As to the photograph, your client may rest in peace."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I love and am loved by a better man than he."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The King may do what he will without hindrance from one whom he has cruelly wronged."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I keep it only to safeguard myself, and to preserve a weapon which will always secure me from any steps which he might take in the future."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I leave a photograph which he might care to possess; and I remain, dear Mr. Sherlock Holmes,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Very truly yours,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“IRENE NORTON, <i>née</i> ADLER.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What a woman — oh, what a woman!” cried the King of Bohemia, when we had all three read this epistle."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did I not tell you how quick and resolute she was?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Would she not have made an admirable queen?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Is it not a pity that she was not on my level?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“From what I have seen of the lady, she seems, indeed, to be on a very different level to your Majesty,” said Holmes coldly."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am sorry that I have not been able to bring your Majesty’s business to a more successful conclusion.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“On the contrary, my dear sir,” cried the King; “nothing could be more successful."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I know that her word is inviolate."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The photograph is now as safe as if it were in the fire.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am glad to hear your Majesty say so.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am immensely indebted to you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Pray tell me in what way I can reward you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This ring — ” He slipped an emerald snake ring from his finger and held it out upon the palm of his hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your Majesty has something which I should value even more highly,” said Holmes."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have but to name it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This photograph!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The King stared at him in amazement."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Irene’s photograph!” he cried. “Certainly, if you wish it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I thank your Majesty."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then there is no more to be done in the matter."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have the honour to wish you a very good morning.” He bowed, and, turning away without observing the hand which the King had stretched out to him, he set off in my company for his chambers."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "pbreak",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And that was how a great scandal threatened to affect the kingdom of Bohemia, and how the best plans of Mr. Sherlock Holmes were beaten by a woman’s wit."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He used to make merry over the cleverness of women, but I have not heard him do it of late."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And when he speaks of Irene Adler, or when he refers to her photograph, it is always under the honourable title of <i>the</i> woman."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

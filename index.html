@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="index.js"></script>
+    <script src="bigtext.js"></script>
+
+    <link href="https://fonts.googleapis.com/css?family=Caveat:400|Cormorant+Garamond:500|Source+Sans+Pro:300" rel="stylesheet">
+
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+        }
+        #grandparent {
+            height: 95%; /* leave space for play button */
+            padding: 0;
+            display: -webkit-box;
+            display: -moz-box;
+            display: -ms-flexbox;
+            display: -webkit-flex;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        #parent {
+            width: calc(70vh * 16/9); /* screen ratio */
+            padding-left: 20px;
+            padding-right: 20px;
+
+            -webkit-perspective: 500px;
+            perspective: 500px;
+        }
+        #bigtext {
+            /*font-family: 'Caveat', serif;*/
+            font-family: 'Cormorant Garamond', serif;
+            /*font-family: 'Source Sans Pro', serif;*/
+            text-shadow: 0 0 1px hsla(0, 0%, 30%, 0.4);
+
+            -webkit-transform-style: preserve-3d;
+            transform-style: preserve-3d;
+        }
+        .animate3d {
+            -webkit-transition: .3s;
+            transition: .3s;
+
+            -webkit-transform: rotate3d(0, 0, 0, 0deg);
+            transform: rotate3d(0, 0, 0, 0deg);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="grandparent">
+        <div id="parent">
+            <div id="bigtext" class="animate3d">
+                <span>We the People of the United States,</span>
+                <span>in Order to form a more perfect Union,</span>
+                <span>do ordain and establish this Constitution.</span>
+            </div>
+        </div>
+    </div>
+    <button class="rotation">rot</button>
+    <button class="transformation">tra</button>
+</body>
+</html>

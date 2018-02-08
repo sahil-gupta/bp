@@ -1,0 +1,19 @@
+{
+  "name": "sherlock",
+  "version": "1.0.0",
+  "description": "process sherlock holmes book",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compromise": "^11.2.3",
+    "express": "^4.16.2",
+    "syllable": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  }
+}
