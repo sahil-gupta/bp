@@ -37,7 +37,8 @@ for (var j in m.scenes) {
 
     var sentences = [];
 
-    if (content.length < 70) {              // if short paragraph
+    const SHORTPARA = 70;
+    if (content.length < SHORTPARA) {       // if short paragraph
         // note: the type is "sentence" but it might have 1-3 sentences
         // because it's a short paragraph
         sentences = [new Scene('sentence', content)];
@@ -45,17 +46,21 @@ for (var j in m.scenes) {
         var tree = nlp(content);
         var rawSentences = tree.sentences().data();
         sentences = rawSentences.map(obj => new Scene('sentence', obj.text.trim()));
+
+        // flag long sentences
+        const TOOLONG = 400;
+        for (var k in sentences) {
+            if (sentences[k].content.length > TOOLONG)
+                console.log('too long:\n' + sentences[k].content);
+        }
     }
 
     m.scenes[j].content = sentences;
 }
 
-fs.writeFile("./thejson.json", JSON.stringify(m, null, 4););
+fs.writeFile("./thejson.json", JSON.stringify(m, null, 4));
 
-
-
-
-////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////
 
 function cleanTag(line) {
     return line.substring(1, line.length - 1);
@@ -76,6 +81,8 @@ function isCloseTag(line) {
 
     return (line[0] === '<' && line[line.length-1] === '>' && line[1] === '/');
 }
+
+//////////////////////////////////////////////////////////////
 
 function Movie() {
     this.scenes = [];
@@ -98,7 +105,7 @@ function Scene(type, content) {
     // image <img>
     // sentence (in interior of paragraph)
     // dialogue (in interior of paragraph)
-    this.type = type;
+    this.type = type || '';
 
     // if type is 'p', then content is array of Scene objects
     // if type isn't 'p', then content is string

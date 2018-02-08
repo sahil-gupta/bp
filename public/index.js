@@ -1,16 +1,23 @@
 // runs with index.html
 // turns list into movie
 
+const FONTMAX = 1/8;
+const FONTMIN = 1/32;
+
+var masterPause = false;
+var masterIndex = 0;
+var masterList = [];
+var masterTimer = null;
+
 $(function() {
     $('#bigtext').bigtext({
-        maxfontsize: $(window).height() / 8,
-        minfontsize: $(window).height() / 32
+        maxfontsize: Math.round($(window).height() * FONTMAX),
+        minfontsize: Math.round($(window).height() * FONTMIN)
     });
 
     $.get("thelist.list", function(data) {
-        var thelist = JSON.parse(data).scenesflat;
-        display(thelist, 0);
-
+        masterList = JSON.parse(data).scenesflat;
+        display();
     });
 
     $(".rotation").click(function() {
@@ -34,27 +41,47 @@ $(function() {
         $('#bigtext').css('transform', newtransform);
     });
 
+    $(".pause").click(function() {
+        if (masterPause) {
+            masterPause = false;
+            masterIndex--; // rewind a scene
+            display();
+        } else {
+            masterPause = true;
+            clearTimeout(masterTimer);
+        }
+    });
+
 });
 
-function display(thelist, playindex) {
-    if (playindex === thelist.length)
+function display() {
+    if (masterPause)
         return;
-
+    if (masterIndex === masterList.length)
+        return;
 
     // heree consider the .typeflat as well as animations
 
+    var sceneflat = masterList[masterIndex];
+    var final = '';
 
-    var final = thelist[playindex].contentflat
+    if (sceneflat.typeflat === 'sentence') {
+        final = sceneflat.contentflat
                 .map(row => ('<span>' + row + '</span>'))
                 .join(' ');
-    $('#bigtext').empty().append(final);
+    } else {
+        final = sceneflat.contentflat
+                .map(row => ('<span class="bold">' + row + '</span>'))
+                .join(' ');
+    }
 
+    $('#bigtext').empty().append(final);
     $('#bigtext').bigtext({
-        maxfontsize: $(window).height() / 8,
-        minfontsize: $(window).height() / 32
+        maxfontsize: Math.round($(window).height() * FONTMAX),
+        minfontsize: Math.round($(window).height() * FONTMIN)
     });
 
-    var delay = thelist[playindex].timeflat;
-
-    setTimeout(display.bind(null, thelist, playindex+1), delay);
+    var delay = masterList[masterIndex].timeflat;
+    masterIndex++;
+    masterTimer = setTimeout(display, delay);
 }
