@@ -16,8 +16,8 @@ var masterAnimateOutTime = ORIGINAANIMATEOUTTIME;
 const RATIOBIG = 1/6;
 const RATIOSMALL = 1/20;
 
-const OPACITYIN = 0;
-const OPACITYOUT = 0;
+const OPACITYIN = .5;
+const OPACITYOUT = .5;
 
 const CONTROLSVISIBLE = 5000;
 
@@ -25,6 +25,32 @@ $(function() {
     $.get("thelist.list", function(data) {
         masterList = JSON.parse(data).scenesflat;
         display();
+    });
+
+    // similar code at "replay5" and "forward5" and "pause"
+    $(document).keydown(function(e) {
+        if (e.which === 37) {         // left
+            clearTimeout(masterTimer);
+            masterIndex --;
+            masterIndex = Math.max(masterIndex, 0);
+            display();
+        }
+        else if (e.which === 39) {    // right
+            clearTimeout(masterTimer);
+            masterIndex ++;
+            masterIndex = Math.min(masterIndex, masterList.length);
+            display();
+        } else if (e.which === 32) {   // space
+            if (masterPause) {
+                $('.playicon').html('pause_circle_filled');
+                masterPause = false;
+                display();
+            } else {
+                $('.playicon').html('play_circle_filled');
+                masterPause = true;
+                clearTimeout(masterTimer);
+            }
+        }
     });
 
     var controlshtml =
@@ -124,15 +150,14 @@ function animateOut(nexttypeflat) {
     var newtransform = '';
 
     if (nexttypeflat === 'sentence') {
-        newtransform = 'rotate3d(0, 1, 0, -5deg)';
+        newtransform = 'rotate3d(0, 1, 0, -2deg)';
     } else {
-        newtransform = 'rotate3d(1, 0, 0, -5deg)';
+        newtransform = 'rotate3d(1, 0, 0, -2deg)';
     }
 
-    newtransform += ' translate3d(0, 0, 30px)'; // depth
+    newtransform += ' translate3d(0, 0, 10px)'; // depth
 
-    $('#bigtext').css('-webkit-transition', masterAnimateOutTime + 's');
-    $('#bigtext').css('transition', masterAnimateOutTime + 's');
+    $('#bigtext').css('transition-duration', masterAnimateOutTime + 's');
 
     $('#bigtext').css('-webkit-transform', newtransform);
     $('#bigtext').css('transform', newtransform);
@@ -143,15 +168,14 @@ function animateIn(prevtypeflat) {
     var newtransform = '';
 
     if (prevtypeflat === 'sentence') {
-        newtransform = 'rotate3d(0, 1, 0, 5deg)';
+        newtransform = 'rotate3d(0, 1, 0, 2deg)';
     } else {
-        newtransform = 'rotate3d(1, 0, 0, 5deg)';
+        newtransform = 'rotate3d(1, 0, 0, 2deg)';
     }
 
-    newtransform += ' translate3d(0, 0, -30px)'; // depth
+    newtransform += ' translate3d(0, 0, -10px)'; // depth
 
-    $('#bigtext').css('-webkit-transition', '0s');
-    $('#bigtext').css('transition', '0s');
+    $('#bigtext').css('transition-duration', '0s');
 
     $('#bigtext').css('-webkit-transform', newtransform);
     $('#bigtext').css('transform', newtransform);
@@ -159,8 +183,7 @@ function animateIn(prevtypeflat) {
 
     // need timeout otherwise skips first transformation
     setTimeout(function() {
-        $('#bigtext').css('-webkit-transition', masterAnimateInTime + 's');
-        $('#bigtext').css('transition', masterAnimateInTime + 's');
+        $('#bigtext').css('transition-duration', masterAnimateInTime + 's');
 
         $('#bigtext').css('-webkit-transform', 'rotate3d(0, 0, 0, 0deg)');
         $('#bigtext').css('transform', 'rotate3d(0, 0, 0, 0deg)');
