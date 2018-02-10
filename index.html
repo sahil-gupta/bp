@@ -35,17 +35,13 @@
             /*font-family: 'Caveat', serif;*/
             font-family: 'Cormorant Garamond', serif;
             /*font-family: 'Source Sans Pro', serif;*/
-            text-shadow: 0 0 1px hsla(0, 0%, 30%, 0.4);
+            text-shadow: 0px 0px 1px hsla(0, 0%, 30%, .5);
 
             -webkit-transform-style: preserve-3d;
             transform-style: preserve-3d;
         }
-        .animate3d {
-            -webkit-transition: .3s;
-            transition: .3s;
-
-            -webkit-transform: rotate3d(0, 0, 0, 0deg);
-            transform: rotate3d(0, 0, 0, 0deg);
+        #bigtext span {
+            margin: 10px 0 10px 0;
         }
         .bold {
             font-weight: bold;
@@ -56,15 +52,13 @@
 <body>
     <div id="grandparent">
         <div id="parent">
-            <div id="bigtext" class="animate3d">
-                <span>We the People of the United States,</span>
-                <span>in Order to form a more perfect Union,</span>
-                <span>do ordain and establish this Constitution.</span>
+            <div id="bigtext" class="">
+                <!-- <span>We the People of the United States,</span> -->
+                <!-- <span>in Order to form a more perfect Union</span> -->
             </div>
         </div>
     </div>
-    <button class="rotation">rotate</button>
-    <button class="transformation">transform</button>
+    <input class="fontcap" type="checkbox" checked=checked>
     <button class="pause">pause</button>
 </body>
 </html>

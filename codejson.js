@@ -2,6 +2,7 @@
 // turns json into list
 
 var fs = require('fs');
+var syllable = require('syllable');
 var text = fs.readFileSync('thejson.json').toString();
 
 var m = JSON.parse(text);
@@ -11,23 +12,34 @@ for (var i in m.scenes) {
     var scene = m.scenes[i];
 
     if (scene.type !== 'p') {                           // if not paragraph
-        mf.add(new SceneFlat(1000, scene.type, [scene.content]));
+        var time = 1000;
+        mf.add(new SceneFlat(time, scene.type, [scene.content]));
     } else {                                            // else if paragraph
-        mf.add(new SceneFlat(100, scene.type, ['']));   // push <p> beginning
+        var time = 100;
+        mf.add(new SceneFlat(time, scene.type));         // push <p> beginning
 
         var content = scene.content;                    // push <p> content
         for (var j in content) {
+            var time = calcContentTime(content[j].content);
             var rows = splitIntoRows(content[j].content);
-            mf.add(new SceneFlat(1000, content[j].type, rows));
+            mf.add(new SceneFlat(time, content[j].type, rows));
         }
     }
 }
 
-mf.add(new SceneFlat(2000, 'fadetoblack', ['']));
+var time = 2000;
+mf.add(new SceneFlat(time, 'fadetoblack'));
 
 fs.writeFile("./public/thelist.list", JSON.stringify(mf, null, 4));
 
 //////////////////////////////////////////////////////////////
+
+// calculates time based on syllables
+// minimum time is 1 second
+function calcContentTime(content) {
+    const MILLISECONDSPERSYLLABLE = 150;
+    return Math.max(150 * syllable(content), 1000);
+}
 
 // if arr is [a,b,c,d]
 // then output = a^2 + (b-a)^2 + (c-b)^2 +(d-c)^2
@@ -121,7 +133,7 @@ function getPauseIndices(content, nRows) {
     }
 
     // check extra words
-    var extras = ['all','as','if','so','what','when','which','who'];
+    var extras = ['all','as','if','so','that','what','when','which','who'];
     for (var jj = 0; jj < preps.length; jj++) {
         var extra = ' ' + extras[jj] + ' '; // surround with spaces
         var tempextra = indicesOf(content, extra);
@@ -183,5 +195,5 @@ function MovieFlat() {
 function SceneFlat(timeflat, typeflat, contentflat) {
     this.timeflat = timeflat;           // milliseconds
     this.typeflat = typeflat;           // same as Scene.type
-    this.contentflat = contentflat;     // rows of text (stored as array)
+    this.contentflat = contentflat || [''];     // rows of text (stored as array)
 }

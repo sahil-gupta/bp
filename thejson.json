@@ -380,7 +380,16 @@
                 },
                 {
                     "type": "sentence",
-                    "content": "By the way, since you are interested in these little problems, and since you are good enough to chronicle one or two of my trifling experiences, you may be interested in this.” He threw over a sheet of thick, pink-tinted notepaper which had been lying open upon the table."
+                    "content": "By the way, since you are interested in these little problems, and since you are good enough to chronicle one or two of my trifling experiences, you may be interested in this.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "He threw over a sheet of thick, pink-tinted notepaper which had been lying open upon the table."
                 },
                 {
                     "type": "sentence",
@@ -539,7 +548,16 @@
                 },
                 {
                     "type": "sentence",
-                    "content": "The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.” He took down a heavy brown volume from his shelves."
+                    "content": "The ‘G’ with the small ‘t’ stands for ‘Gesellschaft,’ which is the German for ‘Company.’ It is a customary contraction like our ‘Co.’ ‘P,’ of course, stands for ‘Papier.’ Now for the ‘Eg.’ Let us glance at our Continental Gazetteer.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "He took down a heavy brown volume from his shelves."
                 },
                 {
                     "type": "sentence",
@@ -551,7 +569,16 @@
                 },
                 {
                     "type": "sentence",
-                    "content": "‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?” His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette."
+                    "content": "‘Remarkable as being the scene of the death of Wallenstein, and for its numerous glass-factories and paper-mills.’ Ha, ha, my boy, what do you make of that?”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "His eyes sparkled, and he sent up a great blue triumphant cloud from his cigarette."
                 }
             ]
         },
@@ -755,7 +782,16 @@
                 },
                 {
                     "type": "sentence",
-                    "content": "“I told you that I would call.” He looked from one to the other of us, as if uncertain which to address."
+                    "content": "“I told you that I would call.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "He looked from one to the other of us, as if uncertain which to address."
                 }
             ]
         },
@@ -3304,7 +3340,16 @@
             "content": [
                 {
                     "type": "sentence",
-                    "content": "“Then that will simplify matters.” We descended and started off once more for Briony Lodge."
+                    "content": "“Then that will simplify matters.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "We descended and started off once more for Briony Lodge."
                 }
             ]
         },
@@ -3506,7 +3551,16 @@
             "content": [
                 {
                     "type": "sentence",
-                    "content": "“We shall see.” He pushed past the servant and rushed into the drawing-room, followed by the King and myself."
+                    "content": "“We shall see.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "He pushed past the servant and rushed into the drawing-room, followed by the King and myself."
                 },
                 {
                     "type": "sentence",
@@ -3778,7 +3832,16 @@
                 },
                 {
                     "type": "sentence",
-                    "content": "I have the honour to wish you a very good morning.” He bowed, and, turning away without observing the hand which the King had stretched out to him, he set off in my company for his chambers."
+                    "content": "I have the honour to wish you a very good morning.”"
+                }
+            ]
+        },
+        {
+            "type": "p",
+            "content": [
+                {
+                    "type": "sentence",
+                    "content": "He bowed, and, turning away without observing the hand which the King had stretched out to him, he set off in my company for his chambers."
                 }
             ]
         },
