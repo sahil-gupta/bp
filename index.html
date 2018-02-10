@@ -1,11 +1,24 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Wordplay</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="index.js"></script>
     <script src="bigtext.js"></script>
 
+    <!-- google fonts -->
     <link href="https://fonts.googleapis.com/css?family=Caveat:400|Cormorant+Garamond:500|Source+Sans+Pro:300" rel="stylesheet">
+
+    <!-- material design -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.red-indigo.min.css" />
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+    <!-- jquery toast -->
+    <link rel="stylesheet" href="jquery.toast.min.css">
+    <script src="jquery.toast.js"></script>
 
     <style>
         html, body {
@@ -13,7 +26,7 @@
             margin: 0;
         }
         #grandparent {
-            height: 95%; /* leave space for play button */
+            height: 100%;
             padding: 0;
             display: -webkit-box;
             display: -moz-box;
@@ -22,6 +35,8 @@
             display: flex;
             align-items: center;
             justify-content: center;
+
+            line-height: normal;
         }
         #parent {
             width: calc(70vh * 16/9); /* screen ratio */
@@ -46,6 +61,14 @@
         .bold {
             font-weight: bold;
         }
+
+        .jq-toast-wrap i.mdl-icon-toggle__label.material-icons {
+            font-size: 32px;
+            margin: 0 10px 0 10px;
+        }
+        .jq-toast-wrap .mdl-js-switch {
+            margin: 5px 0 7px 0;
+        }
     </style>
 </head>
 
@@ -58,7 +81,5 @@
             </div>
         </div>
     </div>
-    <input class="fontcap" type="checkbox" checked=checked>
-    <button class="pause">pause</button>
 </body>
 </html>

@@ -133,7 +133,9 @@ function getPauseIndices(content, nRows) {
     }
 
     // check extra words
-    var extras = ['all','as','if','so','that','what','when','which','who'];
+    var extras = ['all','as','if','so','that','what','when','which','who',
+                    'could','would','should',
+                    'only','than'];
     for (var jj = 0; jj < preps.length; jj++) {
         var extra = ' ' + extras[jj] + ' '; // surround with spaces
         var tempextra = indicesOf(content, extra);
