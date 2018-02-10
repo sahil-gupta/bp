@@ -1,0 +1,1084 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Lord Jim"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Joseph Conrad"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "chapter",
+            "contentflat": [
+                "Chapter 1"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was an inch, perhaps two, under six feet,",
+                "powerfully built, and he advanced straight",
+                "at you with a slight stoop of the shoulders,",
+                "head forward, and a fixed from-under stare",
+                "which made you think of a charging bull."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His voice was deep, loud,",
+                "and his manner displayed a kind of dogged self-assertion",
+                "which had nothing aggressive in it."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seemed a necessity, and it was directed apparently",
+                "as much at himself as at anybody else."
+            ]
+        },
+        {
+            "timeflat": 7350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was spotlessly neat, apparelled",
+                "in immaculate white from shoes to hat, and",
+                "in the various Eastern ports where he got his living",
+                "as ship-chandler’s water-clerk he was very popular."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A water-clerk need not pass an examination",
+                "in anything under the sun, but he must have Ability",
+                "in the abstract and demonstrate it practically."
+            ]
+        },
+        {
+            "timeflat": 7950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His work consists in racing under sail, steam,",
+                "or oars against other water-clerks for any ship",
+                "about to anchor, greeting her captain cheerily,",
+                "forcing upon him a card —",
+                "the business card of the ship-chandler."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And on his first visit on shore piloting him firmly but",
+                "without ostentation to a vast,",
+                "cavern-like shop which is full of things",
+                "that are eaten and drunk on board ship."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Where you can get everything",
+                "to make her seaworthy and beautiful, from a set",
+                "of chain-hooks for her cable to a book",
+                "of gold-leaf for the carvings of her stern."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And where her commander is received like a brother",
+                "by a ship-chandler he has never seen before."
+            ]
+        },
+        {
+            "timeflat": 7650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is a cool parlour, easy-chairs,",
+                "bottles, cigars, writing implements,",
+                "a copy of harbour regulations,",
+                "and a warmth of welcome that melts the salt",
+                "of a three months’ passage out of a seaman’s heart."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The connection thus begun is kept up,",
+                "as long as the ship remains in harbour,",
+                "by the daily visits of the water-clerk."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To the captain he is faithful",
+                "like a friend and attentive like a son,",
+                "with the patience of Job, the unselfish devotion",
+                "of a woman, and the jollity of a boon companion."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Later on the bill is sent in."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is a beautiful and humane occupation."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Therefore good water-clerks are scarce."
+            ]
+        },
+        {
+            "timeflat": 7500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When a water-clerk who possesses Ability",
+                "in the abstract has also the advantage",
+                "of having been brought up to the sea, he is worth",
+                "to his employer a lot of money and some humouring."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jim had always good wages and as much humouring",
+                "as would have bought the fidelity of a fiend."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Nevertheless, with black ingratitude he",
+                "would throw up the job suddenly and depart."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To his employers the reasons he",
+                "gave were obviously inadequate."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They said ‘Confounded fool!’",
+                "as soon as his back was turned."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This was their criticism",
+                "on his exquisite sensibility."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To the white men",
+                "in the waterside business and to the captains",
+                "of ships he was just Jim — nothing more."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had, of course, another name, but he was anxious",
+                "that it should not be pronounced."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His incognito, which had as many holes as a sieve,",
+                "was not meant to hide a personality but a fact."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the fact broke through the incognito he",
+                "would leave suddenly the seaport where he happened",
+                "to be at the time and go",
+                "to another — generally farther east."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He kept to seaports because he was a seaman",
+                "in exile from the sea, and had Ability",
+                "in the abstract, which is good",
+                "for no other work but that of a water-clerk."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He retreated",
+                "in good order towards the rising sun,",
+                "and the fact followed him casually but inevitably."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Thus in the course of years he was known successively",
+                "in Bombay, in Calcutta, in Rangoon,",
+                "in Penang, in Batavia — and in each",
+                "of these halting-places was just Jim the water-clerk."
+            ]
+        },
+        {
+            "timeflat": 11850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Afterwards, when his keen perception",
+                "of the Intolerable drove him away for good",
+                "from seaports and white men, even into the virgin forest,",
+                "the Malays of the jungle village, where he had elected",
+                "to conceal his deplorable faculty, added a word",
+                "to the monosyllable of his incognito."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They called him Tuan Jim:",
+                "as one might say — Lord Jim."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Originally he came from a parsonage."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Many commanders of fine merchant-ships come",
+                "from these abodes of piety and peace."
+            ]
+        },
+        {
+            "timeflat": 8850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jim’s father possessed such certain knowledge",
+                "of the Unknowable as made for the righteousness",
+                "of people in cottages without disturbing the ease",
+                "of mind of those whom an unerring Providence enables",
+                "to live in mansions."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The little church on a hill had the mossy greyness",
+                "of a rock seen through a ragged screen of leaves."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It had stood there for centuries, but the trees",
+                "around probably remembered the laying",
+                "of the first stone."
+            ]
+        },
+        {
+            "timeflat": 8850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Below, the red front of the rectory gleamed",
+                "with a warm tint in the midst of grass-plots,",
+                "flower-beds, and fir-trees, with an orchard at the back,",
+                "a paved stable-yard to the left, and the sloping glass",
+                "of greenhouses tacked along a wall of bricks."
+            ]
+        },
+        {
+            "timeflat": 10650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The living had belonged to the family for generations;",
+                "but Jim was one of five sons, and when after a course",
+                "of light holiday literature his vocation",
+                "for the sea had declared itself,",
+                "he was sent at once to a ‘training-ship",
+                "for officers of the mercantile marine.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He learned there a little trigonometry and how",
+                "to cross top-gallant yards."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was generally liked."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had the third place",
+                "in navigation and pulled stroke in the first cutter."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Having a steady head with an excellent physique,",
+                "he was very smart aloft."
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His station was in the fore-top, and often",
+                "from there he looked down, with the contempt",
+                "of a man destined to shine in the midst",
+                "of dangers, at the peaceful multitude of roofs cut",
+                "in two by the brown tide of the stream."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "While scattered on the outskirts",
+                "of the surrounding plain the factory chimneys rose perpendicular",
+                "against a grimy sky, each slender like a pencil,",
+                "and belching out smoke like a volcano."
+            ]
+        },
+        {
+            "timeflat": 8850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could see the big ships departing,",
+                "the broad-beamed ferries constantly on the move,",
+                "the little boats floating far below his feet,",
+                "with the hazy splendour of the sea in the distance,",
+                "and the hope of a stirring life in the world of adventure."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On the lower deck in the babel of two hundred voices he",
+                "would forget himself, and beforehand live",
+                "in his mind the sea-life of light literature."
+            ]
+        },
+        {
+            "timeflat": 9450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He saw himself saving people from sinking ships,",
+                "cutting away masts in a hurricane, swimming",
+                "through a surf with a line; or as a lonely castaway,",
+                "barefooted and half naked, walking on uncovered reefs",
+                "in search of shellfish to stave off starvation."
+            ]
+        },
+        {
+            "timeflat": 9600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He confronted savages on tropical shores,",
+                "quelled mutinies on the high seas, and",
+                "in a small boat upon the ocean kept up the hearts",
+                "of despairing men — always an example of devotion",
+                "to duty, and as unflinching as a hero in a book."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Something’s up. Come along.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He leaped to his feet."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The boys were streaming up the ladders."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Above could be heard a great scurrying",
+                "about and shouting, and when he got",
+                "through the hatchway he stood still — as if confounded."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was the dusk of a winter’s day."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The gale had freshened since noon, stopping the traffic",
+                "on the river, and now blew with the strength",
+                "of a hurricane in fitful bursts that boomed",
+                "like salvoes of great guns firing over the ocean."
+            ]
+        },
+        {
+            "timeflat": 12300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The rain slanted in sheets that flicked and subsided,",
+                "and between whiles Jim had threatening glimpses",
+                "of the tumbling tide, the small craft jumbled and tossing",
+                "along the shore, the motionless buildings in the driving mist,",
+                "the broad ferry-boats pitching ponderously",
+                "at anchor, the vast landing-stages heaving",
+                "up and down and smothered in sprays."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The next gust seemed to blow all this away."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The air was full of flying water."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a fierce purpose in the gale,",
+                "a furious earnestness in the screech of the wind,",
+                "in the brutal tumult of earth and sky, that seemed directed",
+                "at him, and made him hold his breath in awe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He stood still."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seemed to him he was whirled around."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was jostled."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Man the cutter!’ Boys rushed past him."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A coaster running in for shelter had crashed",
+                "through a schooner at anchor, and one",
+                "of the ship’s instructors had seen the accident."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A mob of boys clambered on the rails,",
+                "clustered round the davits."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Collision."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Just ahead of us."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Mr. Symons saw it.’ A push made him stagger",
+                "against the mizzen-mast, and he caught hold of a rope."
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The old training-ship chained to her moorings quivered",
+                "all over, bowing gently head to wind,",
+                "and with her scanty rigging humming",
+                "in a deep bass the breathless song of her youth at sea."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Lower away!’ He saw the boat, manned,",
+                "drop swiftly below the rail, and rushed after her."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He heard a splash."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Let go; clear the falls!’ He leaned over."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The river alongside seethed in frothy streaks."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The cutter could be seen in the falling darkness",
+                "under the spell of tide and wind, that",
+                "for a moment held her bound, and tossing abreast of the ship."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A yelling voice in her reached him faintly:",
+                "‘Keep stroke, you young whelps,",
+                "if you want to save anybody!"
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Keep stroke!’ And suddenly she lifted high her bow,",
+                "and, leaping with raised oars over a wave,",
+                "broke the spell cast upon her by the wind and tide."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jim felt his shoulder gripped firmly."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Too late, youngster.’ The captain",
+                "of the ship laid a restraining hand on that boy, who seemed",
+                "on the point of leaping overboard, and Jim looked",
+                "up with the pain of conscious defeat in his eyes."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The captain smiled sympathetically."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘Better luck next time."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This will teach you to be smart.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A shrill cheer greeted the cutter."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She came dancing back half full of water,",
+                "and with two exhausted men washing",
+                "about on her bottom boards."
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The tumult and the menace",
+                "of wind and sea now appeared very contemptible to Jim,",
+                "increasing the regret of his awe at their inefficient menace."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now he knew what to think of it."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seemed to him he cared nothing for the gale."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could affront greater perils."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He would do so — better than anybody."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Not a particle of fear was left."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Nevertheless he brooded apart",
+                "that evening while the bowman of the cutter —",
+                "a boy with a face like a girl’s and big grey eyes —",
+                "was the hero of the lower deck."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Eager questioners crowded round him."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He narrated: ‘I just saw his head bobbing,",
+                "and I dashed my boat-hook in the water."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It caught in his breeches and I nearly went overboard,",
+                "as I thought I would,",
+                "only old Symons let go the tiller and grabbed my legs —",
+                "the boat nearly swamped."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Old Symons is a fine old chap."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I don’t mind a bit him being grumpy with us."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He swore at me all the time he held my leg,",
+                "but that was only his way of telling me",
+                "to stick to the boat-hook."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Old Symons is awfully excitable — isn’t he?"
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "No — not the little fair chap —",
+                "the other, the big one with a beard."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When we pulled him in he groaned, “Oh, my leg!"
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "oh, my leg!” and turned up his eyes."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Fancy such a big chap fainting like a girl."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Would any of you fellows faint",
+                "for a jab with a boat-hook?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "— I wouldn’t."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It went into his leg so far.’ He showed the boat-hook,",
+                "which he had carried below",
+                "for the purpose, and produced a sensation."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "‘No, silly!"
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was not his flesh",
+                "that held him — his breeches did."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Lots of blood, of course.’"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jim thought it a pitiful display of vanity."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The gale had ministered to a heroism",
+                "as spurious as its own pretence of terror."
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He felt angry with the brutal tumult of earth and sky",
+                "for taking him unawares and checking unfairly a generous readiness",
+                "for narrow escapes."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Otherwise he was rather glad he had not gone",
+                "into the cutter,",
+                "since a lower achievement had served the turn."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had enlarged his knowledge more",
+                "than those who had done the work."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When all men flinched, then — he felt sure —",
+                "he alone would know how to deal",
+                "with the spurious menace of wind and seas."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He knew what to think of it."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Seen dispassionately, it seemed contemptible."
+            ]
+        },
+        {
+            "timeflat": 10650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could detect no trace of emotion in himself,",
+                "and the final effect of a staggering event was that,",
+                "unnoticed and apart from the noisy crowd of boys,",
+                "he exulted with fresh certitude in his avidity",
+                "for adventure, and in a sense of many-sided courage."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

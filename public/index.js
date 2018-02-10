@@ -10,8 +10,8 @@ var masterSpeedup = 1;
 
 const ORIGINANIMATEINTIME = 1; // in seconds
 const ORIGINAANIMATEOUTTIME = 1;
-var masterAnimateInTime = ORIGINANIMATEINTIME;
-var masterAnimateOutTime = ORIGINAANIMATEOUTTIME;
+var masterAnimateInTime = ORIGINANIMATEINTIME * masterSpeedup;
+var masterAnimateOutTime = ORIGINAANIMATEOUTTIME * masterSpeedup;
 
 const RATIOBIG = 1/6;
 const RATIOSMALL = 1/20;
@@ -22,22 +22,30 @@ const OPACITYOUT = .5;
 const CONTROLSVISIBLE = 5000;
 
 $(function() {
-    $.get("thelist.list", function(data) {
-        masterList = JSON.parse(data).scenesflat;
-        display();
-    });
+    // heree customize for friends
+    if (window.location.href.includes('zach')) {
+        $.get("zach.list", function(data) {
+            masterList = JSON.parse(data).scenesflat;
+            display();
+        });
+    } else {
+        $.get("thelist.list", function(data) {
+            masterList = JSON.parse(data).scenesflat;
+            display();
+        });
+    }
 
     // similar code at "replay5" and "forward5" and "pause"
     $(document).keydown(function(e) {
         if (e.which === 37) {         // left
             clearTimeout(masterTimer);
-            masterIndex --;
+            masterIndex--;
             masterIndex = Math.max(masterIndex, 0);
             display();
         }
         else if (e.which === 39) {    // right
             clearTimeout(masterTimer);
-            masterIndex ++;
+            masterIndex++;
             masterIndex = Math.min(masterIndex, masterList.length);
             display();
         } else if (e.which === 32) {   // space
@@ -54,6 +62,11 @@ $(function() {
     });
 
     var controlshtml =
+    // ' <p style="width:300px">'+
+    // '     <input class="mdl-slider mdl-js-slider" type="range" id="progress"'+
+    // '     min=".5" max="2" value="1" step=".05">'+
+    // ' </p>'+
+
     ' <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">'+
     '   <input type="button" class="replay5 mdl-icon-toggle__input">'+
     '   <i class="mdl-icon-toggle__label material-icons">replay_5</i>'+
