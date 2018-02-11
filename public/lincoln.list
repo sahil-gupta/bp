@@ -1,0 +1,166 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Gettysburg Address"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Abraham Lincoln"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Four score and seven years ago our fathers brought forth",
+                "on this continent, a new nation, conceived",
+                "in Liberty, and dedicated to the proposition",
+                "that all men are created equal."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now we are engaged in a great civil war,",
+                "testing whether that nation, or any nation",
+                "so conceived and so dedicated, can long endure."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We are met on a great battle-field of that war."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We have come to dedicate a portion of",
+                "that field, as a final resting place for those",
+                "who here gave their lives that that nation might live."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is altogether fitting and proper",
+                "that we should do this."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But, in a larger sense, we can not dedicate —",
+                "we can not consecrate —",
+                "we can not hallow — this ground."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The brave men, living and dead,",
+                "who struggled here, have consecrated it,",
+                "far above our poor power to add or detract."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The world will little note,",
+                "nor long remember what we say here,",
+                "but it can never forget what they did here."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is for us the living, rather, to be dedicated here",
+                "to the unfinished work which they",
+                "who fought here have thus far so nobly advanced."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is rather for us to be here dedicated",
+                "to the great task remaining before us."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That from these honored dead we take increased devotion",
+                "to that cause for",
+                "which they gave the last full measure of devotion."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That we here highly resolve",
+                "that these dead shall not have died in vain."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That this nation, under God,",
+                "shall have a new birth of freedom."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And that government of the people, by the people,",
+                "for the people, shall not perish from the earth."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

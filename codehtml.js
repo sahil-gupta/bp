@@ -1,8 +1,8 @@
 // node codehtml.js
 // turns html into json
 
-const FILEIN = './originals/DFWv1.html';
-const FILEOUT = './DFWv1.json';
+const FILEIN = './originals/GAv1.html';
+const FILEOUT = './GAv1.json';
 
 var fs = require('fs');
 var nlp = require('compromise');

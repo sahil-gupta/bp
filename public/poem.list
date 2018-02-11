@@ -1,0 +1,440 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "The Destruction of Sennacherib"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Lord Byron"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The Assyrian came down like the wolf on the fold,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And his cohorts were gleaming in purple and gold;"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the sheen of their spears was",
+                "like stars on the sea,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the blue wave rolls nightly on deep Galilee."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Like the leaves of the forest",
+                "when Summer is green,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That host with their banners at sunset were seen:"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Like the leaves of the forest",
+                "when Autumn hath blown,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That host on the morrow lay withered and strown."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For the Angel of Death spread his wings",
+                "on the blast,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And breathed in the face of the foe as he passed;"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the eyes",
+                "of the sleepers waxed deadly and chill,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And their hearts but once heaved,",
+                "and for ever grew still!"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And there lay the steed with his nostril all wide,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But through it there rolled not the breath",
+                "of his pride;"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the foam of his gasping lay white on the turf,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And cold as the spray of the rock-beating surf."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And there lay the rider distorted and pale,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With the dew on his brow,",
+                "and the rust on his mail:"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the tents were all silent, the banners alone,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The lances unlifted, the trumpet unblown."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the widows of Ashur are loud in their wail,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the idols are broke in the temple of Baal;"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the might of the Gentile,",
+                "unsmote by the sword,"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hath melted like snow in the glance of the Lord! "
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

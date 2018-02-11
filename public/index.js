@@ -6,7 +6,7 @@ var masterIndex = 0;
 var masterList = [];
 var masterTimer = null;
 var masterFontcap = true;
-var masterSpeedup = 1;
+var masterSpeedup = 1.2;
 
 const ORIGINANIMATEINTIME = 1; // in seconds
 const ORIGINAANIMATEOUTTIME = 1;
@@ -24,20 +24,24 @@ const CONTROLSVISIBLE = 5000;
 $(function() {
     // heree customize for friends
     if (window.location.href.includes('zach')) {
-        $.get("zach.list", function(data) {
-            masterList = JSON.parse(data).scenesflat;
-            display();
-        });
+        $.get("zach.list", initapp);
     } else if (window.location.href.includes('phil')) {
-        $.get("phil.list", function(data) {
-            masterList = JSON.parse(data).scenesflat;
-            display();
-        });
+        $.get("dfw.list", initapp);
+    } else if (window.location.href.includes('poem')) {
+        $.get("poem.list", initapp);
+    } else if (window.location.href.includes('john')) {
+        $.get("dfw.list", initapp);
+    } else if (window.location.href.includes('sam')) {
+        $.get("thelist.list", initapp);
+    } else if (window.location.href.includes('noah')) {
+        $.get("lincoln.list", initapp);
     } else {
-        $.get("thelist.list", function(data) {
-            masterList = JSON.parse(data).scenesflat;
-            display();
-        });
+        $.get("thelist.list", initapp);
+    }
+
+    function initapp(data) {
+        masterList = JSON.parse(data).scenesflat;
+        display();
     }
 
     // similar code at "replay5" and "forward5" and "pause"
@@ -93,7 +97,7 @@ $(function() {
 
     ' <p style="width:200px">'+
     '     <input class="mdl-slider mdl-js-slider" type="range" id="slider"'+
-    '     min=".5" max="2" value="1" step=".05">'+
+    '     min=".5" max="2" value=".83" step=".05">'+
     ' </p>'
     ;
 
