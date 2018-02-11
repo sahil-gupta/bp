@@ -15,6 +15,20 @@ app.get('/zach', (req, res) => {
     res.sendFile(path.join(__dirname + '/index.html'));
     console.log('loaded index');
 });
+app.get('/phil', (req, res) => {
+    res.sendFile(path.join(__dirname + '/index.html'));
+    console.log('loaded index');
+});
+
+
+
+
+
+
+
+
+
+
 
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));

@@ -1,9 +1,12 @@
 // node codejson.js
 // turns json into list
 
+const FILEIN = './DFWv1.json';
+const FILEOUT = './public/phil.list';
+
 var fs = require('fs');
 var syllable = require('syllable');
-var text = fs.readFileSync('thejson.json').toString();
+var text = fs.readFileSync(FILEIN).toString();
 
 var m = JSON.parse(text);
 var mf = new MovieFlat();
@@ -30,7 +33,7 @@ for (var i in m.scenes) {
 var time = 2000;
 mf.add(new SceneFlat(time, 'fadetoblack'));
 
-fs.writeFile("./public/thelist.list", JSON.stringify(mf, null, 4));
+fs.writeFile(FILEOUT, JSON.stringify(mf, null, 4));
 
 //////////////////////////////////////////////////////////////
 
@@ -133,9 +136,10 @@ function getPauseIndices(content, nRows) {
     }
 
     // check extra words
-    var extras = ['all','as','if','so','that','what','when','which','who',
+    var extras = ['all','as','if','so','that','what','when','which','who','whose',
                     'could','would','should',
-                    'only','than'];
+                    'only','than',
+                    'extraordinary'];
     for (var jj = 0; jj < preps.length; jj++) {
         var extra = ' ' + extras[jj] + ' '; // surround with spaces
         var tempextra = indicesOf(content, extra);

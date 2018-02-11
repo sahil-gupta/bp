@@ -1,0 +1,1780 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "This is Water"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "David Foster Wallace"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "May 21, 2005"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There are these two young fish swimming",
+                "along and they happen",
+                "to meet an older fish swimming the other way, who nods",
+                "at them and says “Morning, boys, how’s the water?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the two young fish swim on for a bit,",
+                "and then eventually one of them looks over",
+                "at the other and goes “What the hell is water?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is a standard requirement",
+                "of US commencement speeches, the deployment",
+                "of didactic little parable-ish stories."
+            ]
+        },
+        {
+            "timeflat": 9150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The story turns out to be one of the better,",
+                "less bullshitty conventions of the genre, but",
+                "if you’re worried that I plan to present myself here",
+                "as the wise, older fish explaining what water is",
+                "to you younger fish, please don’t be."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am not the wise old fish."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The point of the fish story is merely that the most obvious,",
+                "important realities are often the ones",
+                "that are hardest to see and talk about."
+            ]
+        },
+        {
+            "timeflat": 10050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Stated as an English sentence, of course,",
+                "this is just a banal platitude, but the fact is",
+                "that in the day to day trenches of adult existence,",
+                "banal platitudes can have a life or death importance,",
+                "or so I wish to suggest to you",
+                "on this dry and lovely morning."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 10350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of course the main requirement of speeches",
+                "like this is that I’m supposed to talk",
+                "about your liberal arts education’s meaning,",
+                "to try to explain why the degree you are about",
+                "to receive has actual human value instead of just a material payoff."
+            ]
+        },
+        {
+            "timeflat": 8700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So let’s talk about the single most pervasive cliché",
+                "in the commencement speech genre, which is",
+                "that a liberal arts education is not",
+                "so much about filling you up with knowledge",
+                "as it is about “teaching you how to think.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 11100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If you’re like me as a student, you’ve never liked hearing this,",
+                "and you tend to feel a bit insulted by the claim",
+                "that you needed anybody to teach you how to think,",
+                "since the fact that you even got admitted",
+                "to a college this good seems like proof",
+                "that you already know how to think."
+            ]
+        },
+        {
+            "timeflat": 12450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I’m going to posit to you",
+                "that the liberal arts cliché turns out not to be insulting",
+                "at all, because the really significant education",
+                "in thinking that we’re supposed to get in a place",
+                "like this isn’t really about the capacity to think,",
+                "but rather about the choice of what to think about."
+            ]
+        },
+        {
+            "timeflat": 10050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If your total freedom of choice regarding what to think",
+                "about seems too obvious to waste time discussing,",
+                "I’d ask you to think about fish and water, and",
+                "to bracket for just a few minutes your skepticism",
+                "about the value of the totally obvious."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Here’s another didactic little story."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There are these two guys sitting together",
+                "in a bar in the remote Alaskan wilderness."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One of the guys is religious, the other is an atheist,",
+                "and the two are arguing about the existence",
+                "of God with that special intensity",
+                "that comes after about the fourth beer."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the atheist says: “Look, it’s not",
+                "like I don’t have actual reasons for not believing in God."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s not like I haven’t ever experimented",
+                "with the whole God and prayer thing."
+            ]
+        },
+        {
+            "timeflat": 15000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Just last month I got caught away",
+                "from the camp in that terrible blizzard,",
+                "and I was totally lost and I couldn’t see a thing,",
+                "and it was fifty below, and so I tried it: I fell",
+                "to my knees in the snow and cried out ‘Oh, God,",
+                "if there is a God, I’m lost in this blizzard,",
+                "and I’m gonna die if you don’t help me.’” And now, in the bar,",
+                "the religious guy looks at the atheist all puzzled."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well then you must believe now,”",
+                "he says, “After all, here you are,",
+                "alive.” The atheist just rolls his eyes."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, man, all that was was a couple Eskimos happened",
+                "to come wandering",
+                "by and showed me the way back to camp.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 11550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s easy to run this story through kind",
+                "of a standard liberal arts analysis:",
+                "the exact same experience can mean two totally different things",
+                "to two different people,",
+                "given those people’s two different belief templates and two different ways",
+                "of constructing meaning from experience."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because we prize tolerance and diversity",
+                "of belief, nowhere",
+                "in our liberal arts analysis do we want to claim",
+                "that one guy’s interpretation is true and the other guy’s is false or bad."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Which is fine,",
+                "except we also never end up talking",
+                "about just where these individual templates and beliefs come from."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Meaning, where they come",
+                "from <i>inside</i> the two guys."
+            ]
+        },
+        {
+            "timeflat": 8250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As if a person’s most basic orientation",
+                "toward the world, and the meaning",
+                "of his experience were somehow just hard-wired,",
+                "like height or shoe-size; or automatically absorbed",
+                "from the culture, like language."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As if how we construct meaning were not actually a matter",
+                "of personal, intentional choice."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Plus, there’s the whole matter of arrogance."
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The nonreligious guy is so totally certain in his dismissal",
+                "of the possibility that the passing Eskimos had anything",
+                "to do with his prayer for help."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "True, there are plenty of religious people",
+                "who seem arrogant and certain",
+                "of their own interpretations, too."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They’re probably even more repulsive",
+                "than atheists, at least to most of us."
+            ]
+        },
+        {
+            "timeflat": 9150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But religious dogmatists’ problem is exactly the same",
+                "as the story’s unbeliever:",
+                "blind certainty, a close-mindedness",
+                "that amounts to an imprisonment so total",
+                "that the prisoner doesn’t even know he’s locked up."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The point here is that I think this is one part",
+                "of what teaching me how",
+                "to think is really supposed to mean."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To be just a little less arrogant."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To have just a little critical awareness",
+                "about myself and my certainties."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because a huge percentage of the stuff",
+                "that I tend to be automatically certain of is,",
+                "it turns out, totally wrong and deluded."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have learned this the hard way,",
+                "as I predict you graduates will, too."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 12000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Here is just one example",
+                "of the total wrongness of something I tend",
+                "to be automatically sure of: everything",
+                "in my own immediate experience supports my deep belief",
+                "that I am the absolute center of the universe;",
+                "the realist, most vivid and important person in existence."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We rarely think about this sort",
+                "of natural, basic self-centeredness",
+                "because it’s so socially repulsive."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But it’s pretty much the same for all of us."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is our default setting,",
+                "hard-wired into our boards at birth."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Think about it: there is no experience you have had",
+                "that you are not the absolute center of."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The world as you experience it is there",
+                "in front of <i>you</i> or behind <i>you</i>,",
+                "to the left or right of <i>you</i>,",
+                "on <i>your</i> TV or <i>your</i> monitor."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And so on."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Other people’s thoughts and feelings have",
+                "to be communicated to you somehow,",
+                "but your own are so immediate, urgent, real."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Please don’t worry that I’m getting ready to lecture you",
+                "about compassion or other-directedness or",
+                "all the so-called virtues."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is not a matter of virtue."
+            ]
+        },
+        {
+            "timeflat": 9750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s a matter of my choosing to do the work",
+                "of somehow altering or getting free",
+                "of my natural, hard-wired default setting which is",
+                "to be deeply and literally self-centered and",
+                "to see and interpret everything through this lens of self."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "People who can adjust their natural default setting",
+                "in this way are often described as being",
+                "“well-adjusted,” which I suggest",
+                "to you is not an accidental term."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Given the triumphant academic setting here,",
+                "an obvious question is how much of this work,",
+                "of adjusting our default setting,",
+                "involves actual knowledge or intellect."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This question gets very tricky."
+            ]
+        },
+        {
+            "timeflat": 13650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Probably the most dangerous thing about an academic education —",
+                "least in my own case — is that it enables my tendency",
+                "to over-intellectualize stuff, to get lost",
+                "in abstract argument inside my head,",
+                "instead of simply paying attention to",
+                "what is going on right in front of me,",
+                "paying attention to what is going on inside me."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As I’m sure you guys know by now, it is extremely difficult",
+                "to stay alert and attentive, instead",
+                "of getting hypnotized by the constant monologue",
+                "inside your own head (may be happening right now)."
+            ]
+        },
+        {
+            "timeflat": 12300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Twenty years after my own graduation, I have come gradually",
+                "to understand that the liberal arts cliché",
+                "about teaching you how to think is actually shorthand",
+                "for a much deeper, more serious idea:",
+                "learning how to think really means learning how",
+                "to exercise some control over how and what you think."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It means being conscious and aware enough",
+                "to choose what you pay attention to and",
+                "to choose how you construct meaning from experience."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because if you cannot exercise this kind of choice",
+                "in adult life, you will be totally hosed."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Think of the old cliché",
+                "about quote the mind being an excellent servant, but a terrible master."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This, like many clichés,",
+                "so lame and unexciting on the surface,",
+                "actually expresses a great and terrible truth."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is not the least bit coincidental",
+                "that adults who commit suicide",
+                "with firearms almost always shoot themselves in the head."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They shoot the terrible master."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the truth is that most of these suicides are actually dead long",
+                "before they pull the trigger."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 14550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And I submit that this is what the real, no bullshit value",
+                "of your liberal arts education is supposed to be about:",
+                "how to keep from going through your comfortable,",
+                "prosperous, respectable adult life dead,",
+                "unconscious, a slave to your head and",
+                "to your natural default setting of being uniquely,",
+                "completely, imperially alone day in and day out."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That may sound like hyperbole,",
+                "or abstract nonsense."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Let’s get concrete."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The plain fact is",
+                "that you graduating seniors do not yet have any clue",
+                "what “day in day out” really means."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There happen to be whole, large parts",
+                "of adult American life that nobody talks",
+                "about in commencement speeches."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One such part involves boredom,",
+                "routine, and petty frustration."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The parents and older folks here will know",
+                "all too well what I’m talking about."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "By way of example, let’s say it’s an average adult day,",
+                "and you get up in the morning, go to your challenging,",
+                "white-collar, college-graduate job,",
+                "and you work hard for eight or ten hours."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And at the end of the day you’re tired and somewhat stressed and",
+                "all you want is",
+                "to go home and have a good supper and maybe unwind",
+                "for an hour, and then hit the sack early because."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of course, you have to get",
+                "up the next day and do it all again."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But then you remember there’s no food at home."
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You haven’t had time to shop this week",
+                "because of your challenging job, and",
+                "so now after work you have to get",
+                "in your car and drive to the supermarket."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s the end of the work day,",
+                "and the traffic is apt to be very bad."
+            ]
+        },
+        {
+            "timeflat": 9450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So getting to the store takes way longer",
+                "than it should, and when you finally get there,",
+                "the supermarket is very crowded, because",
+                "of course it’s the time of day when all the other people",
+                "with jobs also try to squeeze in some grocery shopping."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the store is hideously lit and infused",
+                "with soul-killing muzak or corporate pop,",
+                "and it’s pretty much the last place you want",
+                "to be, but you can’t just get in and quickly out."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You have to wander all over the huge,",
+                "over-lit store’s confusing aisles to find the stuff you want."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And you have to maneuver your junky cart through",
+                "all these other tired, hurried people with carts."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And of course there are also the glacially slow old people,",
+                "and the spacey people and the ADHD kids",
+                "who all block the aisle."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And you have to grit your teeth and try",
+                "to be polite as you ask them to let you by."
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And eventually, finally, you get",
+                "all your supper supplies, except now it turns",
+                "out there aren’t enough check-out lanes open,",
+                "even though it’s the end-of-the-day rush."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So the checkout line is incredibly long,",
+                "which is stupid and infuriating."
+            ]
+        },
+        {
+            "timeflat": 9450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But you can’t take your frustration out",
+                "on the frantic lady working the register,",
+                "who is overworked at a job",
+                "whose daily tedium and meaninglessness surpasses the imagination",
+                "of any of us here at a prestigious college."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But anyway, you finally get to the checkout line’s front,",
+                "and you pay for your food, and you get told",
+                "to “Have a nice day” in a voice",
+                "that is the absolute voice of <i>death</i>."
+            ]
+        },
+        {
+            "timeflat": 12150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then you have to take your creepy, flimsy,",
+                "plastic bags of groceries in your cart",
+                "with the one crazy wheel that pulls maddeningly",
+                "to the left, all the way out through the crowded,",
+                "bumpy, littery parking lot, and then you have",
+                "to drive all the way home through slow, heavy,",
+                "SUV-intensive, rush-hour traffic, et cetera et cetera."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Everyone here has done this, of course."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But it hasn’t yet been part",
+                "of you graduates’ actual life routine,",
+                "day after week after month after year."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But it will be."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And many more dreary, annoying,",
+                "seemingly meaningless routines besides."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But that is not the point."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The point is that petty, frustrating crap",
+                "like this is exactly where the work",
+                "of choosing is gonna come in."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because the traffic jams and crowded aisles and long checkout lines give me time",
+                "to think."
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And if I don’t make a conscious decision",
+                "about how to think and what to pay attention to,",
+                "I’m gonna be pissed and miserable every time I have to shop."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because my natural default setting is the certainty",
+                "that situations",
+                "like this are really all about me."
+            ]
+        },
+        {
+            "timeflat": 7500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "About <i>my</i> hungriness and <i>my</i> fatigue and <i>my</i> desire",
+                "to just get home, and it’s going",
+                "to seem for all the world",
+                "like everybody else is <i>just in my way</i>."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And who are all these people in my way?"
+            ]
+        },
+        {
+            "timeflat": 9000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And look at how repulsive most of them are,",
+                "and how stupid and cow-like and dead-eyed and nonhuman they seem",
+                "in the checkout line, or at how annoying and rude it is",
+                "that people are talking loudly",
+                "on cell phones in the middle of the line."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And look",
+                "at how deeply and personally unfair this is."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 11400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or, of course, if I’m in a more socially conscious liberal arts form",
+                "of my default setting, I can spend time",
+                "in the end-of-the-day traffic being disgusted",
+                "about all the huge, stupid,",
+                "lane-blocking SUVs and Hummers and V-12 pickup trucks burning their wasteful,",
+                "selfish, forty-gallon tanks of gas."
+            ]
+        },
+        {
+            "timeflat": 14250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And I can dwell on the fact",
+                "that the patriotic or religious bumper stickers always seem",
+                "to be on the biggest, most disgustingly selfish vehicles driven",
+                "by the ugliest, most inconsiderate and aggressive drivers,",
+                "who are usually talking on cell phones",
+                "as they cut people off in order",
+                "to get just twenty stupid feet ahead in a traffic jam."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And I can think about how our children’s children will despise us",
+                "for wasting all the future’s fuel and probably screwing",
+                "up the climate."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And how spoiled and stupid and disgusting we",
+                "all are, and how it all just sucks,",
+                "and so on and so forth…"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You get the idea."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If I choose to think this way",
+                "in a store and on the freeway, fine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Lots of us do."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Except thinking this way tends",
+                "to be so easy and automatic",
+                "that it doesn’t <i>have</i> to be a choice."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is my natural default setting."
+            ]
+        },
+        {
+            "timeflat": 11700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s the automatic way that I experience the boring,",
+                "frustrating, crowded parts of adult life",
+                "when I’m operating on the automatic,",
+                "unconscious belief that I am the center of the world,",
+                "and that my immediate needs and feelings are",
+                "what should determine the world’s priorities."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The thing is that, of course,",
+                "there are totally different ways",
+                "to think about these kinds of situations."
+            ]
+        },
+        {
+            "timeflat": 12300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In this traffic, all these vehicles stopped and idling",
+                "in my way, it’s not impossible that some of these people",
+                "in SUV’s have been in horrible auto accidents",
+                "in the past, and now find driving",
+                "so terrifying that their therapist has",
+                "all but ordered them to get a huge, heavy SUV",
+                "so they can feel safe enough to drive."
+            ]
+        },
+        {
+            "timeflat": 12150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or that the Hummer that just cut me off is maybe being driven",
+                "by a father whose little child is hurt or sick",
+                "in the seat next to him, and he’s trying",
+                "to get this kid to the hospital, and he’s",
+                "in a bigger, more legitimate hurry than I am:",
+                "it is actually <i>I</i> who am in <i>his</i> way."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 10200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or I can choose to force myself to consider the likelihood",
+                "that everyone else in the supermarket’s checkout line is just",
+                "as bored and frustrated as I am, and that some",
+                "of these people probably have harder,",
+                "more tedious and painful lives than I do."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Again, please don’t think that I’m giving you moral advice,",
+                "or that I’m saying you are supposed",
+                "to think this way, or that anyone expects you",
+                "to just automatically do it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because it’s hard."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It takes will and effort, and if you are",
+                "like me, some days you won’t be able",
+                "to do it, or you just flat out won’t want to."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But most days, if you’re aware enough",
+                "to give yourself a choice, you can choose",
+                "to look differently at this fat, dead-eyed, over-made-up lady",
+                "who just screamed at her kid in the checkout line."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Maybe she’s not usually like this."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Maybe she’s been up three straight nights holding the hand",
+                "of a husband who is dying of bone cancer."
+            ]
+        },
+        {
+            "timeflat": 8700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or maybe this very lady is the lowwage clerk",
+                "at the motor vehicle department,",
+                "who just yesterday helped your spouse resolve a horrific,",
+                "infuriating, red-tape problem",
+                "through some small act of bureaucratic kindness."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of course, none of this is likely,",
+                "but it’s also not impossible."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It just depends what you what to consider."
+            ]
+        },
+        {
+            "timeflat": 9150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If you’re automatically sure that you know what reality is,",
+                "and you are operating on your default setting,",
+                "then you, like me, probably won’t consider possibilities",
+                "that aren’t annoying and miserable."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But if you really learn how to pay attention,",
+                "then you will know there are other options."
+            ]
+        },
+        {
+            "timeflat": 9750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It will actually be within your power",
+                "to experience a crowded, hot, slow,",
+                "consumer-hell type situation as not only meaningful,",
+                "but sacred, on fire with the same force",
+                "that made the stars: love, fellowship,",
+                "the mystical oneness of all things deep down."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Not that that mystical stuff is necessarily true."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The only thing that’s capital-T True is",
+                "that you get",
+                "to <i>decide</i> how you’re gonna try to see it."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This, I submit, is the freedom of a real education,",
+                "of learning how to be well-adjusted."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You get to consciously decide",
+                "what has meaning and what doesn’t."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You get to decide what to worship."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Because here’s something else that’s weird but true:",
+                "in the day-to day trenches of adult life,",
+                "there is actually no such thing as atheism."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is no such thing as not worshipping."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Everybody worships."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The only choice we get is <i>what</i> to worship."
+            ]
+        },
+        {
+            "timeflat": 12300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the compelling reason for maybe choosing some sort",
+                "of god or spiritual-type thing to worship —",
+                "be it JC or Allah, be it YHWH or the Wiccan Mother Goddess,",
+                "or the Four Noble Truths, or some inviolable set",
+                "of ethical principles — is",
+                "that pretty much anything else you worship will eat you alive."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If you worship money and things,",
+                "if they are where you tap real meaning in life,",
+                "then you will never have enough, never feel you have enough."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s the truth."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Worship your body and beauty and sexual",
+                "allure and you will always feel ugly."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And when time and age start showing,",
+                "you will die a million deaths before they finally grieve you."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On one level, we all know this stuff already."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s been codified as myths, proverbs,",
+                "clichés, epigrams, parables;",
+                "the skeleton of every great story."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The whole trick is keeping the truth",
+                "up front in daily consciousness."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Worship power, you will end up feeling weak and afraid,",
+                "and you will need ever more power",
+                "over others to numb you to your own fear."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Worship your intellect, being seen as smart,",
+                "you will end up feeling stupid, a fraud,",
+                "always on the verge of being found out."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But the insidious thing about these forms",
+                "of worship is not that they’re evil or sinful,",
+                "it’s that they’re <i>unconscious</i>."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They are default settings."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 8550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They’re the kind of worship you just gradually slip into,",
+                "day after day, getting more and more selective",
+                "about what you see and how you measure value",
+                "without ever being fully aware",
+                "that that’s what you’re doing."
+            ]
+        },
+        {
+            "timeflat": 9900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the so-called real world will not discourage you",
+                "from operating on your default settings,",
+                "because the so-called real world",
+                "of men and money and power hums merrily along in a pool",
+                "of fear and anger and frustration and craving and worship of self."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Our own present culture has harnessed these forces",
+                "in ways that have yielded",
+                "extraordinary wealth and comfort and personal freedom."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The freedom all to be lords of our tiny skull-sized kingdoms,",
+                "alone at the center of all creation."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This kind of freedom has much to recommend it."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But of course there are all different kinds of freedom,",
+                "and the kind that is most precious you will not hear much talk",
+                "about much in the great outside world",
+                "of wanting and achieving and displaying."
+            ]
+        },
+        {
+            "timeflat": 9750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The really important kind",
+                "of freedom involves attention and awareness and discipline,",
+                "and being able truly to care about other people and",
+                "to sacrifice for them over and over",
+                "in myriad petty, unsexy ways every day."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is real freedom."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is being educated,",
+                "and understanding how to think."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The alternative is unconsciousness, the default setting,",
+                "the rat race, the constant gnawing sense",
+                "of having had, and lost, some infinite thing."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I know",
+                "that this stuff probably doesn’t sound fun and breezy or grandly inspirational",
+                "in the way a commencement speech is supposed to sound."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What it is, as far as I can see,",
+                "is the capital-T Truth, with a whole lot",
+                "of rhetorical niceties stripped away."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You are, of course, free to think",
+                "of it whatever you wish."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But please don’t just dismiss it",
+                "as just some fingerwagging Dr. Laura sermon."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "None of this stuff is really",
+                "about morality or religion or dogma or big fancy questions",
+                "of life after death."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The capital-T Truth is",
+                "about life <i>before</i> death."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 12300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is about the real value of a real education,",
+                "which has almost nothing to do with knowledge,",
+                "and everything to do with simple awareness;",
+                "awareness of what is so real and essential,",
+                "so hidden in plain sight all around us, all the time,",
+                "that we have to keep reminding ourselves over and over:"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is water.” “This is water.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is unimaginably hard to do this,",
+                "to stay conscious and alive",
+                "in the adult world day in and day out."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Which means yet another grand cliché turns",
+                "out to be true:",
+                "your education really <i>is</i> the job of a lifetime."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And it commences: now."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I wish you way more than luck. "
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

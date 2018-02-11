@@ -28,6 +28,11 @@ $(function() {
             masterList = JSON.parse(data).scenesflat;
             display();
         });
+    } else if (window.location.href.includes('phil')) {
+        $.get("phil.list", function(data) {
+            masterList = JSON.parse(data).scenesflat;
+            display();
+        });
     } else {
         $.get("thelist.list", function(data) {
             masterList = JSON.parse(data).scenesflat;

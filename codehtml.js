@@ -1,11 +1,13 @@
 // node codehtml.js
 // turns html into json
 
+const FILEIN = './originals/DFWv1.html';
+const FILEOUT = './DFWv1.json';
+
 var fs = require('fs');
 var nlp = require('compromise');
 
-var file = 'thehtml.html'; //process.argv[2];
-var text = fs.readFileSync(file).toString();
+var text = fs.readFileSync(FILEIN).toString();
 var textLines = text.split('\n');
 
 var m = new Movie();
@@ -58,7 +60,7 @@ for (var j in m.scenes) {
     m.scenes[j].content = sentences;
 }
 
-fs.writeFile("./thejson.json", JSON.stringify(m, null, 4));
+fs.writeFile(FILEOUT, JSON.stringify(m, null, 4));
 
 //////////////////////////////////////////////////////////////
 
