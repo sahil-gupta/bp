@@ -19,7 +19,7 @@ const RATIOSMALL = 1/20;
 const OPACITYIN = .5;
 const OPACITYOUT = .5;
 
-const CONTROLSVISIBLE = 5000;
+const CONTROLSVISIBLE = 3000;
 
 $(function() {
     // heree customize for friends
@@ -83,60 +83,13 @@ $(function() {
         }
     });
 
-    var controlshtml =
-    // ' <p style="width:300px">'+
-    // '     <input class="mdl-slider mdl-js-slider" type="range" id="progress"'+
-    // '     min=".5" max="2" value="1" step=".05">'+
-    // ' </p>'+
-
-    ' <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">'+
-    '   <input type="button" class="replay5 mdl-icon-toggle__input">'+
-    '   <i class="mdl-icon-toggle__label material-icons">replay_5</i>'+
-    ' </label>'+
-
-    ' <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">'+
-    '   <input type="checkbox" class="pauseinput mdl-icon-toggle__input">'+
-    '   <i class="playicon mdl-icon-toggle__label material-icons">pause_circle_filled</i>'+
-    ' </label>'+
-
-    ' <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">'+
-    '   <input type="button" class="forward5 mdl-icon-toggle__input">'+
-    '   <i class="mdl-icon-toggle__label material-icons">forward_5</i>'+
-    ' </label>'+
-
-    ' <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect">'+
-    '   <input type="checkbox" class="fontcap mdl-switch__input">'+
-    ' </label>'+
-
-    ' <p style="width:200px">'+
-    '     <input class="mdl-slider mdl-js-slider" type="range" id="slider"'+
-    '     min=".5" max="2" value=".83" step=".05">'+
-    ' </p>'
-    ;
-
-
-    // all jquery controls of buttons must come after this instantiation
-    var controls = $.toast({
-      text: controlshtml,
-      showHideTransition: 'fade',
-      bgColor: '#eee',
-      textColor: '#222',
-      allowToastClose: false,
-      hideAfter: CONTROLSVISIBLE,
-      stack: false,
-      textAlign: 'center',
-      position: 'bottom-center',
-      loader: false
-    })
-
+    $('.pauseinput').click(function() { hitPause(); });
+    $('.replay5').click(function() { moveIndex(-5); });
+    $('.forward5').click(function() { moveIndex(5); });
     $('.fontcap').change(function() {
         masterFontcap = !masterFontcap;
         triggerbigtext();
     });
-    $('.pauseinput').click(function() { hitPause(); });
-    $('.replay5').click(function() { moveIndex(-5); });
-    $('.forward5').click(function() { moveIndex(5); });
-
     $('#slider').on('input', function () {
         masterSpeedup = 1 / $(this).val();
 
@@ -145,15 +98,17 @@ $(function() {
     });
 
     // handling snackbar
-    var mousemute = true;
-    setTimeout(function() { mousemute = false; }, CONTROLSVISIBLE);
-    $("#grandparent").mousemove(function(event) {
+    var mousemute = false;
+    setTimeout(() => { $('.snackbar').fadeTo(500, 0); }, CONTROLSVISIBLE);
+    $('body').mousemove(function(event) {
         if (mousemute)
             return;
-
         mousemute = true;
-        controls.reappear();
-        setTimeout(function() { mousemute = false; }, CONTROLSVISIBLE);
+
+        $('.snackbar').fadeTo(250, 1);
+
+        setTimeout(() => { $('.snackbar').fadeTo(500, 0); }, CONTROLSVISIBLE);
+        setTimeout(() => { mousemute = false; }, CONTROLSVISIBLE);
     });
 });
 

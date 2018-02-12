@@ -16,10 +16,6 @@
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.red-indigo.min.css" />
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
 
-    <!-- jquery toast -->
-    <link rel="stylesheet" href="jquery.toast.min.css">
-    <script src="jquery.toast.js"></script>
-
     <style>
         html, body {
             height: 100%;
@@ -64,12 +60,25 @@
             font-weight: bold;
         }
 
-        .jq-toast-wrap i.mdl-icon-toggle__label.material-icons {
-            font-size: 32px;
-            margin: 0 10px 0 10px;
+        .snackbar {
+            opacity: 1;
+            background-color: #ddd;
+            color: #fff;
+            text-align: center;
+            border-radius: 2px;
+            padding: 16px;
+            position: fixed;
+            z-index: 1;
+            bottom: 30px;
         }
-        .jq-toast-wrap .mdl-js-switch {
-            margin: 5px 0 7px 0;
+        .snackbar.center {
+            min-width: 250px;
+            margin-left: -125px;
+            left: 50%;
+        }
+        .snackbar.right {
+            min-width: 100px;
+            right: 3%;
         }
     </style>
 </head>
@@ -82,6 +91,33 @@
                 <!-- <span>in Order to form a more perfect Union</span> -->
             </div>
         </div>
+    </div>
+    <div class="snackbar center">
+
+        <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">
+          <input type="button" class="replay5 mdl-icon-toggle__input">
+          <i class="mdl-icon-toggle__label material-icons">replay_5</i>
+        </label>
+
+        <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">
+          <input type="checkbox" class="pauseinput mdl-icon-toggle__input">
+          <i class="playicon mdl-icon-toggle__label material-icons">pause_circle_filled</i>
+        </label>
+
+        <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">
+          <input type="button" class="forward5 mdl-icon-toggle__input">
+          <i class="mdl-icon-toggle__label material-icons">forward_5</i>
+        </label>
+
+        <!-- <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect">
+          <input type="checkbox" class="fontcap mdl-switch__input">
+        </label> -->
+
+
+    </div>
+    <div class="snackbar right">
+            <input class="mdl-slider mdl-js-slider" type="range" id="slider"
+            min=".5" max="2" value=".83" step=".05">
     </div>
 </body>
 </html>
