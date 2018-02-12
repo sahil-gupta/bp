@@ -5,7 +5,7 @@ var masterPause = false;
 var masterIndex = 0;
 var masterList = [];
 var masterTimer = null;
-var masterFontcap = true;
+var masterFontcap = false;
 var masterSpeedup = 1.2;
 
 const ORIGINANIMATEINTIME = 1; // in seconds
@@ -13,7 +13,7 @@ const ORIGINAANIMATEOUTTIME = 1;
 var masterAnimateInTime = ORIGINANIMATEINTIME * masterSpeedup;
 var masterAnimateOutTime = ORIGINAANIMATEOUTTIME * masterSpeedup;
 
-const RATIOBIG = 1/6;
+const RATIOBIG = 1/10;
 const RATIOSMALL = 1/20;
 
 const OPACITYIN = .5;
@@ -35,6 +35,10 @@ $(function() {
         $.get("thelist.list", initapp);
     } else if (window.location.href.includes('noah')) {
         $.get("lincoln.list", initapp);
+    } else if (window.location.href.includes('shreyas')) {
+        $.get("tagore.list", initapp);
+    } else if (window.location.href.includes('guavocado')) {
+        $.get("bananafish.list", initapp);
     } else {
         $.get("thelist.list", initapp);
     }
@@ -44,29 +48,38 @@ $(function() {
         display();
     }
 
+    function moveIndex(n) {
+        clearTimeout(masterTimer);
+        masterIndex += n;
+        if (n < 0) {    // rewind
+            masterIndex = Math.max(masterIndex, 0);
+        } else {        // fastforward
+            masterIndex = Math.min(masterIndex, masterList.length);
+        }
+        display();
+    }
+
+    function hitPause() {
+        if (masterPause) {
+            $('.playicon').html('pause_circle_filled');
+            masterPause = false;
+            display();
+        } else {
+            $('.playicon').html('play_circle_filled');
+            masterPause = true;
+            clearTimeout(masterTimer);
+        }
+    }
+
     // similar code at "replay5" and "forward5" and "pause"
     $(document).keydown(function(e) {
-        if (e.which === 37) {         // left
-            clearTimeout(masterTimer);
-            masterIndex--;
-            masterIndex = Math.max(masterIndex, 0);
-            display();
+        if (e.which === 37) {           // left
+            moveIndex(-1);
         }
-        else if (e.which === 39) {    // right
-            clearTimeout(masterTimer);
-            masterIndex++;
-            masterIndex = Math.min(masterIndex, masterList.length);
-            display();
-        } else if (e.which === 32) {   // space
-            if (masterPause) {
-                $('.playicon').html('pause_circle_filled');
-                masterPause = false;
-                display();
-            } else {
-                $('.playicon').html('play_circle_filled');
-                masterPause = true;
-                clearTimeout(masterTimer);
-            }
+        else if (e.which === 39) {      // right
+            moveIndex(1);
+        } else if (e.which === 32) {    // space
+            hitPause();
         }
     });
 
@@ -92,7 +105,7 @@ $(function() {
     ' </label>'+
 
     ' <label class="mdl-switch mdl-js-switch mdl-js-ripple-effect">'+
-    '   <input type="checkbox" class="fontcap mdl-switch__input" checked>'+
+    '   <input type="checkbox" class="fontcap mdl-switch__input">'+
     ' </label>'+
 
     ' <p style="width:200px">'+
@@ -120,32 +133,9 @@ $(function() {
         masterFontcap = !masterFontcap;
         triggerbigtext();
     });
-
-    $('.pauseinput').click(function() {
-        if (masterPause) {
-            $('.playicon').html('pause_circle_filled');
-            masterPause = false;
-            display();
-        } else {
-            $('.playicon').html('play_circle_filled');
-            masterPause = true;
-            clearTimeout(masterTimer);
-        }
-    });
-
-    $('.replay5').click(function() {
-        clearTimeout(masterTimer);
-        masterIndex -=5;
-        masterIndex = Math.max(masterIndex, 0);
-        display();
-    });
-
-    $('.forward5').click(function() {
-        clearTimeout(masterTimer);
-        masterIndex +=5;
-        masterIndex = Math.min(masterIndex, masterList.length);
-        display();
-    });
+    $('.pauseinput').click(function() { hitPause(); });
+    $('.replay5').click(function() { moveIndex(-5); });
+    $('.forward5').click(function() { moveIndex(5); });
 
     $('#slider').on('input', function () {
         masterSpeedup = 1 / $(this).val();
@@ -154,6 +144,7 @@ $(function() {
         masterAnimateOutTime = ORIGINAANIMATEOUTTIME * masterSpeedup;
     });
 
+    // handling snackbar
     var mousemute = true;
     setTimeout(function() { mousemute = false; }, CONTROLSVISIBLE);
     $("#grandparent").mousemove(function(event) {

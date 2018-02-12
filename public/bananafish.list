@@ -1,0 +1,5147 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "A Perfect Day for a Bananafish"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "J. D. Salinger"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There were ninety-seven New York advertising men",
+                "in the hotel, and,",
+                "the way they were monopolizing the long-distance lines,",
+                "the girl in 507 had to wait from noon",
+                "till almost two-thirty to get her call through."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She used the time, though."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She read an article in a women’s pocket-size magazine,",
+                "called “Sex Is Fun — or Hell.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She washed her comb and brush."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She took the spot out",
+                "of the skirt of her beige suit."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She moved the button on her Saks blouse."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She tweezed out two freshly surfaced hairs",
+                "in her mole."
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the operator finally rang her room, she was sitting",
+                "on the window seat and had almost finished putting lacquer",
+                "on the nails of her left hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She was a girl who",
+                "for a ringing phone dropped exactly nothing."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She looked as if her phone had been ringing continually ever",
+                "since she had reached puberty."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With her little lacquer brush, while the phone was ringing,",
+                "she went over the nail of her little finger,",
+                "accentuating the line of the moon."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She then replaced the cap on the bottle",
+                "of lacquer and, standing up, passed her left —",
+                "the wet — hand back and forth through the air."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With her dry hand, she picked up a congested ashtray",
+                "from the window seat and carried it with her over",
+                "to the night table, on which the phone stood."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She sat down on one of the made-up twin beds and —",
+                "it was the fifth or sixth ring —",
+                "picked up the phone."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hello,” she said, keeping the fingers",
+                "of her left hand outstretched and away",
+                "from her white silk dressing gown, which was all",
+                "that she was wearing, except mules — her rings were in the bathroom."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I have your call to New York now,",
+                "Mrs. Glass,” the operator said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Thank you,” said the girl, and made the room",
+                "on the night table for the ashtray."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A woman’s voice came through.",
+                "“Muriel? Is that you?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The girl turned the receiver slightly away",
+                "from her ear."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, Mother."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "How are you?” she said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ve been worried to death about you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why haven’t you phoned?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Are you all right?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I tried",
+                "to get you last night and the night before."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The phone here’s been—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Are you all right, Muriel?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The girl increased the angle",
+                "between the receiver and her ear."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m fine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’m hot."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is the hottest day they’ve had",
+                "in Florida in—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why haven’t you called me? I’ve been worried to—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother, darling, don’t yell at me."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I can hear you beautifully,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I called you twice last night."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Once just after—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I <i>told</i> your father",
+                "you’d probably call last night."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But, no, he had to — Are you all right, Muriel?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Tell me the truth.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m fine. Stop asking me that, please.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“When did you get there?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t know. Wednesday morning, early.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Who drove?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He did,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And don’t get excited."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He drove very nicely."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was amazed.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“<i>He</i> drove? Muriel,",
+                "you gave me your word of—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother,” the girl interrupted, “I just told you."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He drove <i>very</i> nicely."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Under fifty the whole way, as a matter of fact.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did he try any of",
+                "that funny business with the trees?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I <i>said</i> he drove very nicely, Mother."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now, please, I asked him to stay close",
+                "to the white line, and all,",
+                "and he knew what I meant, and he did."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was even trying not to look",
+                "at the trees — you could tell."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Did Daddy get the car fixed, incidentally?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not yet. They want four hundred dollars,",
+                "just to—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother, Seymour <i>told</i> Daddy",
+                "that he’d pay for it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There’s no reason for—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, we’ll see. How did he behave —",
+                "in the car and all?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did he keep calling you that awful—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No. He has something new now.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, what’s the difference, Mother?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel, I want to <i>know</i>. Your father—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right, all right."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He calls me Miss Spiritual Tramp",
+                "of 1948,” the girl said, and giggled."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It isn’t funny, Muriel."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It isn’t funny at all."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s horrible."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s <i>sad</i>, actually."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I think how—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother,” the girl interrupted, “listen to me."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You remember that book he sent me from Germany?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You know — those German poems."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What’d I <i>do</i> with it?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ve been racking my—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Are you <i>sure</i>?” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Certainly."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is, I have it."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s in Freddy’s room."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You left it here and I didn’t have room",
+                "for it in the — Why?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Does he want it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Only, he <i>asked</i> me about it,",
+                "when we were driving down."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He wanted to know if I’d read it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It was in German!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, dear."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That doesn’t make any difference,”",
+                "said the girl, crossing her legs."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He said that the poems happen to be written",
+                "by the only great poet of the century."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He said I should’ve bought",
+                "a translation or something."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or learned the language, if you please.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Awful."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Awful."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s <i>sad</i>, actually, is what it is."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your father said last night—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Just a second, Mother,” the girl said."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She went over to the window seat for her cigarettes,",
+                "lit one, and returned to her seat on the bed."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother?” she said, exhaling smoke."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel. Now, listen to me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m listening.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your father talked to Dr. Sivetski.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh?” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He told him everything."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At least, he said he did — you know your father."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The trees."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That business with the window."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Those horrible things he said to Granny",
+                "about her plans for passing away."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What he did with all those lovely pictures",
+                "from Bermuda — everything.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In the first place,",
+                "he said it was a perfect <i>crime</i> the Army released him",
+                "from the hospital — my word of honor."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He very <i>definitely</i> told your father there’s a chance —",
+                "a very <i>great</i> chance, he said —",
+                "that Seymour may <i>completely</i> lose control",
+                "of himself."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My word of honor.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There’s a psychiatrist here",
+                "at the hotel” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“<i>Who</i>? What’s his name?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t know. Rieser or something. He’s supposed",
+                "to be very good.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Never heard of him.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, he’s supposed to be very good, anyway.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel, don’t be fresh, please."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We’re <i>very</i> worried about you."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your father wanted to wire you last night",
+                "to come home, as a matter of f—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m not coming home right now, Mother. So relax.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My word of honor."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Dr. Sivetski said Seymour may",
+                "<i>completely</i> lose contr—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I just <i>got</i> here, Mother."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is the first vacation I’ve had",
+                "in years, and I’m not going",
+                "to just pack everything and come home,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I couldn’t travel now anyway."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’m so sunburned I can hardly move.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’re badly sunburned?"
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Didn’t you use that jar",
+                "of Bronze I put in your bag?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I put it right—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I used it. I’m burned anyway.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s terrible. Where are you burned?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All over, dear, all over.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s terrible.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll live.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Tell me, did you talk to this psychiatrist?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, sort of,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What’d he say? (Where was Seymour",
+                "when you talked to him?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“In the Ocean Room, playing the piano."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He’s played the piano both",
+                "nights we’ve been here.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, what’d he say?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, nothing much."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He spoke to me first."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was sitting next to him",
+                "at Bingo last night, and he asked me if",
+                "that wasn’t my husband playing the piano in the other room."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I said yes, it was, and he asked me",
+                "if Seymour’s been sick or something."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So I said—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why’d he ask that?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t know, Mother."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I guess because he’s",
+                "so pale and all,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Anyway, after Bingo he and his wife asked me",
+                "if I wouldn’t like to join them for a drink."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So I did."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His wife was horrible, You remember",
+                "that awful dinner dress we saw in Bonwit’s window?"
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The one you said you’d have to have a tiny, tiny—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The green?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“She had it on."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And all hips."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She kept asking me if Seymour’s related",
+                "to that Suzanne Glass that has that place",
+                "on Madison Avenue — the millinery.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What’d he say, though? The doctor.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Well, nothing much, really."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I mean we were in the bar and all."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was terribly noisy.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, but did — did you tell him",
+                "what he tried to do with Granny’s chair?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, Mother."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I didn’t go into details very much,”",
+                "said the girl."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll probably get a chance to talk to him again."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He’s in the bar <i>all</i> day long.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did he say he thought there was a chance he might get —",
+                "you know — funny or anything?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do something to you!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not exactly,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He had to have more facts, Mother."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They have to know",
+                "about your childhood — all that stuff."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I told you, we could hardly talk,",
+                "it was so noisy in there.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well. How’s your blue coat?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right. I had some of the padding taken out.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How <i>are</i> the clothes this year?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Terrible."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But out of this world."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You see sequins — everything,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How’s your room?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "<i>Just</i> all right, though."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We couldn’t get the room we had",
+                "before the war,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The people are awful this year."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You should see what sits next",
+                "to us in the dining room."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At the next table."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They look as if they drove down in a truck.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, it’s that way",
+                "all over. How’s your ballerina?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It’s too long. I <i>told</i>",
+                "you it was too long.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel, I’m only going to ask you once more —",
+                "are you really all right?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“<i>Yes</i>, Mother,” said the girl.",
+                "“For the ninetieth time.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And you don’t want to come home?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“<i>No</i>, Mother.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your father said last night that he’d be more",
+                "than willing to pay for it if you’d go away someplace",
+                "by yourself and think things over."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You could take a lovely cruise."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We both thought—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, thanks,” said the girl,",
+                "and uncrossed her legs."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother, this call is costing a for—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“When I think of how you waited for",
+                "that boy <i>all</i> through the war — I mean",
+                "when you think of all those crazy little wives who—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother,” said the girl, “we’d better hang up."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Seymour may come in any minute.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Where is he?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“On the beach.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“On the beach? By himself? Does he behave himself",
+                "on the beach?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother,” said the girl, “you talk about him",
+                "as though he were a raving <i>maniac</i>—”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I said nothing of the kind, Muriel.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, you <i>sound</i> that way."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I mean all he does is lie there."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He won’t take his bathrobe off.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He won’t take his bathrobe off? Why not?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t know. I guess because he’s so pale.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My goodness,",
+                "he <i>needs</i> the sun. Can’t you make him?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You know Seymour,” said the girl,",
+                "and crossed her legs again."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He says he doesn’t want a lot",
+                "of fools looking at his tattoo.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He doesn’t have any tattoo! Did he get one",
+                "in the Army?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, Mother."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "No, dear,” said the girl, and stood up."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Listen, I’ll call you tomorrow, maybe.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel. Now, listen to me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, Mother,” said the girl,",
+                "putting her weight on her right leg."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Call me the <i>instant</i> he does, or <i>says</i>,",
+                "anything at all funny — you know what I mean."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do you hear me?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mother, I’m not afraid of Seymour.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Muriel, I want you to promise me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right, I promise."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Goodbye, Mother,” said the girl."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My Jove to Daddy.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                " She hung up."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "* * *"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“See more glass,” said Sybil Carpenter,",
+                "who was staying at the hotel with her mother."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did you see more glass?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pussycat, stop saying that."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s driving Mommy absolutely crazy."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hold still, please.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Mrs. Carpenter was putting sun-tan oil",
+                "on Sybil’s shoulders, spreading it down",
+                "over the delicate, winglike blades of her back."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil was sitting insecurely on a huge,",
+                "inflated beach ball, facing the ocean."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She was wearing a canary-yellow two-piece bathing suit,",
+                "one piece of which she would not actually be needing",
+                "for another nine or ten years."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It was really just an ordinary silk handkerchief —",
+                "you could see when you got up close,” said the woman",
+                "in the beach chair beside Mrs. Carpenter’s."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I wish I knew how she tied it."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was really darling.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It sounds darling,” Mrs. Carpenter agreed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sybil, hold still, pussy.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did you see more glass?” said Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Mrs. Carpenter sighed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right,” she said."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She replaced the cap on the sun-tan oil bottle."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Now run and play, pussy."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Mommy’s going up to the hotel and have a Martini",
+                "with Mrs. Hubbel."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ll bring you the olive.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Set loose, Sybil immediately ran down",
+                "to the flat part of the beach and began to walk",
+                "in the direction of Fisherman’s Pavilion."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Stopping only to sink a foot in a soggy,",
+                "collapsed castle, she was soon out",
+                "of the area reserved for guests of the hotel."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She walked for about a quarter",
+                "of a mile and then suddenly broke",
+                "into an oblique run up the soft part of the beach."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She stopped short",
+                "when she reached the place where a young man was lying on his back."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Are you going in the water,",
+                "see more glass?” she said."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The young-man started, his right hand going",
+                "to the lapels of his terry-cloth robe."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He turned over on his stomach,",
+                "letting a sausaged towel fall away",
+                "from his eyes, and squinted up at Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hey. Hello, Sybil.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                " “Are you going in the water?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was waiting",
+                "for <i>you</i>” said the young man. “What’s new?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What?” said Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What’s new? What’s on the program?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My daddy’s coming tomorrow",
+                "on a nairiplane,” Sybil said, kicking sand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not in my face, baby,” the young man said,",
+                "putting his hand on Sybil’s ankle."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, it’s about time he got here, your daddy."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ve been expecting him hourly."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hourly.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Where’s the lady?” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The lady?” The young man brushed some sand",
+                "out of his thin hair."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s hard to say, Sybil."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She may be in any one of a thousand places."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At the hairdresser’s."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Having her hair dyed mink."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Or making dolls for poor children, in her room.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Lying prone now, he made two fists, set one on top",
+                "of the other, and rested his chin on the top one."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ask me something else, Sybil,” he said."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s a fine bathing suit you have on."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If there’s one thing I like,",
+                "it’s a blue bathing suit.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil stared at him, then looked",
+                "down at her protruding stomach."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is a <i>yellow</i>,” she said."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This is a <i>yellow</i>.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It is? Come a little closer.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil took a step forward."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’re absolutely right. What a fool I am.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Are you going in the water?” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m seriously considering it."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’m giving it plenty of thought,",
+                "Sybil, you’ll be glad to know.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil prodded the rubber float",
+                "that the young man sometimes used as a head-rest."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It needs <i>air</i>” she said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’re right. It needs more air",
+                "than I’m willing to admit.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He took away his fists and let his chin rest",
+                "on the sand."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sybil,” he said, “you’re looking fine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s good to see you."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Tell me about yourself.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He reached in front of him and took both",
+                "of Sybil’s ankles in his hands."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m Capricorn,” he said."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What are you?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sharon Lipschutz said you let her, sit",
+                "on the piano seat with you,” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sharon Lipschutz said that?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil nodded vigorously."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He let go of her ankles, drew in his hands,",
+                "and laid the side of his face on his right forearm."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well,” he said,",
+                "“you know how those things happen, Sybil."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was sitting there playing."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And you were nowhere in sight."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And Sharon Lipschutz came",
+                "over and sat down next to me."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I couldn’t push her off, could I?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, no."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "No."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I couldn’t do that,” said the young man."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll tell you what I did do, though.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I pretended she was you:”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil immediately stooped and began",
+                "to dig in the sand."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Let’s go in the water,” she said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“All right,” said the young man.",
+                "“I think I can work it in.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Next time, push her off,” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Push who off?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sharon Lipschutz.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ah, Sharon Lipschutz,” said the young man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How that name comes up."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Mixing memory and desire.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He suddenly got to his feet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He looked at the ocean."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sybil,” he said, “I’ll tell you what we’ll do."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We’ll see if we can catch a bananafish.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A what?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A bananafish,” he said,",
+                "and undid the belt of his robe."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He took off the robe."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His shoulders were white and narrow,",
+                "and his trunks were royal blue."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He folded the robe,",
+                "first lengthwise, then in thirds."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He unrolled the towel he had used",
+                "over his eyes, spread it out on the sand,",
+                "and then laid the folded robe on top of it."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He bent over, picked up the float,",
+                "ad secured it under his right arm."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, with his left hand, he took Sybil’s hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The two started to walk down to the ocean."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I imagine you’ve seen quite a few bananafish",
+                "in your day,” the young man said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil shook her head."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You haven’t? Where do you <i>live</i>, anyway?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t know,” said Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sure you know."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You must know."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sharon Lipschutz knows where she lives and she’s",
+                "only three and a half.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil stopped walking and yanked her hand away",
+                "from him."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She picked up an ordinary beach shell and looked",
+                "at it with elaborate interest."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She threw it down."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Whirly Wood, Connecticut,” she said,",
+                "and resumed walking, stomach foremost."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Whirly Wood, Connecticut,” said the young man."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Is that anywhere near Whirly Wood,",
+                "Connecticut, by any chance?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil looked at him."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s where I <i>live</i>,”",
+                "she said impatiently."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I <i>live</i> in Whirly Wood, Connecticut.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She ran a few steps ahead of him, caught",
+                "up her left foot in her left hand,",
+                "and hopped two or three times."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have no idea how clear",
+                "that makes everything,” the young man said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil released her foot."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did you read ‘Little Black Sambo’?” she said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It’s very funny you ask me that,” he said."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It so happens I just finished",
+                "reading it last night.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He reached down and took back Sybil’s hand."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What did you think of it?” he asked her."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did the tigers run all around that tree?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I thought they’d never stop. I never saw",
+                "so many tigers.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There were only six,” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“<i>Only</i> six!” said the young man."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do you call that <i>only</i>?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do you like wax?” Sybil asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do I like what?” asked the young man."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Wax.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Very much. Don’t you?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil nodded. “Do you like olives?” she asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Olives — yes. Olives and wax. I never go anyplace",
+                "without ’em.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do you like Sharon Lipschutz?” Sybil asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Yes, I do,” said the young man."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What I like particularly about her is",
+                "that she never does anything mean",
+                "to little dogs in the lobby of the hotel."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That little toy bull that belongs to",
+                "that lady from Canada, for instance."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You probably won’t believe this,",
+                "but <i>some</i> little girls like to poke",
+                "that little dog with balloon sticks, Sharon doesn’t."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She’s never mean or unkind."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That’s why I like her so much.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sybil was silent."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I like to chew candles,” she said finally."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Who doesn’t?” said the young man,",
+                "getting his feet wet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Wow!"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s cold.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He dropped the rubber float on its back."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No, wait just a second, Sybil."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Wait’ll we get out a little bit.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They waded out till the water was",
+                "up to Sybil’s waist."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then the young man picked her up and laid her",
+                "down on her stomach on the float."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Don’t you ever wear a bathing",
+                "cap or anything?” he asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Don’t let go,” Sybil ordered. “You hold me, now.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Miss Carpenter."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Please."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I know my business,” the young man said."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You just keep your eyes open for any bananafish."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is a perfect day for bananafish.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I don’t see any,” Sybil said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s understandable. Their",
+                "habits are <i>very</i> peculiar.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He kept pushing the float."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The water was not quite up to his chest."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They lead a very tragic life,” he said."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You know what they do, Sybil?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She shook her head."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, they swim",
+                "into a hole where there’s a lot of bananas."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They’re very ordinary-looking fish",
+                "when they swim <i>in</i>."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But once they get in, they behave like pigs."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why, I’ve known some bananafish",
+                "to swim into a banana hole and eat",
+                "as many as seventy-eight bananas.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He edged the float and its passenger a foot closer",
+                "to the horizon."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Naturally, after that they’re",
+                "so fat they can’t get out of the hole again."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Can’t fit through the door.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not too far out,” Sybil said.",
+                "“What happens to them?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What happens to who?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The bananafish.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, you mean after they eat",
+                "so many bananas they can’t get out of the banana hole?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes,” said Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, I hate to tell you, Sybil. They die.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why?” asked Sybil."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well,",
+                "they get banana fever. It’s a terrible disease.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Here comes a <i>wave</i>,” Sybil said nervously."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We’ll ignore it. We’ll snub it,”",
+                "said the young man, “Two snobs.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He took Sybil’s ankles",
+                "in his hands and pressed down and forward."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The float nosed over the top of the wave."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The water soaked Sybil’s blond hair,",
+                "but her scream was full of pleasure."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With her hand, when the float was level again,",
+                "she wiped away a flat, wet band of hair",
+                "from her eyes, and reported, “I just saw one.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Saw what, my love?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A bananafish.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My God, no!” said the young man."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did he have any bananas in his mouth?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes,” said Sybil. “Six.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The young man suddenly picked up one",
+                "of Sybil’s wet feet, which were drooping",
+                "over the end of the float, and kissed the arch."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hey!” said the owner of the foot, turning around."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hey, yourself! We’re going",
+                "in now. You had enough?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sorry,” he said, and pushed the float",
+                "toward shore until Sybil got off it."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He carried it the rest of the way."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Goodbye,” said Sybil, and ran without regret",
+                "in the direction of the hotel."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "* * *"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The young man put on his robe, closed the lapels tight,",
+                "and jammed his towel into his pocket."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He picked up the slimy wet,",
+                "cumbersome float and put it under his arm."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He plodded alone through the soft,",
+                "hot sand toward the hotel."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On the sub-main floor of the hotel,",
+                "which the management directed bathers to use,",
+                "a woman with zinc salve on her nose got",
+                "into the elevator with the young man."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I see you’re looking at my feet,” he said",
+                "to her when the car was in motion."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I beg your pardon?” said the woman."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I said I see you’re looking at my feet.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I <i>beg</i> your pardon."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I happened to be looking at the floor,”",
+                "said the woman, and faced the doors of the car."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“If you want to look at my feet,",
+                "say so,” said the young man."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But don’t be a Goddamned sneak about it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Let me out of here, please,” the woman said quickly",
+                "to the girl operating the car."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The car doors opened and the woman got",
+                "out without looking back."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I have two normal feet and I can’t see the slightest Goddamned reason why anybody",
+                "should stare at them,”",
+                "said the young man."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Five, please.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                " He took his room key out of his robe pocket."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He got off at the fifth floor, walked",
+                "down the hall, and let himself into 507."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The room smelled",
+                "of new calfskin luggage and nail-lacquer remover."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He glanced at the girl lying asleep",
+                "on one of the twin beds."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he went over to one of the pieces",
+                "of luggage, opened it, and from under a pile",
+                "of shorts and undershirts he took",
+                "out an Ortgies calibre 7.65 automatic."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He released the magazine, looked",
+                "at it, then reinserted it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He cocked the piece."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he went over and sat down on the unoccupied twin bed,",
+                "looked at the girl, aimed the pistol,",
+                "and fired a bullet through his right temple."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

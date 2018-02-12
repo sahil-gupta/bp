@@ -1,8 +1,8 @@
 // node codejson.js
 // turns json into list
 
-const FILEIN = './GAv1.json';
-const FILEOUT = './public/lincoln.list';
+const FILEIN = './temp.json';
+const FILEOUT = './public/bananafish.list';
 
 var fs = require('fs');
 var syllable = require('syllable');
