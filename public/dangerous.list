@@ -1,0 +1,6553 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "The Most Dangerous Game"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Richard Connell"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Off there to the right — somewhere — is a large island,”",
+                "said Whitney.” It’s rather a mystery — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What island is it?” Rainsford asked."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The old charts call it ‘Ship-Trap",
+                "Island’” Whitney replied."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A suggestive name, isn’t it?"
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sailors have a curious dread of the place."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I don’t know why."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Some superstition — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Can’t see it,” remarked Rainsford, trying to peer",
+                "through the dank tropical night that was palpable",
+                "as it pressed its thick warm blackness",
+                "in upon the yacht."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’ve good eyes,” said Whitney, with a laugh,”",
+                "and I’ve seen you pick off a moose moving",
+                "in the brown fall bush at four hundred yards,",
+                "but even you can’t see four miles or",
+                "so through a moonless Caribbean night.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Nor four yards,” admitted Rainsford."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ugh!"
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s like moist black velvet.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It will be light enough",
+                "in Rio,” promised Whitney."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We should make it in a few days."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I hope the jaguar guns have come from Purdey’s."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We should have some good hunting up the Amazon."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Great sport, hunting.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The best sport in the world,” agreed Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“For the hunter,” amended Whitney.",
+                "“Not for the jaguar.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Don’t talk rot, Whitney,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’re a big-game hunter, not a philosopher."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Who cares how a jaguar feels?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Perhaps the jaguar does,” observed Whitney."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Bah! They’ve no understanding.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Even so,",
+                "I rather think they understand one thing — fear."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The fear of pain and the fear of death.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Nonsense,” laughed Rainsford."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This hot weather is making you soft, Whitney."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Be a realist."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The world is made up of two classes —",
+                "the hunters and the huntees."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Luckily, you and I are hunters."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do you think we’ve passed that island yet?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I can’t tell in the dark. I hope so.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why?” asked Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The place has a reputation — a bad one.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Cannibals?” suggested Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hardly."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even cannibals wouldn’t live",
+                "in such a God-forsaken place."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But it’s gotten into sailor lore, somehow."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Didn’t you notice",
+                "that the crew’s nerves seemed a bit jumpy today?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They were a bit strange, now you mention it."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even Captain Nielsen — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, even that tough-minded old Swede, who’d go",
+                "up to the devil himself and ask him for a light."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Those fishy blue eyes held a",
+                "look I never saw there before."
+            ]
+        },
+        {
+            "timeflat": 7950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "All I could get out of him was ‘This place has an evil name",
+                "among seafaring men, sir.’ Then he said to me,",
+                "very gravely, ‘Don’t you feel anything?’ — as",
+                "if the air about us was actually poisonous."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now, you mustn’t laugh when I tell you this —",
+                "I did feel something like a sudden chill."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“There was no breeze."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The sea was as flat as a plate-glass window."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We were drawing near the island then."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What I felt was a — a mental chill;",
+                "a sort of sudden dread.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pure imagination,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“One superstitious sailor can taint the whole ship’s company",
+                "with his fear.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Maybe."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But sometimes I think sailors have an extra sense",
+                "that tells them when they are in danger."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sometimes I think evil is a tangible thing —",
+                "with wave lengths, just as sound and light have."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "An evil place can, so to speak,",
+                "broadcast vibrations of evil."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Anyhow, I’m glad we’re getting out of this zone."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Well, I think I’ll turn in now, Rainsford.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m not sleepy,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m going to smoke another pipe",
+                "up on the afterdeck.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Good night, then,",
+                "Rainsford. See you at breakfast.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Right. Good night, Whitney.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was no sound in the night",
+                "as Rainsford sat there but the muffled throb of the engine",
+                "that drove the yacht swiftly through the darkness,",
+                "and the swish and ripple of the wash of the propeller."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford, reclining in a steamer chair,",
+                "indolently puffed on his favorite brier."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The sensuous drowsiness of the night was",
+                "on him.” It’s so dark,” he thought, “that I",
+                "could sleep without closing my eyes;",
+                "the night would be my eyelids — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "An abrupt sound startled him."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Off to the right he heard it, and his ears,",
+                "expert in such matters, could not be mistaken."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Again he heard the sound, and again."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Somewhere, off in the blackness,",
+                "someone had fired a gun three times."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford sprang up and moved quickly",
+                "to the rail, mystified."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He strained his eyes in the direction from",
+                "which the reports had come, but it was",
+                "like trying to see through a blanket."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He leaped upon the rail and balanced himself there,",
+                "to get greater elevation; his pipe,",
+                "striking a rope, was knocked from his mouth."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He lunged for it; a short,",
+                "hoarse cry came from his lips",
+                "as he realized he had reached too far and had lost his balance."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The cry was pinched off short as the blood-warm waters",
+                "of the Caribbean Sea dosed over his head."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He struggled up to the surface and tried to cry out,",
+                "but the wash from the speeding yacht slapped him",
+                "in the face and the salt water",
+                "in his open mouth made him gag and strangle."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Desperately he struck out with strong strokes",
+                "after the receding lights of the yacht,",
+                "but he stopped before he had swum fifty feet."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A certain coolheadedness had come to him;",
+                "it was not the first time he had been in a tight place."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a chance that his cries",
+                "could be heard by someone aboard the yacht, but",
+                "that chance was slender and grew more slender as the yacht raced on."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He wrestled himself out",
+                "of his clothes and shouted with all his power."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The lights of the yacht became faint and ever-vanishing fireflies;",
+                "then they were blotted",
+                "out entirely by the night."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford remembered the shots."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They had come from the right, and doggedly he swam",
+                "in that direction, swimming with slow,",
+                "deliberate strokes, conserving his strength."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For a seemingly endless time he fought the sea."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He began to count his strokes; he",
+                "could do possibly a hundred more and then —"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford heard a sound."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It came out of the darkness,",
+                "a high screaming sound, the sound of an animal",
+                "in an extremity of anguish and terror."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He did not recognize the animal",
+                "that made the sound; he did not try to;",
+                "with fresh vitality he swam toward the sound."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He heard it again; then it was cut short",
+                "by another noise, crisp, staccato."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Pistol shot,” muttered Rainsford, swimming on."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ten minutes of determined effort brought another sound",
+                "to his ears — the most welcome he had ever heard —",
+                "the muttering and growling",
+                "of the sea breaking on a rocky shore."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was almost on the rocks",
+                "before he saw them; on a night less calm he",
+                "would have been shattered against them."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With his remaining strength he dragged himself",
+                "from the swirling waters."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jagged crags appeared to jut up into the opaqueness;",
+                "he forced himself upward, hand over hand."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Gasping, his hands raw,",
+                "he reached a flat place at the top."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Dense jungle came down",
+                "to the very edge of the cliffs."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "What perils that tangle",
+                "of trees and underbrush might hold",
+                "for him did not concern Rainsford just then."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "All he knew was that he was safe from his enemy,",
+                "the sea, and that utter weariness was on him."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He flung himself down at the jungle edge and tumbled headlong",
+                "into the deepest sleep of his life."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When he opened his eyes he knew from the position",
+                "of the sun that it was late in the afternoon."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sleep had given him new vigor;",
+                "a sharp hunger was picking at him."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He looked about him, almost cheerfully."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Where there are pistol shots, there are men."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Where there are men, there is food,” he thought."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But what kind of men, he wondered,",
+                "in so forbidding a place?"
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "An unbroken front",
+                "of snarled and ragged jungle fringed the shore."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He saw no sign of a trail",
+                "through the closely knit web of weeds and trees;",
+                "it was easier to go along the shore,",
+                "and Rainsford floundered along by the water."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Not far from where he landed, he stopped."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Some wounded thing — by the evidence, a large animal —",
+                "had thrashed about in the underbrush;",
+                "the jungle weeds were crushed down and the moss was lacerated;",
+                "one patch of weeds was stained crimson."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A small,",
+                "glittering object not far away caught Rainsford’s eye and he picked it up."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was an empty cartridge."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A twenty-two,” he remarked."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That’s odd."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It must have been a fairly large animal too."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The hunter had his nerve with him",
+                "to tackle it with a light gun."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s clear that the brute put up a fight."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I suppose the first three shots I heard was",
+                "when the hunter flushed his quarry and wounded it."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The last shot was",
+                "when he trailed it here and finished it.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He examined the ground closely and found",
+                "what he had hoped to find — the print of hunting boots."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They pointed along the cliff",
+                "in the direction he had been going."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Eagerly he hurried along, now slipping",
+                "on a rotten log or a loose stone, but making headway;",
+                "night was beginning to settle down on the island."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Bleak darkness was blacking out the sea and jungle",
+                "when Rainsford sighted the lights."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He came upon them as he turned a crook in the coast line;",
+                "and his first thought was that be had come",
+                "upon a village, for there were many lights."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But as he forged along he saw",
+                "to his great astonishment that all the lights were",
+                "in one enormous building — a lofty structure",
+                "with pointed towers plunging upward into the gloom."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His eyes made out the shadowy outlines",
+                "of a palatial chateau; it was set on a high bluff,",
+                "and on three sides of it cliffs dived down",
+                "to where the sea licked greedy lips in the shadows."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Mirage,” thought Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But it was no mirage, he found,",
+                "when he opened the tall spiked iron gate."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The stone steps were real enough; the massive door",
+                "with a leering gargoyle for a knocker was real enough;",
+                "yet above it all hung an air of unreality."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He lifted the knocker, and it creaked",
+                "up stiffly, as if it had never before been used."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He let it fall, and it startled him",
+                "with its booming loudness."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He thought he heard steps within;",
+                "the door remained closed."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Again Rainsford lifted the heavy knocker,",
+                "and let it fall."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The door opened then — opened as suddenly as",
+                "if it were on a spring — and Rainsford stood blinking",
+                "in the river of glaring gold light that poured out."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The first thing Rainsford’s eyes discerned was the largest man Rainsford had ever seen —",
+                "a gigantic creature,",
+                "solidly made and black bearded",
+                "to the waist."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In his hand the man held a long-barreled revolver,",
+                "and he was pointing it straight",
+                "at Rainsford’s heart."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Out of the snarl",
+                "of beard two small eyes regarded Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Don’t be alarmed,” said Rainsford,",
+                "with a smile which he hoped was disarming."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m no robber."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I fell off a yacht."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My name is Sanger Rainsford of New York City.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The menacing look in the eyes did not change."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The revolver pointing as rigidly",
+                "as if the giant were a statue."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He gave no sign that he understood Rainsford’s words,",
+                "or that he had even heard them."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was dressed in uniform —",
+                "a black uniform trimmed with gray astrakhan."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’m Sanger Rainsford of New York,”",
+                "Rainsford began again."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I fell off a yacht."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am hungry.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The man’s only answer was to raise",
+                "with his thumb the hammer of his revolver."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then Rainsford saw the man’s free hand go",
+                "to his forehead in a military salute,",
+                "and he saw him click his heels together and stand at attention."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Another man was coming down the broad marble steps,",
+                "an erect, slender man in evening clothes."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He advanced to Rainsford and held out his hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 8700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In a cultivated voice marked by a slight accent",
+                "that gave it added precision and deliberateness,",
+                "he said, “It is a very great pleasure and honor",
+                "to welcome Mr. Sanger Rainsford,",
+                "the celebrated hunter, to my home.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Automatically Rainsford shook the man’s hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ve read your book about hunting snow leopards",
+                "in Tibet, you see,” explained the man."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am General Zaroff.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford’s first impression was",
+                "that the man was singularly handsome;",
+                "his second was that there was an original,",
+                "almost bizarre quality about the general’s face."
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was a tall man past middle age,",
+                "for his hair was a vivid white;",
+                "but his thick eyebrows and pointed military mustache were",
+                "as black as the night from which Rainsford had come."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His eyes, too, were black and very bright."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had high cheekbones, a sharpcut nose,",
+                "a spare, dark face — the face of a man used",
+                "to giving orders, the face of an aristocrat."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Turning to the giant in uniform,",
+                "the general made a sign."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The giant put away his pistol, saluted, withdrew."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ivan is an incredibly strong fellow,”",
+                "remarked the general,",
+                "“but he has the misfortune to be deaf and dumb."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A simple fellow, but, I’m afraid, like",
+                "all his race, a bit of a savage.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Is he Russian?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“He is a Cossack,” said the general,",
+                "and his smile showed red lips and pointed teeth."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“So am I.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Come,” he said, “we shouldn’t be chatting here."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We can talk later."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now you want clothes, food, rest."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You shall have them."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is a most-restful spot.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ivan had reappeared, and the general spoke to him",
+                "with lips that moved but gave forth no sound."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Follow Ivan, if you please,",
+                "Mr. Rainsford,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I was about to have my dinner when you came."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ll wait for you."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’ll find",
+                "that my clothes will fit you, I think.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was to a huge, beam-ceilinged bedroom",
+                "with a canopied bed big enough for six men",
+                "that Rainsford followed the silent giant."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ivan laid out an evening suit, and Rainsford,",
+                "as he put it on, noticed that it came",
+                "from a London tailor who ordinarily cut and sewed",
+                "for none below the rank of duke."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The dining room to which Ivan conducted him was",
+                "in many ways remarkable."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a medieval magnificence about it;",
+                "it suggested a baronial hall of feudal times",
+                "with its oaken panels, its high ceiling,",
+                "its vast refectory tables where twoscore men could sit down to eat."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "About the hall were mounted heads of many animals —",
+                "lions, tigers, elephants, moose, bears;",
+                "larger or more perfect specimens Rainsford had never seen."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At the great table the general was sitting, alone."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’ll have a cocktail,",
+                "Mr. Rainsford,” he suggested."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The cocktail was surpassingly good; and, Rainsford noted,",
+                "the table apointments were of the finest —",
+                "the linen, the crystal, the silver, the china."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They were eating <i>borsch</i>, the rich, red soup",
+                "with whipped cream so dear to Russian palates."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Half apologetically General Zaroff said,",
+                "“We do our best to preserve the amenities",
+                "of civilization here."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Please forgive any lapses."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We are well off the beaten track, you know."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Do you think the champagne has suffered",
+                "from its long ocean trip?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not in the least,” declared Rainsford."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was finding the general a most thoughtful and affable host,",
+                "a true cosmopolite."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But there was one small trait of .the general’s",
+                "that made Rainsford uncomfortable."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Whenever he looked up from his plate he found the general studying him,",
+                "appraising him narrowly."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Perhaps,” said General Zaroff,",
+                "“you were surprised that I recognized your name."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You see, I read all books on hunting published",
+                "in English, French, and Russian."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have but one passion in my life,",
+                "Mr. Rainsford, and it is the hunt.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have some wonderful heads here,”",
+                "said Rainsford",
+                "as he ate a particularly well-cooked <i>filet mignon</i>."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That Cape buffalo is the largest I ever saw.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, that fellow. Yes, he was a monster.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did he charge you?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hurled me against a tree,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Fractured my skull."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I got the brute.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ve always thought,” said Rainsford,",
+                "“that the Cape buffalo is the most dangerous",
+                "of all big game.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For a moment the general did not reply;",
+                "he was smiling his curious red-lipped smile."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he said slowly, “No."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You are wrong,",
+                "sir. The Cape buffalo is not the most dangerous big game.” He sipped his wine."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Here in my preserve on this island,” he said",
+                "in the same slow tone, “I hunt more dangerous game.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford expressed his surprise.",
+                "“Is there big game on this island?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general nodded. “The biggest.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Really?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, it isn’t here naturally,",
+                "of course. I have to stock the island.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What have you imported,",
+                "general?” Rainsford asked. “Tigers?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general smiled."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No,” he said."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hunting tigers ceased",
+                "to interest me some years ago."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I exhausted their possibilities, you see."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "No thrill left in tigers, no real danger."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I live for danger, Mr. Rainsford.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general took",
+                "from his pocket a gold cigarette case and offered his guest a long black cigarette",
+                "with a silver tip; it was perfumed and gave",
+                "off a smell like incense."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We will have some capital hunting,",
+                "you and I,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I shall be most glad to have your society.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But what game — ” began Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll tell you,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You will be amused, I know."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I think I may say, in all modesty,",
+                "that I have done a rare thing."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have invented a new sensation."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "May I pour you another glass of port?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Thank you, general.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general filled both glasses,",
+                "and said, “God makes some men poets."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Some He makes kings, some beggars."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Me, He made a hunter."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My hand was made for the trigger, my father said."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was a very rich man with a quarter",
+                "of a million acres in the Crimea,",
+                "and he was an ardent sportsman."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I was only five years old he gave me a little gun,",
+                "specially made in Moscow",
+                "for me, to shoot sparrows with."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I shot some of his prize turkeys",
+                "with it, he did not punish me;",
+                "he complimented me on my marksmanship."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I killed my first bear",
+                "in the Caucasus when I was ten."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My whole life has been one prolonged hunt."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I went into the army — it was expected",
+                "of noblemen’s sons — and",
+                "for a time commanded a division of Cossack cavalry,",
+                "but my real interest was always the hunt."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have hunted every kind of game in every land."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It would be impossible for me",
+                "to tell you how many animals I have killed.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general puffed at his cigarette."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“After the debacle in Russia I left the country,",
+                "for it was imprudent for an officer",
+                "of the Czar to stay there."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Many noble Russians lost everything."
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I, luckily, had invested heavily in American securities,",
+                "so I shall never have to open a tearoom",
+                "in Monte Carlo or drive a taxi in Paris."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Naturally, I continued to hunt —",
+                "grizzliest in your Rockies, crocodiles",
+                "in the Ganges, rhinoceroses in East Africa."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was in Africa that the Cape buffalo hit me and laid me",
+                "up for six months."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As soon as I recovered I started",
+                "for the Amazon to hunt jaguars,",
+                "for I had heard they were unusually cunning."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They weren’t.” The Cossack sighed."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They were no match at all for a hunter",
+                "with his wits about him, and a high-powered rifle."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was bitterly disappointed."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I was lying in my tent",
+                "with a splitting headache one night",
+                "when a terrible thought pushed its way into my mind."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hunting was beginning to bore me!"
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And hunting, remember, had been my life."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have heard that in America businessmen often go",
+                "to pieces when they give up the business",
+                "that has been their life.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes, that’s so,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general smiled."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I had no wish to go to pieces,” he said."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I must do something."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now, mine is an analytical mind, Mr. Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Doubtless that is why I enjoy the problems",
+                "of the chase.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No doubt, General Zaroff.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“So,” continued the general,",
+                "“I asked myself why the hunt no longer fascinated me."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You are much younger than I am,",
+                "Mr. Rainsford, and have not hunted as much,",
+                "but you perhaps can guess the answer.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What was it?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Simply this:",
+                "hunting had ceased to be",
+                "what you call ‘a sporting proposition.’ It had become too easy."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I always got my quarry."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Always."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There is no greater bore than perfection.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general lit a fresh cigarette."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“No animal had a chance with me any more."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That is no boast; it is a mathematical certainty."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The animal had nothing but",
+                "his legs and his instinct."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Instinct is no match for reason."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When I thought of this it was a tragic moment",
+                "for me, I can tell you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford leaned across the table,",
+                "absorbed in what his host was saying."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It came to me as an inspiration",
+                "what I must do,” the general went on."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And that was?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general smiled the quiet smile of one",
+                "who has faced an obstacle and surmounted it with success."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I had to invent a new animal to hunt,” he said."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A new animal?"
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’re joking.” “Not at all,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I never joke about hunting."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I needed a new animal."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I found one."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So I bought this island built this house,",
+                "and here I do my hunting."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The island is perfect for my purposes —",
+                "there are jungles with a maze",
+                "of traits in them, hills, swamps — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But the animal, General Zaroff?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh,” said the general, “it supplies me",
+                "with the most exciting hunting in the world."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "No other hunting compares with it for an instant."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Every day I hunt, and I never grow bored now,",
+                "for I have a quarry with which I can match my wits.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford’s bewilderment showed in his face."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I wanted the ideal animal",
+                "to hunt,” explained the general."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“So I said, ‘What are the attributes",
+                "of an ideal quarry?’ And the answer was,",
+                "of course, ‘It must have courage, cunning,",
+                "and, above all, it must be able to reason.”'"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But no animal can reason,” objected Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My dear fellow,” said the general,",
+                "“there is one that can.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But you can’t mean — ” gasped Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And why not?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I can’t believe you are serious, General Zaroff."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is a grisly joke.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Why should I not be serious? I am speaking",
+                "of hunting.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Hunting? Great Guns, General Zaroff,",
+                "what you speak of is murder.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general laughed with entire good nature."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He regarded Rainsford quizzically."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I refuse to believe that so modern and civilized a young man",
+                "as you seem to be harbors romantic ideas",
+                "about the value of human life."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Surely your experiences in the war — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Did not make me condone cold-blooded murder,”",
+                "finished Rainsford stiffly."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Laughter shook the general."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How extraordinarily droll you are!” he said."
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“One does not expect nowadays",
+                "to find a young man of the educated class,",
+                "even in America, with such a naive, and,",
+                "if I may say so, mid-Victorian point of view."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s like finding a snuffbox in a limousine."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ah, well, doubtless you had Puritan ancestors."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So many Americans appear to have had."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ll wager you’ll forget your notions",
+                "when you go hunting with me."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’ve a genuine new thrill",
+                "in store for you, Mr. Rainsford.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Thank you, I’m a hunter, not a murderer.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Dear me,” said the general, quite unruffled,",
+                "“again that unpleasant word."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I think I can show you",
+                "that your scruples are quite ill founded.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yes?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Life is for the strong, to be lived by the strong,",
+                "and, if needs be, taken by the strong."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The weak of the world were put here",
+                "to give the strong pleasure."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am strong."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why should I not use my gift?"
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If I wish to hunt, why should I not?"
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I hunt the scum of the earth: sailors from tramp ships —",
+                "lassars, blacks, Chinese, whites, mongrels —",
+                "a thoroughbred horse or hound is worth more",
+                "than a score of them.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But they are men,” said Rainsford hotly."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Precisely,” said the general."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That is why I use them."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It gives me pleasure."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They can reason, after a fashion."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So they are dangerous.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But where do you get them?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general’s left eyelid fluttered",
+                "down in a wink."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This island is called Ship Trap,” he answered."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sometimes an angry god",
+                "of the high seas sends them to me."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sometimes, when Providence is not",
+                "so kind, I help Providence a bit."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Come to the window with me.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford went to the window and looked",
+                "out toward the sea."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Watch!"
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Out there!” exclaimed the general,",
+                "pointing into the night."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford’s eyes saw only blackness, and then,",
+                "as the general pressed a button, far out",
+                "to sea Rainsford saw the flash of lights."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general chuckled."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They indicate a channel,” he said, “where there’s none;",
+                "giant rocks with razor edges crouch",
+                "like a sea monster with wide-open jaws."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They can crush a ship as easily",
+                "as I crush this nut.” He dropped a walnut",
+                "on the hardwood floor and brought his heel grinding down on it."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, yes,” he said, casually, as if in answer",
+                "to a question, “I have electricity."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We try to be civilized here.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Civilized? And you shoot down men?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A trace of anger was in the general’s black eyes,",
+                "but it was there for but a second;",
+                "and he said, in his most pleasant manner,",
+                "“Dear me, what a righteous young man you are!"
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I assure you I do not do the thing you suggest."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That would be barbarous."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I treat these visitors with every consideration."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They get plenty of good food and exercise."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They get into splendid physical condition."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You shall see for yourself tomorrow.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“What do you mean?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“We’ll visit my training school,”",
+                "smiled the general."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It’s in the cellar."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I have about a dozen pupils down there now."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They’re from the Spanish bark <i>San Lucar</i>",
+                "that had the bad luck to go on the rocks out there."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A very inferior lot, I regret to say."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Poor specimens and more accustomed to the deck",
+                "than to the jungle.” He raised his hand, and Ivan,",
+                "who served as waiter, brought thick Turkish coffee."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford, with an effort,",
+                "held his tongue in check."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“It’s a game, you see,”",
+                "pursued the general blandly."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I suggest to one of them that we go hunting."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I give him a supply",
+                "of food and an excellent hunting knife."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I give him three hours’ start."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am to follow, armed only with a pistol",
+                "of the smallest caliber and range."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If my quarry eludes me",
+                "for three whole days, he wins the game."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If I find him,” the general smiled, “he loses.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Suppose he refuses to be hunted?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh,” said the general,",
+                "“I give him his option, of course."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He need not play that game if he doesn’t wish to."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If he does not wish to hunt,",
+                "I turn him over to Ivan."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ivan once had the honor of serving",
+                "as official knouter to the Great White Czar,",
+                "and he has his own ideas of sport."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Invariably, Mr. Rainsford,",
+                "invariably they choose the hunt.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And if they win?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The smile on the general’s face widened."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“To date I have not lost,” he said."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he added, hastily: “I don’t wish you",
+                "to think me a braggart, Mr. Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Many of them afford",
+                "only the most elementary sort of problem."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Occasionally I strike a tartar."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One almost did win."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I eventually had to use the dogs.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The dogs?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“This way, please. I’ll show you.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general steered Rainsford to a window."
+            ]
+        },
+        {
+            "timeflat": 8850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The lights from the windows sent a flickering illumination",
+                "that made grotesque patterns on the courtyard below,",
+                "and Rainsford could see moving about there a dozen or",
+                "so huge black shapes; as they turned",
+                "toward him, their eyes glittered greenly."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A rather good lot, I think,”",
+                "observed the general."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“They are let out at seven every night."
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If anyone should try to get into my house — or",
+                "out of it — something extremely regrettable",
+                "would occur to him.” He hummed a snatch",
+                "of song from the <i>Folies Bergere</i>."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And now,” said the general, “I want",
+                "to show you my new collection of heads."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Will you come with me to the library?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I hope,” said Rainsford,",
+                "“that you will excuse me tonight, General Zaroff."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’m really not feeling well.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ah, indeed?” the general inquired solicitously."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Well, I suppose that’s",
+                "only natural, after your long swim."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You need a good, restful night’s sleep."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Tomorrow you’ll feel like a new man, I’ll wager."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then we’ll hunt, eh?"
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’ve one rather promising prospect.” Rainsford was hurrying",
+                "from the room."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sorry you can’t go with me tonight,”",
+                "called the general."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I expect rather fair sport —",
+                "a big, strong, black."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He looks resourceful — Well, good night,",
+                "Mr. Rainsford; I hope you have a good night’s rest.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The bed was good, and the pajamas",
+                "of the softest silk, and he was tired in every fiber",
+                "of his being, but nevertheless Rainsford",
+                "could not quiet his brain with the opiate of sleep."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He lay, eyes wide open."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Once he thought he heard stealthy steps",
+                "in the corridor outside his room."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He sought to throw open the door;",
+                "it would not open."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He went to the window and looked out."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His room was high up in one of the towers."
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The lights of the chateau were out now,",
+                "and it was dark and silent; but there was a fragment",
+                "of sallow moon, and by its wan light he",
+                "could see, dimly, the courtyard."
+            ]
+        },
+        {
+            "timeflat": 5550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There, weaving in and out in the pattern",
+                "of shadow, were black, noiseless forms;",
+                "the hounds heard him at the window and looked up,",
+                "expectantly, with their green eyes."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford went back to the bed and lay down."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "By many methods he tried to put himself to sleep."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had achieved a doze when, just",
+                "as morning began to come, he heard, far off",
+                "in the jungle, the faint report of a pistol."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "General Zaroff did not appear until luncheon."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was dressed faultlessly",
+                "in the tweeds of a country squire."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was solicitous about the state",
+                "of Rainsford’s health."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“As for me,” sighed the general,",
+                "“I do not feel so well."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am worried, Mr. Rainsford."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Last night I detected traces of my old complaint.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "To Rainsford’s questioning glance the general said,",
+                "“Ennui. Boredom.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, taking a second helping",
+                "of <i>crêpes Suzette</i>, the general explained:",
+                "“The hunting was not good last night."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The fellow lost his head."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He made a straight trail",
+                "that offered no problems at all."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That’s the trouble with these sailors;",
+                "they have dull brains to begin with,",
+                "and they do not know how to get about in the woods."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They do excessively stupid and obvious things."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It’s most annoying."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Will you have another glass",
+                "of <i>Chablis</i>, Mr. Rainsford?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“General,” said Rainsford firmly,",
+                "“I wish to leave this island at once.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general raised his thickets",
+                "of eyebrows; he seemed hurt."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But, my dear fellow,” the general protested,",
+                "“you’ve only just come."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’ve had no hunting — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I wish to go today,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He saw the dead black eyes",
+                "of the general on him, studying him."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "General Zaroff’s face suddenly brightened."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He filled Rainsford’s glass",
+                "with venerable <i>Chablis</i> from a dusty bottle."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Tonight,” said the general,",
+                "“we will hunt — you and I.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford shook his head. “No,",
+                "general,” he said. “I will not hunt.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general shrugged his shoulders",
+                "and delicately ate a hothouse grape."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“As you wish, my friend,” he said."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“The choice rests entirely with you."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But may I not venture to suggest that you will find my idea",
+                "of sport more diverting than Ivan’s?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He nodded toward the corner",
+                "to where the giant stood, scowling,",
+                "his thick arms crossed on his hogshead of chest."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You don’t mean — ” cried Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My dear fellow,” said the general,",
+                "“have I not told you I always mean what I say about hunting?"
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This is really an inspiration."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I drink to a foeman worthy of my steel —",
+                "at last.” The general raised his glass,",
+                "but Rainsford sat staring at him."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’ll find this game worth playing,”",
+                "the general said enthusiastically.” Your brain against mine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your woodcraft against mine."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Your strength and stamina against mine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Outdoor chess!"
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And the stake is not without value, eh?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“And if I win — ” began Rainsford huskily."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll cheerfully acknowledge myself defeat",
+                "if I do not find you by midnight",
+                "of the third day,” said General Zaroff."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My sloop will place you on the mainland",
+                "near a town.” The general read what Rainsford was thinking."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh, you can trust me,” said the Cossack."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I will give you my word",
+                "as a gentleman and a sportsman."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of course you, in turn, must agree",
+                "to say nothing of your visit here.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll agree to nothing",
+                "of the kind,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Oh,” said the general, “in",
+                "that case — But why discuss that now?"
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Three days hence we can discuss it over a bottle",
+                "of <i>Veuve Cliquot</i>, unless — ”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general sipped his wine."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then a businesslike air animated him."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Ivan,” he said to Rainsford, “will supply you",
+                "with hunting clothes, food, a knife."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I suggest you wear moccasins;",
+                "they leave a poorer trail."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I suggest, too, that you avoid the big swamp",
+                "in the southeast corner of the island."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "We call it Death Swamp."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There’s quicksand there."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One foolish fellow tried it."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The deplorable part of it was",
+                "that Lazarus followed him."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You can imagine my feelings, Mr. Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I loved Lazarus;",
+                "he was the finest hound in my pack."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Well, I must beg you to excuse me now."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I always’ take a siesta after lunch."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’ll hardly have time for a nap, I fear."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You’ll want to start, no doubt."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I shall not follow till dusk."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Hunting at night is so much more exciting",
+                "than by day, don’t you think?"
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Au revoir, Mr. Rainsford,",
+                "au revoir.” General Zaroff, with a deep,",
+                "courtly bow, strolled from the room."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "From another door came Ivan."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Under one arm he carried khaki hunting clothes,",
+                "a haversack of food,",
+                "a leather sheath containing a long-bladed hunting knife;",
+                "his right hand rested on a cocked revolver thrust",
+                "in the crimson sash about his waist."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford had fought his way",
+                "through the bush for two hours."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I must keep my nerve."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I must keep my nerve,”",
+                "he said through tight teeth."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had not been entirely clearheaded",
+                "when the chateau gates snapped shut behind him."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His whole idea at first was to put distance",
+                "between himself and General Zaroff; and,",
+                "to this end, he had plunged along, spurred on",
+                "by the sharp rowers of something very like panic."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now he had got a grip on himself, had stopped,",
+                "and was taking stock of himself and the situation."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He saw that straight flight was futile; inevitably it",
+                "would bring him face to face with the sea."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was in a picture with a frame",
+                "of water, and his operations, clearly,",
+                "must take place within that frame."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I’ll give him a trail to follow,” muttered Rainsford,",
+                "and he struck off from the rude path he had been following",
+                "into the trackless wilderness."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He executed a series of intricate loops;",
+                "he doubled on his trail again and again,",
+                "recalling all the lore of the fox hunt,",
+                "and all the dodges of the fox."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Night found him leg-weary, with hands and face lashed",
+                "by the branches, on a thickly wooded ridge."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He knew it would be insane to blunder on",
+                "through the dark, even if he had the strength."
+            ]
+        },
+        {
+            "timeflat": 11700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His need for rest was imperative and he thought,",
+                "“I have played the fox, now I must play the cat",
+                "of the fable.” A big tree",
+                "with a thick trunk and outspread branches was near by,",
+                "and, taking care to leave not the slightest mark,",
+                "he climbed up into the crotch, and, stretching out",
+                "on one of the broad limbs, after a fashion, rested."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rest brought him new confidence and almost a feeling",
+                "of security."
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even so zealous a hunter as General Zaroff",
+                "could not trace him there, he told himself;",
+                "only the devil himself could follow",
+                "that complicated trail through the jungle after dark."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But perhaps the general was a devil —"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "An apprehensive night crawled slowly by",
+                "like a wounded snake and sleep did not visit Rainsford,",
+                "although the silence",
+                "of a dead world was on the jungle."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Toward morning when a dingy gray was varnishing the sky,",
+                "the cry of some startled bird focused Rainsford’s attention",
+                "in that direction."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Something was coming through the bush,",
+                "coming slowly, carefully, coming",
+                "by the same winding way Rainsford had come."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He flattened himself down on the limb and,",
+                "through a screen of leaves almost as thick as tapestry,",
+                "he watched… That which was approaching was a man."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was General Zaroff."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He made his way along with his eyes fixed",
+                "in utmost concentration on the ground before him."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He paused, almost beneath the tree, dropped",
+                "to his knees and studied the ground."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford’s impulse was to hurl himself",
+                "down like a panther, but he saw",
+                "that the general’s right hand held something metallic —",
+                "a small automatic pistol."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The hunter shook his head several times,",
+                "as if he were puzzled."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he straightened up and took",
+                "from his case one of his black cigarettes;",
+                "its pungent incenselike smoke floated up to Rainsford’s nostrils."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford held his breath."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general’s eyes had left the ground and were traveling inch",
+                "by inch up the tree."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford froze there,",
+                "every muscle tensed for a spring."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But the sharp eyes of the hunter stopped",
+                "before they reached the limb where Rainsford lay;",
+                "a smile spread over his brown face."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Very deliberately he blew a smoke ring into the air;",
+                "then he turned his back on the tree and walked carelessly away,",
+                "back along the trail he had come."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The swish of the underbrush",
+                "against his hunting boots grew fainter and fainter."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The pent-up air burst hotly",
+                "from Rainsford’s lungs."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His first thought made him feel sick and numb."
+            ]
+        },
+        {
+            "timeflat": 7650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general could follow a trail",
+                "through the woods at night; he",
+                "could follow an extremely difficult trail;",
+                "he must have uncanny powers; only",
+                "by the merest chance had the Cossack failed to see his quarry."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford’s second thought was even more terrible."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It sent a shudder of cold horror",
+                "through his whole being."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why had the general smiled?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why had he turned back?"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford did not want to believe",
+                "what his reason told him was true,",
+                "but the truth was as evident as the sun that had",
+                "by now pushed through the morning mists."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general was playing with him!"
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general was saving him",
+                "for another day’s sport!"
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The Cossack was the cat; he was the mouse."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then it was",
+                "that Rainsford knew the full meaning of terror."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I will not lose my nerve. I will not.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He slid down from the tree,",
+                "and struck off again into the woods."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His face was set and he forced the machinery",
+                "of his mind to function."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Three hundred yards",
+                "from his hiding place he stopped where a huge dead tree leaned precariously",
+                "on a smaller, living one."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Throwing off his sack of food,",
+                "Rainsford took his knife from its sheath and began",
+                "to work with all his energy."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The job was finished at last, and he threw himself",
+                "down behind a fallen log a hundred feet away."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He did not have to wait long."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The cat was coming again to play with the mouse."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Following the trail with the sureness",
+                "of a bloodhound came General Zaroff."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Nothing escaped those searching black eyes,",
+                "no crushed blade of grass, no bent twig,",
+                "no mark, no matter how faint, in the moss."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So intent was the Cossack",
+                "on his stalking that he was",
+                "upon the thing Rainsford had made before he saw it."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His foot touched the protruding bough",
+                "that was the trigger."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even as he touched it, the general sensed his danger and leaped back",
+                "with the agility of an ape."
+            ]
+        },
+        {
+            "timeflat": 9150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But he was not quite quick enough; the dead tree,",
+                "delicately adjusted to rest on the cut living one,",
+                "crashed down and struck the general a glancing blow",
+                "on the shoulder as it fell; but for his alertness,",
+                "he must have been smashed beneath it."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He staggered, but he did not fall;",
+                "nor did he drop his revolver."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He stood there, rubbing his injured shoulder,",
+                "and Rainsford, with fear again gripping his heart,",
+                "heard the general’s mocking laugh ring",
+                "through the jungle."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Rainsford,” called the general,",
+                "“if you are within sound of my voice,",
+                "as I suppose you are, let me congratulate you."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Not many men know how to make a Malay mancatcher."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Luckily for me I, too, have hunted in Malacca."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "You are proving interesting, Mr. Rainsford."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I am going now to have my wound dressed;",
+                "it’s only a slight one."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But I shall be back."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I shall be back.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the general, nursing his bruised shoulder,",
+                "had gone, Rainsford took up his flight again."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was flight now, a desperate, hopeless flight,",
+                "that carried him on for some hours."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Dusk came, then darkness, and still he pressed on."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The ground grew softer under his moccasins;",
+                "the vegetation grew ranker,",
+                "denser; insects bit him savagely."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, as he stepped forward,",
+                "his foot sank into the ooze."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He tried to wrench it back, but the muck sucked viciously",
+                "at his foot as if it were a giant leech."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With a violent effort, he tore his feet loose."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He knew where he was now."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Death Swamp and its quicksand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His hands were tight closed as",
+                "if his nerve were something tangible that someone",
+                "in the darkness was trying to tear from his grip."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The softness of the earth had given him an idea."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He stepped back from the quicksand a dozen feet or",
+                "so and, like some huge prehistoric beaver,",
+                "he began to dig."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford had dug himself in in France",
+                "when a second’s delay meant death."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That had been a placid pastime compared",
+                "to his digging now."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The pit grew deeper; when it was",
+                "above his shoulders, he climbed out and",
+                "from some hard saplings cut stakes and sharpened them to a fine point."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "These stakes he planted in the bottom",
+                "of the pit with the points sticking up."
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With flying fingers he wove a rough carpet",
+                "of weeds and branches and",
+                "with it he covered the mouth of the pit."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, wet with sweat and aching",
+                "with tiredness, he crouched behind the stump",
+                "of a lightning-charred tree."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He knew his pursuer was coming;",
+                "he heard the padding sound of feet on the soft earth,",
+                "and the night breeze brought him the perfume",
+                "of the general’s cigarette."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seemed to Rainsford that the general was coming",
+                "with unusual swiftness;",
+                "he was not feeling his way along, foot by foot."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford, crouching there,",
+                "could not see the general, nor could he see the pit."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He lived a year in a minute."
+            ]
+        },
+        {
+            "timeflat": 7350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he felt an impulse to cry aloud",
+                "with joy, for he heard the sharp crackle",
+                "of the breaking branches as the cover",
+                "of the pit gave way; he heard the sharp scream",
+                "of pain as the pointed stakes found their mark."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He leaped up from his place of concealment."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he cowered back."
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Three feet from the pit a man was standing,",
+                "with an electric torch in his hand."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You’ve done well, Rainsford,”",
+                "the voice of the general called."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Your Burmese tiger pit has claimed one",
+                "of my best dogs."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Again you score."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I think, Mr. Rainsford, Ill see",
+                "what you can do against my whole pack."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "I’m going home for a rest now."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Thank you for a most amusing evening.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At daybreak Rainsford, lying near the swamp,",
+                "was awakened by a sound that made him know",
+                "that he had new things to learn about fear."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was a distant sound,",
+                "faint and wavering, but he knew it."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was the baying of a pack of hounds."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford knew he could do one of two things."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could stay where he was and wait."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That was suicide."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could flee."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That was postponing the inevitable."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For a moment he stood there, thinking."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "An idea that held a wild chance came",
+                "to him, and, tightening his belt,",
+                "he headed away from the swamp."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The baying of the hounds drew nearer,",
+                "then still nearer, nearer, ever nearer."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On a ridge Rainsford climbed a tree."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Down a watercourse, not a quarter",
+                "of a mile away, he could see the bush moving."
+            ]
+        },
+        {
+            "timeflat": 11100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Straining his eyes, he saw the lean figure",
+                "of General Zaroff; just ahead of him Rainsford made",
+                "out another figure whose wide shoulders surged",
+                "through the tall jungle weeds;",
+                "it was the giant Ivan, and he seemed pulled forward",
+                "by some unseen force; Rainsford knew",
+                "that Ivan must be holding the pack in leash."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They would be on him any minute now."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His mind worked frantically."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He thought of a native trick he had learned",
+                "in Uganda."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He slid down the tree."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He caught hold of a springy young sapling and",
+                "to it he fastened his hunting knife,",
+                "with the blade pointing down the trail; with a bit",
+                "of wild grapevine he tied back the sapling."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he ran for his life."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The hounds raised their voices",
+                "as they hit the fresh scent."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford knew now how an animal at bay feels."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had to stop to get his breath."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The baying of the hounds stopped abruptly,",
+                "and Rainsford’s heart stopped too."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They must have reached the knife."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He shinned excitedly up a tree and looked back."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "His pursuers had stopped."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But the hope that was in Rainsford’s brain",
+                "when he climbed died, for he saw in the shallow valley",
+                "that General Zaroff was still on his feet."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But Ivan was not."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The knife, driven by the recoil",
+                "of the springing tree, had not wholly failed."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford had hardly tumbled to the ground",
+                "when the pack took up the cry again."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Nerve, nerve, nerve!” he panted,",
+                "as he dashed along."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A blue gap showed between the trees dead ahead."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ever nearer drew the hounds."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford forced himself on toward that gap."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He reached it."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was the shore of the sea."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Across a cove he",
+                "could see the gloomy gray stone of the chateau."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Twenty feet below him the sea rumbled and hissed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford hesitated."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He heard the hounds."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he leaped far out into the sea…"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the general and his pack reached the place",
+                "by the sea, the Cossack stopped."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For some minutes he stood",
+                "regarding the blue-green expanse of water."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He shrugged his shoulders."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then be sat down, took a drink of brandy",
+                "from a silver flask, lit a cigarette,",
+                "and hummed a bit from <i>Madame Butterfly</i>."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "General Zaroff had an exceedingly good dinner",
+                "in his great paneled dining hall that evening."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "With it he had a bottle",
+                "of <i>Pol Roger</i> and half a bottle of <i>Chambertin</i>."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Two slight annoyances kept him",
+                "from perfect enjoyment."
+            ]
+        },
+        {
+            "timeflat": 8700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One was the thought that it would be difficult",
+                "to replace Ivan; the other was",
+                "that his quarry had escaped him; of course,",
+                "the American hadn’t played the game — so thought the general",
+                "as he tasted his after-dinner liqueur."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In his library he read, to soothe himself,",
+                "from the works of Marcus Aurelius."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "At ten he went up to his bedroom."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He was deliciously tired, he said",
+                "to himself, as he locked himself in."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a little moonlight, so,",
+                "before turning on his light, he went",
+                "to the window and looked down at the courtyard."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He could see the great hounds, and he called,",
+                "“Better luck another time,” to them."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then he switched on the light."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A man, who had been hiding in the curtains",
+                "of the bed, was standing there."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Rainsford!” screamed the general."
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“How in God’s name did you get here?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Swam,” said Rainsford."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I found it quicker than walking",
+                "through the jungle.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general sucked in his breath and smiled."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I congratulate you,” he said."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“You have won the game.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Rainsford did not smile."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I am still a beast at bay,”",
+                "he said, in a low, hoarse voice."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Get ready, General Zaroff.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The general made one of his deepest bows."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I see,” he said."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Splendid!"
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "One of us is to furnish a repast for the hounds."
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The other will sleep in this very excellent bed."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On guard, Rainsford…”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had never slept in a better bed,",
+                "Rainsford decided. "
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

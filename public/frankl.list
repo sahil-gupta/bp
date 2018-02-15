@@ -1,0 +1,309 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Man’s Search for Meaning"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Viktor E. Frankl"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "part",
+            "contentflat": [
+                "Part 1: Experiences in a Concentration Camp"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This book does not claim to be an account",
+                "of facts and events but of personal experiences,",
+                "experiences which millions",
+                "of prisoners have suffered time and again."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is the inside story of a concentration camp,",
+                "told by one of its survivors."
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This tale is not concerned",
+                "with the great horrors,",
+                "which have already been described often enough (though less often believed),",
+                "but with the multitude of small torments."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In other words, it will try to answer this question:",
+                "How was everyday life in a concentration camp reflected",
+                "in the mind of the average prisoner?"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Most of the events described here did not take place",
+                "in the large and famous camps,",
+                "but in the small ones where most",
+                "of the real extermination took place."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This story is not about the suffering and death",
+                "of great heroes and martyrs, nor is it",
+                "about the prominent Capos — prisoners who acted as trustees,",
+                "having special privileges — or well-known prisoners."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Thus it is not so much concerned with the sufferings",
+                "of the mighty, but with the sacrifices,",
+                "the crucifixion and the deaths of the great army",
+                "of unknown and unrecorded victims."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was these common prisoners,",
+                "who bore no distinguishing marks",
+                "on their sleeves, whom the Capos really despised."
+            ]
+        },
+        {
+            "timeflat": 7050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "While these ordinary prisoners had little or nothing",
+                "to eat, the Capos were never hungry;",
+                "in fact many of the Capos fared better",
+                "in the camp than they had in their entire lives."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Often they were harder",
+                "on the prisoners than were the guards,",
+                "and beat them more cruelly than the SS men did."
+            ]
+        },
+        {
+            "timeflat": 8700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "These Capos, of course, were chosen only",
+                "from those prisoners whose characters promised",
+                "to make them suitable for such procedures, and",
+                "if they did not comply with what was expected",
+                "of them, they were immediately demoted."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "They soon became much",
+                "like the SS men and the camp wardens and may be judged",
+                "on a similar psychological basis."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It is easy for the outsider",
+                "to get the wrong conception of camp life,",
+                "a conception mingled with sentiment and pity."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Little does he know of the hard fight",
+                "for existence which raged among the prisoners."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This was an unrelenting struggle",
+                "for daily bread and for life itself,",
+                "for one’s own sake or for that of a good friend."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 8400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Let us take the case of a transport",
+                "which was officially announced",
+                "to transfer a certain number of prisoners",
+                "to another camp; but it was a fairly safe guess",
+                "that its final destination would be the gas chambers."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A selection of sick or feeble prisoners incapable",
+                "of work would be sent to one",
+                "of the big central camps which were fitted",
+                "with gas chambers and crematoriums."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The selection process was the signal",
+                "for a free fight among all the prisoners,",
+                "or of group against group."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "All that mattered was that one’s own name and",
+                "that of one’s friend were crossed off the list",
+                "of victims, though everyone knew that",
+                "for each man saved another victim had to be found."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A definite number of prisoners had",
+                "to go with each transport."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It did not really matter which, since each",
+                "of them was nothing but a number."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On their admission",
+                "to the camp (at least this was the method",
+                "in Auschwitz) all their documents had been taken",
+                "from them, together with their other possessions."
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Each prisoner, therefore, had had an opportunity",
+                "to claim a fictitious name or profession;",
+                "and for various reasons many did this."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The authorities were interested",
+                "only in the captives’ numbers."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "These numbers were often tattooed on their skin,",
+                "and also had to be sewn to a certain spot",
+                "on the trousers, jacket, or coat."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Any guard who wanted to make a charge against a prisoner just glanced",
+                "at his number (and how we dreaded such glances!);",
+                "he never asked for his name."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

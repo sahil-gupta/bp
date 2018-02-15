@@ -41,6 +41,14 @@ $(function() {
         $.get("bananafish.list", initapp);
     } else if (window.location.href.includes('avalon')) {
         $.get("avalon.list", initapp);
+    } else if (window.location.href.includes('jeffe')) {
+        $.get("jeffe.list", initapp);
+    } else if (window.location.href.includes('ethan')) {
+        $.get("frankl.list", initapp);
+    } else if (window.location.href.includes('jason')) {
+        $.get("dangerous.list", initapp);
+    } else if (window.location.href.includes('michael')) {
+        $.get("hemingway.list", initapp);
     } else {
         $.get("thelist.list", initapp);
     }
