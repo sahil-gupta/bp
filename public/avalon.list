@@ -1,0 +1,1491 @@
+{
+    "scenesflat": [
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "The Mists of Avalon"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "book",
+            "contentflat": [
+                "Marion Zimmer Bradley"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "chapter",
+            "contentflat": [
+                "Chapter 1"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Even in high summer, Tintagel was a haunted place;",
+                "Igraine, Lady of Duke Gorlois, looked",
+                "out over the sea from the headland."
+            ]
+        },
+        {
+            "timeflat": 5850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As she stared into the fogs and mists,",
+                "she wondered how she would ever know",
+                "when the night and day were of equal length, so",
+                "that she could keep the Feast of the New Year."
+            ]
+        },
+        {
+            "timeflat": 7950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This year the spring storms had been unusually violent;",
+                "night and day the crash",
+                "of the sea had resounded over the castle",
+                "until no man or woman within could sleep,",
+                "and even the hounds whimpered mournfully."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Tintagel… there were still those",
+                "who believed the castle had been raised,",
+                "on the crags at the far end of the long causeway",
+                "into the sea, by the magic of the ancient folk of Ys."
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Duke Gorlois laughed at this and said",
+                "that if he had any of their magic,",
+                "he would have used it to keep the sea",
+                "from encroaching, year by year, upon the shoreline."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In the four years since she had come here",
+                "as Gorlois’s bride, Igraine had seen land,",
+                "good land, crumble into the Cornish sea."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Long arms of black rock, sharp and craggy,",
+                "extended into the ocean from the coast."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "When the sun shone, it could be fair and brilliant,",
+                "the sky and water as brilliant",
+                "as the jewels Gorlois had heaped on her on the day",
+                "when she told him she bore his first child."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But Igraine had never liked wearing them."
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The jewel which hung now at her throat had been given her in Avalon:",
+                "a moonstone which sometimes reflected the blue brilliance",
+                "of sky and sea; but in the fog,",
+                "today, even the jewel looked shadowed."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In the fog, sounds carried a long way."
+            ]
+        },
+        {
+            "timeflat": 13200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It seemed to Igraine, as she stood looking",
+                "from the causeway back toward the mainland,",
+                "that she could hear footfalls",
+                "of horses and mules, and the sound of voices —",
+                "human voices, here in isolated Tintagel,",
+                "where nothing lived but goats and sheep,",
+                "and the herdsmen and their dogs, and the ladies of the castle",
+                "with a few serving women and a few old men to guard them."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Slowly, Igraine turned and went back",
+                "toward the castle."
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "As always, standing in its shadow, she felt dwarfed",
+                "by the loom of these ancient stones at the end",
+                "of the long causeway which stretched into the sea."
+            ]
+        },
+        {
+            "timeflat": 7500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The herdsmen believed that the castle had been built",
+                "by the Ancient Ones from the lost lands",
+                "of Lyonnesse and Ys; on a clear day,",
+                "so the fishermen said, their old castles",
+                "could be seen far out under the water."
+            ]
+        },
+        {
+            "timeflat": 6600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But to Igraine they looked like towers",
+                "of rock, ancient mountains and hills drowned",
+                "by the ever encroaching sea that nibbled away,",
+                "even now, at the very crags below the castle."
+            ]
+        },
+        {
+            "timeflat": 8400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Here at the end of the world, where the sea ate endlessly",
+                "at the land, it was easy to believe",
+                "in drowned lands to the west; there were tales",
+                "of a great fire mountain which had exploded, far",
+                "to the south, and engulfed a great land there."
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine never knew whether she",
+                "believed those tales or not."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Yes; surely she could hear voices in the fog."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It could not be savage raiders from",
+                "over the sea, or from the wild shores of Erin."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The time was long past when she needed",
+                "to startle at a strange sound or a shadow."
+            ]
+        },
+        {
+            "timeflat": 7650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was not her husband, the Duke; he was far away",
+                "to the North, fighting Saxons at the side",
+                "of Ambrosius Aurelianus, High King of Britain;",
+                "he would have sent word if he intended to return."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And she need not fear."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "If the riders were hostile, the guards and soldiers",
+                "in the fort at the landward end",
+                "of the causeway, stationed there by Duke Gorlois",
+                "to guard his wife and child, would have stopped them."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It would take an army to cut through them."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And who would send an army against Tintagel?"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There was a time — Igraine remembered without bitterness,",
+                "moving slowly into the castle yard-when she",
+                "would have known who rode toward her castle."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The thought held little sadness, now."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Since Morgaine’s birth she no longer even wept",
+                "for her home."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And Gorlois was kind to her."
+            ]
+        },
+        {
+            "timeflat": 8550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He had soothed her through her early fear and hatred,",
+                "had given her jewels and beautiful things,",
+                "trophies of war, had surrounded her with ladies",
+                "to wait upon her, and treated her always",
+                "as his equal, except in councils of war."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She could have asked no more,",
+                "unless she had married a man of the Tribes."
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And in this she had been given no choice."
+            ]
+        },
+        {
+            "timeflat": 14400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "A daughter of the Holy Isle must do as was best",
+                "for her people, whether it meant going to death",
+                "in sacrifice, or laying down her maidenhood",
+                "in the Sacred Marriage, or marrying where it was thought meet",
+                "to cement alliances; this Igraine had done,",
+                "marrying a Romanized Duke of Cornwall,",
+                "a citizen who lived, even though Rome was gone",
+                "from all of Britain, in Roman fashion."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She shrugged the cloak from her shoulders;",
+                "inside the court it was warmer, out of the biting wind."
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And there, as the fog swirled and cleared,",
+                "for a moment a figure stood before her, materialized",
+                "out of the fog and mist: her half-sister, Viviane,",
+                "the Lady of the Lake, the Lady of the Holy Isle."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Sister!” The words wavered,",
+                "and Igraine knew she had not cried them aloud, but",
+                "only whispered, her hands flying to her breast."
+            ]
+        },
+        {
+            "timeflat": 1050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Do I truly see you here?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The face was reproachful,",
+                "and the words seemed to blow away",
+                "in the sound of the wind beyond the walls."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "<i>Have you given up the Sight,",
+                "Igraine?</i> <i>Of your free will?</i>"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Stung by the injustice of that, Igraine retorted, “It was you",
+                "who decreed that I must marry Gorlois…” but the form",
+                "of her sister had wavered into shadows,",
+                "was not there, had never been there."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine blinked; the brief apparition was gone."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She pulled the cloak around her body, for she was cold,",
+                "ice cold; she knew the vision had drawn its force",
+                "from the warmth and life of her own body."
+            ]
+        },
+        {
+            "timeflat": 7950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She thought, <i>I didn’t know I",
+                "could still see in that way, I was sure I",
+                "could not.</i> And then she shivered, knowing",
+                "that Father Columba would consider this the work",
+                "of the Devil, and she should confess it to him."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "True, here at the end of the world the priests were lax,",
+                "but an unconfessed vision",
+                "would surely be treated as a thing unholy."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She frowned; why should she treat a visit",
+                "from her own sister as the work of the Devil?"
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Father Columba could say what he wished;",
+                "perhaps his God was wiser than he was."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Which, Igraine thought, suppressing a giggle,",
+                "would not be very difficult."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Perhaps Father Columba had become a priest",
+                "of Christ because no college of Druids",
+                "would have had a man so stupid among their ranks."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The Christ God seemed not",
+                "to care whether a priest was stupid or not, so long as he",
+                "could mumble their mass, and read and write a little."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She, Igraine herself,",
+                "had more clerkly skills than Father Columba,",
+                "and spoke better Latin when she wished."
+            ]
+        },
+        {
+            "timeflat": 10200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine did not think of herself",
+                "as well educated; she had not had the hardihood",
+                "to study the deeper wisdom of the Old Religion,",
+                "or to go into the Mysteries any further",
+                "than was absolutely necessary for a daughter of the Holy Isle."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Nevertheless, although she was ignorant",
+                "in any Temple of the Mysteries, she could pass",
+                "among the Romanized barbarians as a well-educated lady."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 11100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "In the small room off the court where there was sun",
+                "on fine days, her younger sister, Morgause,",
+                "thirteen years old and budding, wearing a loose house robe",
+                "of undyed wool and her old frowsy cloak",
+                "about her shoulders, was spinning listlessly",
+                "with a drop spindle, taking",
+                "up her uneven yarn on a wobbly reel."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "On the floor by the fire,",
+                "Morgaine was rolling an old spindle around for a ball,",
+                "watching the erratic patterns the uneven cylinder made,",
+                "knocking it this way and that with chubby fingers."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Haven’t I done enough",
+                "spinning?” Morgause complained."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My fingers ache!"
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Why must I spin, spin, spin all the time,",
+                "as if I were a waiting-woman?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Every lady must learn to spin,”",
+                "rebuked Igraine as she knew she ought to do,",
+                "“and your thread is a disgrace, now thick,",
+                "now thin… Your fingers will lose their weariness",
+                "as you accustom them to the work."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Aching fingers are a sign that you have been lazy,",
+                "since they are not hardened to their task.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She took the reel and spindle from Morgause and twirled it",
+                "with careless ease; the uneven yarn,",
+                "under her experienced fingers, smoothed out",
+                "into a thread of perfectly even thickness."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Look, one could weave this yarn",
+                "without snagging the shuttle…” and suddenly she tired",
+                "of behaving as she ought."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“But you may put the spindle away now;",
+                "guests will be here before midafternoon.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Morgause stared at her."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“I heard nothing,” she said,",
+                "“nor any rider with a message!”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“That does not surprise me,”",
+                "Igraine said, “for there was no rider."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "It was a Sending."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Viviane is upon her way here,",
+                "and the Merlin is with her.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She had not known that last until she said it."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“So you may take Morgaine to her nurse,",
+                "and go and put on your holiday robe,",
+                "the one dyed with saffron.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Morgause put away the spindle with alacrity,",
+                "but paused to stare at Igraine."
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“My saffron gown?"
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For my sister?”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine corrected her, sharply."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Not for our sister, Morgause, but",
+                "for the Lady of the Holy Isle, and",
+                "for the Messenger of the Gods.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Morgause looked down at the patterned floor."
+            ]
+        },
+        {
+            "timeflat": 10950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She was a tall, sturdy girl, just beginning",
+                "to lengthen and ripen into womanhood;",
+                "her thick hair was reddish like Igraine’s own,",
+                "and there were splotches of freckles on her skin,",
+                "no matter how carefully she soaked it",
+                "in buttermilk and begged the herbwife for washes and simples for it."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Already at thirteen she was as tall",
+                "as Igraine, and someday would be taller."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She picked up Morgaine",
+                "with an ill grace and carried her away."
+            ]
+        },
+        {
+            "timeflat": 4800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine called after her, “Tell Nurse",
+                "to put a holiday gown on the child,",
+                "and then you may bring her down; Viviane has not seen her.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Morgause said something ill-tempered to the effect",
+                "that she didn’t see why a great priestess would want",
+                "to see a brat, but she said it under her breath",
+                "so that Igraine had an excuse to ignore it."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 3750,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Up the narrow stairs, her own chamber was cold;",
+                "no fires were lighted there",
+                "except in the dead of winter."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "While Gorlois was away, she shared the bed",
+                "with her waiting-woman Gwennis,",
+                "and his prolonged absence gave her an excuse",
+                "to have Morgaine in her bed at night."
+            ]
+        },
+        {
+            "timeflat": 3150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Sometimes Morgause slept there too,",
+                "sharing the fur coverlets against the bitter cold."
+            ]
+        },
+        {
+            "timeflat": 4050,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The big marriage bed, canopied,",
+                "curtained against draughts, was more",
+                "than big enough for three women and a child."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 9300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Gwen, who was old, was drowsing in a corner, and Igraine forbore",
+                "to wake her, stripping off her workaday dress",
+                "of undyed wool and hurrying on her fine gown, laced",
+                "at the neck with a silk ribbon Gorlois had brought her",
+                "as a fairing from Londinium."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She put on her fingers some little silver rings she had had",
+                "since she was a little girl… they",
+                "would go only on her two smallest fingers,",
+                "now… and hung a necklace of amber",
+                "which Gorlois had given her about her neck."
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The gown was dyed rust color,",
+                "and had an overtunic of green."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She found her carven horn comb, and began",
+                "to pull it through her hair, sitting",
+                "on a bench and working her comb patiently through the tangles."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "From another room she heard a loud yelling and decided",
+                "that Morgaine was having her hair combed",
+                "by her nurse and didn’t like it."
+            ]
+        },
+        {
+            "timeflat": 9000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The yelling stopped suddenly, and she supposed",
+                "that Morgaine had been slapped into silence;",
+                "or perhaps, as sometimes happened when Morgause was",
+                "in a good temper, Morgause had taken",
+                "over the combing herself, with her clever, patient fingers."
+            ]
+        },
+        {
+            "timeflat": 6450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "This was how Igraine knew that her young sister",
+                "could spin well enough when she chose, her hands were",
+                "so clever at everything else-at combing,",
+                "at carding, at making Yule pies."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine braided her hair, clasped it",
+                "on top of her head with a gold clasp,",
+                "and put her good gold brooch into the fold of her cloak."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She looked at herself",
+                "in the old bronze mirror her sister Viviane had given her",
+                "at her wedding, brought, they said, all the way from Rome."
+            ]
+        },
+        {
+            "timeflat": 6150,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She knew, lacing her gown,",
+                "that her breasts were once again as they had been before:",
+                "Morgaine had been weaned a year now,",
+                "and they were only a little softer and heavier."
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She knew she had her old slimness back,",
+                "for she had been married in this gown,",
+                "and now the laces were not strained even a little."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2550,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Gorlois, when he returned, would expect",
+                "to take her to his bed again."
+            ]
+        },
+        {
+            "timeflat": 7200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Last time he had seen her, Morgaine had still been",
+                "at the breast, and he had yielded",
+                "to her plea that she might continue",
+                "to suckle the child through the summer season",
+                "when so many little children died."
+            ]
+        },
+        {
+            "timeflat": 10200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She knew he was discontented",
+                "because the baby had not been the son he craved-these Romans counted their lineage",
+                "through the male line, rather than sensibly",
+                "through the mother; it was silly,",
+                "for how could any man ever know precisely",
+                "who had fathered any woman’s child?"
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Of course, these Romans made a great matter",
+                "of worrying over who lay with their women,",
+                "and locked them up and spied on them."
+            ]
+        },
+        {
+            "timeflat": 3450,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Not that Igraine needed watching; one man was bad enough,",
+                "who would want others who might be worse?"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 10200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But even though he was eager for a son,",
+                "Gorlois had been indulgent, letting her have Morgaine",
+                "in her bed and continue to suckle her,",
+                "even keeping away from her and lying nights",
+                "with her dressing-woman Ettarr so that she",
+                "would not get with child again and lose her milk."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He too knew how many children died if they were weaned",
+                "before they could chew meat and hard bread."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Children fed on gruel were sickly,",
+                "and often there was no goat’s milk",
+                "in the summer, even if they would drink it."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Children fed on cow’s or mare’s milk often got the vomit and died,",
+                "or suffered with the flux",
+                "in their bowels and died."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "So he had left Morgaine at her breast,",
+                "thus postponing the son he wanted",
+                "for at least another year and a half."
+            ]
+        },
+        {
+            "timeflat": 4200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "For that at least she would always be grateful",
+                "to him, and not murmur,",
+                "however quickly he got her with child now."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Ettarr had gotten herself a belly from that visit,",
+                "and gone about preening herself; would she be the one",
+                "to have a son by the Duke of Cornwall?"
+            ]
+        },
+        {
+            "timeflat": 4650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine had ignored the girl;",
+                "Gorlois had other bastard sons, one of whom was",
+                "with him now, in the camp of the war duke, Uther."
+            ]
+        },
+        {
+            "timeflat": 5100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But Ettarr had fallen sick and miscarried,",
+                "and Igraine had enough intuition not",
+                "to ask Gwen why she looked so pleased at the event."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Old Gwen knew too much of herbs",
+                "for Igraine’s perfect peace of mind."
+            ]
+        },
+        {
+            "timeflat": 3600,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Some day, she resolved, I will make her tell me exactly",
+                "what she put into Ettarr’s beer."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She went down to the kitchen,",
+                "her long skirts trailing on the stone steps."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Morgause was there, in her finest gown,",
+                "and she had put Morgaine into a holiday dress,",
+                "dyed saffron, so that the child looked dark as a Pict."
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Igraine picked her up, holding her with pleasure."
+            ]
+        },
+        {
+            "timeflat": 3000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Small, dark, delicately made, so small-boned it was",
+                "like handling a little soft bird."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "How had that child come by her looks?"
+            ]
+        },
+        {
+            "timeflat": 13950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She herself and Morgause were tall and red-haired,",
+                "earth-colored like all of the Tribeswomen, and Gorlois,",
+                "though dark, was Roman, tall and lean and aquiline;",
+                "hardened from years of battle against the Saxons,",
+                "too filled with his Roman dignity",
+                "to show much tenderness to a young wife, and",
+                "with nothing but indifference for the daughter who came",
+                "in the place of the son she should have borne him."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But, Igraine reminded herself,",
+                "these Roman men considered it their divine right",
+                "to have power of life and death over their children."
+            ]
+        },
+        {
+            "timeflat": 5250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "There were many, Christians or no, who",
+                "would have demanded that a daughter not be reared,",
+                "so that their wives might be free",
+                "at once to give them a son."
+            ]
+        },
+        {
+            "timeflat": 2250,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Gorlois had been good to her,",
+                "he had let her keep her daughter."
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Perhaps, though she did not give him credit",
+                "for much imagination, he knew how she,",
+                "a woman of the Tribes, felt about a daughter."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 10950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "While she was giving orders for the entertainment",
+                "of guests, for wine to be brought up",
+                "from the cellars and for the roasting",
+                "of meat-not rabbit, but good mutton",
+                "from the last slaughtering-she heard the squawk and flutter",
+                "of frightened hens in the court and knew",
+                "that the riders had come across the causeway."
+            ]
+        },
+        {
+            "timeflat": 3900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "The servants looked frightened, but most",
+                "of them had become resigned to the knowledge",
+                "that the mistress had the Sight."
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She had pretended it,",
+                "using clever guesses and a few tricks; it was just",
+                "as well that they should remain in awe of her."
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now she thought, Maybe Viviane is right,",
+                "maybe I still have it."
+            ]
+        },
+        {
+            "timeflat": 4350,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Maybe I only believed it was gone-because",
+                "in those months before Morgaine was born,",
+                "I felt so weak and powerless."
+            ]
+        },
+        {
+            "timeflat": 1200,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Now I have come back to myself."
+            ]
+        },
+        {
+            "timeflat": 3300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "My mother was a great priestess till the day",
+                "of her death, though she bore sev- eral children."
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 7800,
+            "typeflat": "sentence",
+            "contentflat": [
+                "But, her mind answered her,",
+                "her mother had borne those children in freedom,",
+                "as a Tribeswoman should, to such fathers",
+                "as she chose, not as a slave to some Roman",
+                "whose customs gave him power over women and children."
+            ]
+        },
+        {
+            "timeflat": 5700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Impatiently, she dismissed such thoughts;",
+                "did it matter whether she had the Sight or",
+                "only seemed to have it,",
+                "if it kept her servants properly in order?"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 6900,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She went slowly out to the courtyard,",
+                "which Gorlois still liked to call the atrium,",
+                "though it was nothing like the villa where he had lived",
+                "until Ambrosius made him Duke of Cornwall."
+            ]
+        },
+        {
+            "timeflat": 8100,
+            "typeflat": "sentence",
+            "contentflat": [
+                "She found the riders dismounting, and her eyes went",
+                "at once to the only woman among them,",
+                "a woman smaller than herself and no longer young,",
+                "wearing a man’s tunic and woolen breeches,",
+                "and muffled in cloaks and shawls."
+            ]
+        },
+        {
+            "timeflat": 6000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Across the courtyard their eyes met in welcome,",
+                "but Igraine went dutifully and bent",
+                "before the tall, slender old man",
+                "who was dismounting from a raw-boned mule."
+            ]
+        },
+        {
+            "timeflat": 2700,
+            "typeflat": "sentence",
+            "contentflat": [
+                "He wore the blue robes of a bard,",
+                "and a harp was slung across his shoulder."
+            ]
+        },
+        {
+            "timeflat": 2000,
+            "typeflat": "fadetoblack",
+            "contentflat": [
+                ""
+            ]
+        }
+    ]
+}

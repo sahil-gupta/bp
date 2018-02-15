@@ -20,6 +20,8 @@
         html, body {
             height: 100%;
             margin: 0;
+            /*background: #0077f7;*/
+            background: white;
         }
         #grandparent {
             height: 100%;
@@ -46,6 +48,7 @@
             /*font-family: 'Caveat', serif;*/
             font-family: 'Cormorant Garamond', serif;
             /*font-family: 'Source Sans Pro', serif;*/
+
             text-shadow: 0px 0px 1px hsla(0, 0%, 30%, .5);
 
             -webkit-transform-style: preserve-3d;
@@ -55,30 +58,32 @@
         }
         #bigtext span {
             margin: 10px 0 10px 0;
+            /*color: white;*/
+            color: black;
         }
         .bold {
             font-weight: bold;
         }
 
         .snackbar {
+            display: flex;
+            flex-flow: row wrap;
+
             opacity: 1;
             background-color: #ddd;
             color: #fff;
-            text-align: center;
             border-radius: 2px;
-            padding: 16px;
             position: fixed;
             z-index: 1;
             bottom: 30px;
+
+            width: 94vw;
+            margin: 0;
+            left: 3vw;
         }
-        .snackbar.center {
-            min-width: 250px;
-            margin-left: -125px;
-            left: 50%;
-        }
-        .snackbar.right {
-            min-width: 100px;
-            right: 3%;
+        .snackbar p {
+            width: 94vw;
+            margin: 0;
         }
     </style>
 </head>
@@ -92,7 +97,10 @@
             </div>
         </div>
     </div>
-    <div class="snackbar center">
+    <div class="snackbar">
+        <p>
+            <input class="mdl-slider mdl-js-slider" type="range" id="progress" min="0" max="100" value="5" step="1">
+        </p>
 
         <label class="mdl-icon-toggle mdl-js-icon-toggle mdl-js-ripple-effect">
           <input type="button" class="replay5 mdl-icon-toggle__input">
@@ -113,11 +121,10 @@
           <input type="checkbox" class="fontcap mdl-switch__input">
         </label> -->
 
+        <input class="mdl-slider mdl-js-slider" type="range" id="slider"
+        min=".5" max="2" value=".83" step=".05">
 
     </div>
-    <div class="snackbar right">
-            <input class="mdl-slider mdl-js-slider" type="range" id="slider"
-            min=".5" max="2" value=".83" step=".05">
-    </div>
+
 </body>
 </html>

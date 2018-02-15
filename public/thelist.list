@@ -400,10 +400,23 @@
             ]
         },
         {
-            "timeflat": 2850,
+            "timeflat": 1500,
             "typeflat": "sentence",
             "contentflat": [
-                "“Ten billion years isn’t forever.”",
+                "“Ten billion years isn’t forever.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1350,
+            "typeflat": "sentence",
+            "contentflat": [
                 "“Well, it will last our time, won’t it?”"
             ]
         },
@@ -1040,7 +1053,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]
@@ -1131,7 +1144,7 @@
             "timeflat": 2250,
             "typeflat": "sentence",
             "contentflat": [
-                "“Quiet, children.” said Jerrodine sharply.",
+                "“Quiet, children,” said Jerrodine sharply.",
                 "“Are you sure, Jerrodd?”"
             ]
         },
@@ -1174,13 +1187,25 @@
             ]
         },
         {
-            "timeflat": 14250,
+            "timeflat": 3750,
             "typeflat": "sentence",
             "contentflat": [
                 "Jerrodd scarcely knew a thing about the thick rod",
-                "of metal except that it was called a Microvac,",
-                "that one asked it questions if one wished;",
-                "that if one did not it still had its task",
+                "of metal except that it was called a Microvac."
+            ]
+        },
+        {
+            "timeflat": 1650,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That one asked it questions if one wished."
+            ]
+        },
+        {
+            "timeflat": 8850,
+            "typeflat": "sentence",
+            "contentflat": [
+                "That if one did not, it still had its task",
                 "of guiding the ship to a preordered destination;",
                 "of feeding on energies",
                 "from the various Sub-galactic Power Stations;",
@@ -1278,14 +1303,40 @@
             ]
         },
         {
-            "timeflat": 10650,
+            "timeflat": 3450,
             "typeflat": "sentence",
             "contentflat": [
                 "Good Lord, our great-grandchildren will be looking",
-                "for new worlds because X-23 will be overcrowded.” Then,",
-                "after a reflective pause, “I tell you,",
+                "for new worlds because X-23 will be overcrowded.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 5400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Then, after a reflective pause, “I tell you,",
                 "it’s a lucky thing the computers worked",
-                "out interstellar travel the way the race is growing.”",
+                "out interstellar travel the way the race is growing.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
+            "typeflat": "sentence",
+            "contentflat": [
                 "“I know, I know,” said Jerrodine miserably."
             ]
         },
@@ -1384,14 +1435,20 @@
             ]
         },
         {
-            "timeflat": 13650,
+            "timeflat": 7350,
             "typeflat": "sentence",
             "contentflat": [
                 "Jerrodd felt uplifted, as he always did when he thought",
                 "that his own personal Microvac was many times more complicated",
                 "than the ancient and primitive Multivac",
-                "that had first tamed the Sun, and almost",
-                "as complicated as Earth’s Planetarv AC (the largest)",
+                "that had first tamed the Sun."
+            ]
+        },
+        {
+            "timeflat": 6300,
+            "typeflat": "sentence",
+            "contentflat": [
+                "And almost as complicated as Earth’s Planetarv AC (the largest)",
                 "that had first solved the problem",
                 "of hyperspatial travel and had made trips",
                 "to the stars possible."
@@ -1516,25 +1573,31 @@
             ]
         },
         {
-            "timeflat": 1200,
+            "timeflat": 1350,
             "typeflat": "sentence",
             "contentflat": [
-                "“The stars are the power-units."
+                "“The stars are the power-units, dear."
             ]
         },
         {
-            "timeflat": 1000,
+            "timeflat": 1800,
             "typeflat": "sentence",
             "contentflat": [
-                "dear."
+                "Once they’re gone, there are no more power-units.”"
             ]
         },
         {
-            "timeflat": 3300,
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
             "typeflat": "sentence",
             "contentflat": [
-                "Once they’re gone, there are no more power-units.” Jerrodette I",
-                "at once set up a howl."
+                "Jerrodette I at once set up a howl."
             ]
         },
         {
@@ -1545,11 +1608,25 @@
             ]
         },
         {
-            "timeflat": 3450,
+            "timeflat": 1050,
             "typeflat": "sentence",
             "contentflat": [
-                "Don’t let the stars run down.” “Now look",
-                "what you’ve done,” whispered Jerrodine, exasperated."
+                "Don’t let the stars run down.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2400,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Now look what you’ve done,”",
+                "whispered Jerrodine, exasperated."
             ]
         },
         {
@@ -1583,18 +1660,25 @@
             ]
         },
         {
-            "timeflat": 1050,
+            "timeflat": 1950,
             "typeflat": "sentence",
             "contentflat": [
-                "“Go ahead,” said Jerrodine."
+                "“Go ahead,” said Jerrodine.",
+                "“It will quiet them down.”"
             ]
         },
         {
-            "timeflat": 2700,
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1800,
             "typeflat": "sentence",
             "contentflat": [
-                "“It will quiet them down.” (Jerrodette II was beginning",
-                "to cry, also.)"
+                "(Jerrodette II was beginning to cry, also.)"
             ]
         },
         {
@@ -1680,10 +1764,24 @@
             ]
         },
         {
-            "timeflat": 5700,
+            "timeflat": 1200,
             "typeflat": "sentence",
             "contentflat": [
-                "We’ll be in our new home soon.” Jerrodd read the words",
+                "We’ll be in our new home soon.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4500,
+            "typeflat": "sentence",
+            "contentflat": [
+                "Jerrodd read the words",
                 "on the cellufilm again before destroying it:",
                 "INSUFICIENT DATA FOR MEANINGFUL ANSWER."
             ]
@@ -1705,7 +1803,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]
@@ -1779,11 +1877,24 @@
             ]
         },
         {
-            "timeflat": 5850,
+            "timeflat": 3750,
             "typeflat": "sentence",
             "contentflat": [
                 "“Still,” said VJ-23X, “I hesitate",
-                "to submit a pessimistic report to the Galactic Council.”",
+                "to submit a pessimistic report to the Galactic Council.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 2100,
+            "typeflat": "sentence",
+            "contentflat": [
                 "“I wouldn’t consider any other kind of report."
             ]
         },
@@ -1923,13 +2034,27 @@
             ]
         },
         {
-            "timeflat": 7800,
+            "timeflat": 5850,
             "typeflat": "sentence",
             "contentflat": [
                 "The Galactic AC has solved many problems for us, but",
                 "in solving the problem of preventing old age and death,",
-                "it has undone all its other solutions.”",
-                "“Yet you wouldn’t want to abandon life, I suppose.”"
+                "it has undone all its other solutions.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“Yet you wouldn’t want",
+                "to abandon life, I suppose.”"
             ]
         },
         {
@@ -2064,12 +2189,26 @@
             ]
         },
         {
-            "timeflat": 5700,
+            "timeflat": 4950,
             "typeflat": "sentence",
             "contentflat": [
                 "I wonder how many sunpower units it will take",
-                "to move Galaxies of individuals from one Galaxy",
-                "to the next.” “A very good point."
+                "to move Galaxies of individuals",
+                "from one Galaxy to the next.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1000,
+            "typeflat": "sentence",
+            "contentflat": [
+                "“A very good point."
             ]
         },
         {
@@ -2193,13 +2332,26 @@
             ]
         },
         {
-            "timeflat": 6300,
+            "timeflat": 1350,
             "typeflat": "sentence",
             "contentflat": [
-                "We ought to ask the Galactic AC.” VJ-23X was not really serious,",
+                "We ought to ask the Galactic AC.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 4950,
+            "typeflat": "sentence",
+            "contentflat": [
+                "VJ-23X was not really serious,",
                 "but MQ-17J pulled out his AC-contact",
-                "from his pocket and placed it",
-                "on the table before him."
+                "from his pocket and placed it on the table before him."
             ]
         },
         {
@@ -2347,10 +2499,23 @@
             ]
         },
         {
-            "timeflat": 3300,
+            "timeflat": 1800,
             "typeflat": "sentence",
             "contentflat": [
-                "You can’t turn smoke and ash back into a tree.”",
+                "You can’t turn smoke and ash back into a tree.”"
+            ]
+        },
+        {
+            "timeflat": 100,
+            "typeflat": "p",
+            "contentflat": [
+                ""
+            ]
+        },
+        {
+            "timeflat": 1500,
+            "typeflat": "sentence",
+            "contentflat": [
                 "“Do you have trees on your world?” asked MQ-17J."
             ]
         },
@@ -2417,7 +2582,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]
@@ -3184,7 +3349,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]
@@ -3563,7 +3728,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]
@@ -3680,7 +3845,7 @@
         },
         {
             "timeflat": 1000,
-            "typeflat": "pbreak",
+            "typeflat": "section",
             "contentflat": [
                 "—"
             ]

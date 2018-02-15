@@ -1,7 +1,7 @@
 // node codehtml.js
 // turns html into json
 
-const FILEIN = './originals/JDS.html';
+const FILEIN = './originals/MA.html';
 const FILEOUT = './temp.json';
 
 var fs = require('fs');
@@ -69,8 +69,8 @@ function cleanTag(line) {
 }
 
 function isOpenTag(line) {
-    // ignore i tags
-    if (line === '<i>')
+    // ignore i tags, or long lines with itags mistaken for tags
+    if (line === '<i>' || line.length > 20)
         return false;
 
     return (line[0] === '<' && line[line.length-1] === '>' && line[1] !== '/');

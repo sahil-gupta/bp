@@ -16,8 +16,8 @@ var masterAnimateOutTime = ORIGINAANIMATEOUTTIME * masterSpeedup;
 const RATIOBIG = 1/10;
 const RATIOSMALL = 1/20;
 
-const OPACITYIN = .5;
-const OPACITYOUT = .5;
+const OPACITYIN = .1;
+const OPACITYOUT = .1;
 
 const CONTROLSVISIBLE = 3000;
 
@@ -39,6 +39,8 @@ $(function() {
         $.get("tagore.list", initapp);
     } else if (window.location.href.includes('guavocado')) {
         $.get("bananafish.list", initapp);
+    } else if (window.location.href.includes('avalon')) {
+        $.get("avalon.list", initapp);
     } else {
         $.get("thelist.list", initapp);
     }

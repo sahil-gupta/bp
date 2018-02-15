@@ -2,7 +2,7 @@
 // turns json into list
 
 const FILEIN = './temp.json';
-const FILEOUT = './public/bananafish.list';
+const FILEOUT = './public/avalon.list';
 
 var fs = require('fs');
 var syllable = require('syllable');
