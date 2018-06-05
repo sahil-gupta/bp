@@ -1,7 +1,7 @@
 // node codehtml.js
 // turns html into json
 
-const FILEIN = './originals/EH.html';
+const FILEIN = './originals/article.html';
 const FILEOUT = './temp.json';
 
 var fs = require('fs');

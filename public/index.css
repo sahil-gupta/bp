@@ -1,0 +1,70 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background: black;
+    /*background: #fafafa;*/
+}
+#grandparent {
+    height: 100%;
+    padding: 0;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    line-height: normal;
+}
+#parent {
+    width: calc(70vh * 16/9); /* screen ratio */
+    padding-left: 20px;
+    padding-right: 20px;
+
+    -webkit-perspective: 500px;
+    perspective: 500px;
+}
+#bigtext {
+    /*font-family: 'Caveat', serif;*/
+    /*font-family: 'Cormorant Garamond', serif;*/
+    /*font-family: 'Source Sans Pro', serif;*/
+    font-family: 'Spectral', serif;
+    font-weight: 300;
+
+    text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+
+    /*transition-timing-function: linear;*/
+}
+#bigtext span {
+    margin: 10px 0 10px 0;
+    color: white;
+    /*color: black;*/
+}
+.bold {
+    font-weight: bold;
+}
+
+.snackbar {
+    display: flex;
+    flex-flow: row wrap;
+
+    opacity: 1;
+    background-color: #ddd;
+    color: #fff;
+    border-radius: 2px;
+    position: fixed;
+    z-index: 1;
+    bottom: 30px;
+
+    width: 94vw;
+    margin: 0;
+    left: 3vw;
+}
+.snackbar p {
+    width: 94vw;
+    margin: 0;
+}

@@ -2,7 +2,7 @@
 // turns json into list
 
 const FILEIN = './temp.json';
-const FILEOUT = './public/hemingway.list';
+const FILEOUT = './public/article.list';
 
 var fs = require('fs');
 var syllable = require('syllable');

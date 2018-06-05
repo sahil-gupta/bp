@@ -5,6 +5,7 @@ const path = require('path');
 app.set('port', (process.env.PORT || 3000));
 
 app.use(express.static('public'));
+app.use('/node_modules', express.static(__dirname + '/node_modules'));
 
 var nicepath = path.join(__dirname + '/index.html');
 app.get('/', (req, res) => { res.sendFile(nicepath) });
@@ -16,11 +17,9 @@ app.get('/sam', (req, res) => { res.sendFile(nicepath) });
 app.get('/noah', (req, res) => { res.sendFile(nicepath) });
 app.get('/shreyas', (req, res) => { res.sendFile(nicepath) });
 app.get('/guavocado', (req, res) => { res.sendFile(nicepath) });
-app.get('/avalon', (req, res) => { res.sendFile(nicepath) });
 app.get('/jeffe', (req, res) => { res.sendFile(nicepath) });
-app.get('/ethan', (req, res) => { res.sendFile(nicepath) });
-app.get('/jason', (req, res) => { res.sendFile(nicepath) });
 app.get('/michael', (req, res) => { res.sendFile(nicepath) });
+app.get('/article', (req, res) => { res.sendFile(nicepath) });
 
 app.listen(app.get('port'), function() {
   console.log('Node app is running on port', app.get('port'));
