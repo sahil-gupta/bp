@@ -1,3 +1,5 @@
-# bookplay v0
+# Bookplay v0
 
-npm start
+Turn books into films
+
+`npm start`
